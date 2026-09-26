@@ -17,8 +17,8 @@ import sys
 import numpy as np
 import pandas as pd
 
-TRENDS_CSV    = "trends_raw_extended.csv"
-SENTIMENT_CSV = "sentiment_features.csv"
+TRENDS_CSV    = "data/trends_raw_extended.csv"
+SENTIMENT_CSV = "data/sentiment_features.csv"
 OUT_CSV       = "feature_matrix.csv"
 
 TOP_PCT = 0.80            # top-20% label threshold, per region

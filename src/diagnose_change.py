@@ -38,7 +38,7 @@ from sklearn.preprocessing import StandardScaler
 
 warnings.filterwarnings("ignore")
 
-IN_CSV = "feature_matrix.csv"
+IN_CSV = "data/feature_matrix.csv"
 OUT_CSV = "diagnosis_results.csv"
 
 ORIGINAL_SA_TOPICS = ["weather", "Ramadan", "World Cup"]

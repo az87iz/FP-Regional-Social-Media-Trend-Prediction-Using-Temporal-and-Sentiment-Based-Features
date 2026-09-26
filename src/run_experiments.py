@@ -44,10 +44,10 @@ try:
 except ImportError:
     HAVE_XGB = False
 
-IN_CSV      = "feature_matrix.csv"
-OUT_CSV     = "experiment_results.csv"
-REGION_CSV  = "experiment_results_by_region.csv"
-PRED_CSV    = "experiment_predictions.csv"
+IN_CSV      = "data/feature_matrix.csv"
+OUT_CSV     = "results/experiment_results.csv"
+REGION_CSV  = "results/experiment_results_by_region.csv"
+PRED_CSV    = "results/experiment_predictions.csv"
 
 N_FOLDS   = 5
 MIN_TRAIN = 0.35     # first fold trains on at least this share of weeks

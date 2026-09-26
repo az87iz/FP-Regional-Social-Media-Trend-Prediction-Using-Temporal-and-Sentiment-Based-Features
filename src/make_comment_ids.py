@@ -29,7 +29,7 @@ size_mb = os.path.getsize("data/comment_ids.csv") / 1e6
 if size_mb > 24:
     ids.to_csv("data/comment_ids.csv.gz", index=False, compression="gzip")
     os.remove("data/comment_ids.csv")
-    out, size_mb = "data/comment_ids.csv.gz", os.path.getsize("comment_ids.csv.gz") / 1e6
+    out, size_mb = "data/comment_ids.csv.gz", os.path.getsize("data/comment_ids.csv.gz") / 1e6
 else:
     out = "data/comment_ids.csv"
 

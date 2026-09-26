@@ -74,7 +74,7 @@ def confusion_panel(frames, fname="prototype/output/sentiment_confusion.png"):
     plt.close(fig)
 
 
-def comparison_bar(summary, fname="figures/output/sentiment_accuracy.png"):
+def comparison_bar(summary, fname="prototype/output/sentiment_accuracy.png"):
     long = summary.melt(id_vars="model", value_vars=["accuracy", "macro_f1"],
                         var_name="metric", value_name="score")
     fig, ax = plt.subplots(figsize=(8, 4.5))

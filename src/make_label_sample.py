@@ -24,9 +24,9 @@ gives a rough lower bound on how many Saudi-channel comments come from the
 region.
 
 Usage:
-    python make_label_sample.py
+    python src/make_label_sample.py
     (fill in label for every row and looks_saudi for SA rows)
-    python score_labels.py
+    python src/score_labels.py
 """
 
 import os

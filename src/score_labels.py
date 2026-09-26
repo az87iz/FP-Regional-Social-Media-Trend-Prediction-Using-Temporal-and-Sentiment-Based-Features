@@ -17,10 +17,10 @@ import sys
 import numpy as np
 import pandas as pd
 
-SAMPLE_CSV  = "label_sample.csv"
-ANSWERS_CSV = "label_answers.csv"
-OUT_CSV     = "validation_results.csv"
-CM_CSV      = "confusion_matrices.csv"
+SAMPLE_CSV  = "data/labels/label_sample.csv"
+ANSWERS_CSV = "data/labels/label_answers.csv"
+OUT_CSV     = "results/validation_results.csv"
+CM_CSV      = "results/confusion_matrices.csv"
 
 # accuracy on the UMSAB tweets from the prototype, for comparison
 UMSAB = {"SA": 0.670, "US": 0.732}

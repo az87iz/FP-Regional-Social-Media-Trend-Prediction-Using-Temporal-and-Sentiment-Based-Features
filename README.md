@@ -23,8 +23,10 @@ models/       trained Saudi and US models
 figures/      every figure used in the report
 ```
 
-Run the scripts from the repository root. File paths are set relative to the
-repository root, and output folders are created when needed.
+Run the scripts from the repository root, for example
+`python src/build_matrix.py`. File paths are set relative to the root.
+All output folders are already in the repository except `data/raw/`,
+which needs to be created before running the collection scripts.
 
 ## Pipeline
 

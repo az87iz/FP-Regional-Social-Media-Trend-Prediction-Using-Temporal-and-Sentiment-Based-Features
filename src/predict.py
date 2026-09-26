@@ -30,7 +30,7 @@ try:
 except ImportError:
     sys.exit("Run: pip install joblib")
 
-IN_CSV = "feature_matrix.csv"
+IN_CSV = "data/feature_matrix.csv"
 MODEL_DIR = "models"
 
 

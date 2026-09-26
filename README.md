@@ -1,4 +1,3 @@
-# FP-Regional-Social-Media-Trend-Prediction-Using-Temporal-and-Sentiment-Based-Features
 # Beyond the Global Average: Regional Social Media Trend Prediction
 
 CM3070 Final Project, BSc Computer Science (University of London).
@@ -24,7 +23,7 @@ models/       trained Saudi and US models
 figures/      every figure used in the report
 ```
 
-Scripts can be run from any folder. File paths are set relative to the
+Run the scripts from the repository root. File paths are set relative to the
 repository root, and output folders are created when needed.
 
 ## Pipeline

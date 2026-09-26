@@ -1,0 +1,7 @@
+region,language,class,true_n,recall,pred_n,precision
+SA,Arabic,negative,7,0.8571,15,0.4
+SA,Arabic,neutral,22,0.5,14,0.7857
+SA,Arabic,positive,17,0.8235,17,0.8235
+US,English,negative,16,0.75,16,0.75
+US,English,neutral,19,0.5263,14,0.7143
+US,English,positive,11,0.8182,16,0.5625

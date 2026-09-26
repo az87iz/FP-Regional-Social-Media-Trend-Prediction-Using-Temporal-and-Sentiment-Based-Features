@@ -62,7 +62,7 @@ def metrics(df):
     }
 
 
-def confusion_panel(frames, fname="figures/output/sentiment_confusion.png"):
+def confusion_panel(frames, fname="prototype/output/sentiment_confusion.png"):
     fig, axes = plt.subplots(1, len(frames), figsize=(5 * len(frames), 4.2))
     for ax, (title, df) in zip(np.atleast_1d(axes), frames):
         cm = confusion_matrix(df["gold"], df["pred"], labels=[0, 1, 2])
@@ -118,7 +118,7 @@ def main():
     summary.to_csv("prototype/output/sentiment_summary.csv", index=False)
     confusion_panel(runs)
     comparison_bar(summary)
-    print("\nfigures written to figures/")
+    print("\nwrote results to prototype/output/")
 
 
 if __name__ == "__main__":

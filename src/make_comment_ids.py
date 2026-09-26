@@ -5,7 +5,7 @@ The comment text itself is not shared. This file lists the ID of every
 scored comment along with its video, channel, region, topic and week, so
 the comments can be fetched again through the YouTube Data API.
 
-Run from the folder with data/raw/yt_comments.csv and data/raw/yt_comments_scored.csv:
+Needs data/raw/yt_comments.csv and data/raw/yt_comments_scored.csv:
     python src/make_comment_ids.py
 """
 import os

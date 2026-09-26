@@ -13,7 +13,7 @@ test this reports:
 A gain is only counted as established if DeLong's p < 0.05, the bootstrap
 interval on the gain does not include zero, and the gain is at least 0.02.
 
-Run:  python per_region_tests.py
+Run:  python src/per_region_tests.py
 """
 
 import sys

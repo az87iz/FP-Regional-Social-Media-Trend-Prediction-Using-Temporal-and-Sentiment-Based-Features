@@ -11,9 +11,9 @@ where it left off.
 
 Usage:
     pip install pytrends pandas
-    python pull_trends.py
-    python pull_trends.py "--status"     # show progress without requesting
-    python pull_trends.py "--rebuild"    # rebuild the CSV from the cache
+    python src/pull_trends.py
+    python src/pull_trends.py "--status"     # show progress without requesting
+    python src/pull_trends.py "--rebuild"    # rebuild the CSV from the cache
 
 In PowerShell the flags need quotes, as above.
 """

@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/raw/
+yt_comments*.csv
+yt_collector_state.json
+trends_cache/
+prototype/output/

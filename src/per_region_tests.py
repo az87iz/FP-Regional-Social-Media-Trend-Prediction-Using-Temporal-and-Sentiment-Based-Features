@@ -23,8 +23,8 @@ import pandas as pd
 from scipy import stats
 from sklearn.metrics import roc_auc_score
 
-PRED_CSV = "experiment_predictions.csv"
-OUT_CSV  = "per_region_significance.csv"
+PRED_CSV = "results/experiment_predictions.csv"
+OUT_CSV  = "results/per_region_significance.csv"
 
 N_BOOT   = 5000
 SEED     = 42

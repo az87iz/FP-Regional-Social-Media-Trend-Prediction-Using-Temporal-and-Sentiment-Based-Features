@@ -1,0 +1,9 @@
+subset,note,model,n_rows,n_test,n_positive,auc_exp1,auc_exp2,gain,p
+SA original topics,"weather, Ramadan, World Cup",logreg,140,89.0,18.0,0.5974,0.5563,-0.0411,0.478
+SA original topics,"weather, Ramadan, World Cup",rf,140,89.0,18.0,0.5747,0.7121,0.1373,0.1079
+SA new topics,"AI, inflation",logreg,116,79.0,14.0,0.7088,0.7011,-0.0077,0.8068
+SA new topics,"AI, inflation",rf,116,79.0,14.0,0.7264,0.6538,-0.0725,0.1958
+SA all topics,round 2 headline,logreg,256,170.0,33.0,0.6126,0.5375,-0.0751,0.0212
+SA all topics,round 2 headline,rf,256,170.0,33.0,0.6533,0.7012,0.0479,0.3653
+SA downsampled,10 draws,logreg,99,,,,,-0.0679,
+SA downsampled,10 draws,rf,99,,,,,0.0752,

@@ -1,0 +1,7 @@
+region,true_label,negative,neutral,positive
+SA,negative,6,1,0
+SA,neutral,8,11,3
+SA,positive,1,2,14
+US,negative,12,2,2
+US,neutral,4,10,5
+US,positive,0,2,9

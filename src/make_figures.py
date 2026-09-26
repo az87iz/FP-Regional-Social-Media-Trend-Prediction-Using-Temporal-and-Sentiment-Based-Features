@@ -19,7 +19,7 @@ Inputs (all written by the pipeline scripts):
     per_region_significance.csv, experiment_predictions.csv,
     feature_matrix.csv, confusion_matrices.csv
 
-Run:  python make_figures.py
+Run:  python src/make_figures.py
 """
 
 import os

@@ -9,7 +9,7 @@ two are one day apart, so merging on 'week' directly gives zero matches
 without any error. The sentiment weeks are shifted back to line up, and the
 script stops if the join comes back empty.
 
-Run:  python build_matrix.py
+Run:  python src/build_matrix.py
 """
 
 import sys

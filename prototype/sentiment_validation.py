@@ -62,7 +62,7 @@ def metrics(df):
     }
 
 
-def confusion_panel(frames, fname="figures/sentiment_confusion.png"):
+def confusion_panel(frames, fname="figures/output/sentiment_confusion.png"):
     fig, axes = plt.subplots(1, len(frames), figsize=(5 * len(frames), 4.2))
     for ax, (title, df) in zip(np.atleast_1d(axes), frames):
         cm = confusion_matrix(df["gold"], df["pred"], labels=[0, 1, 2])
@@ -74,7 +74,7 @@ def confusion_panel(frames, fname="figures/sentiment_confusion.png"):
     plt.close(fig)
 
 
-def comparison_bar(summary, fname="figures/sentiment_accuracy.png"):
+def comparison_bar(summary, fname="figures/output/sentiment_accuracy.png"):
     long = summary.melt(id_vars="model", value_vars=["accuracy", "macro_f1"],
                         var_name="metric", value_name="score")
     fig, ax = plt.subplots(figsize=(8, 4.5))
@@ -89,7 +89,7 @@ def comparison_bar(summary, fname="figures/sentiment_accuracy.png"):
 
 def main():
     from pathlib import Path
-    Path("figures").mkdir(exist_ok=True)
+    Path("prototype/output").mkdir(exist_ok=True)
 
     arabic = load_umsab("arabic")
     english = load_umsab("english")
@@ -115,7 +115,7 @@ def main():
           summary.loc[summary.model == "XLM-T (ar)", "accuracy"].iloc[0]
     print(f"\n  XLM-T English-minus-Arabic accuracy gap: {gap:+.3f}")
 
-    summary.to_csv("sentiment_summary.csv", index=False)
+    summary.to_csv("prototype/output/sentiment_summary.csv", index=False)
     confusion_panel(runs)
     comparison_bar(summary)
     print("\nfigures written to figures/")

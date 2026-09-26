@@ -32,10 +32,10 @@ import sys
 import numpy as np
 import pandas as pd
 
-IN_CSV          = "yt_comments.csv"
-SCORED_CSV      = "yt_comments_scored.csv"      # per-comment scores, used to resume
-OUT_CSV         = "sentiment_features.csv"      # weekly features
-COVERAGE_CSV    = "sentiment_coverage.csv"      # usable weeks per cell
+IN_CSV          = "data/raw/yt_comments.csv"
+SCORED_CSV      = "data/raw/yt_comments_scored.csv"      # per-comment scores, used to resume
+OUT_CSV         = "data/sentiment_features.csv"      # weekly features
+COVERAGE_CSV    = "data/sentiment_coverage.csv"      # usable weeks per cell
 
 MODEL_NAME      = "cardiffnlp/twitter-xlm-roberta-base-sentiment"
 BATCH_SIZE      = 128

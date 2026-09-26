@@ -22,7 +22,7 @@ The folds, normalisation and feature lists are the same as in
 run_experiments.py. The subsets are smaller, so these results are only
 used to explain the change and are not a separate test.
 
-Run:  python diagnose_change.py
+Run:  python src/diagnose_change.py
 """
 
 import sys

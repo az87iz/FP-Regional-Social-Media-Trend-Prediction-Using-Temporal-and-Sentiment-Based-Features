@@ -21,7 +21,7 @@ normalisation values (empty here), the ordered feature list, and the
 training rows, dates and library versions. The feature list is stored in
 the file so predict.py always uses the same features as training.
 
-Run:  src/python train_final_model.py
+Run:  python src/train_final_model.py
 """
 
 import json

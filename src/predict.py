@@ -1,14 +1,14 @@
 """
 Makes a prediction from a saved regional model.
 
-    python predict.py --region SA --topic weather
-    python predict.py --all
-    python predict.py --all --csv predictions.csv
+    python src/predict.py --region SA --topic weather
+    python src/predict.py --all
+    python src/predict.py --all --csv predictions.csv
 
 For a region and topic, it gives the probability that the topic's weekly
 search growth will be in that region's top 20% in the week after the
 latest week in the data. The top-20% threshold is the one fixed per region
-in build_matrix.py.
+in src/build_matrix.py.
 
 The feature list is read from the saved model file, so it always matches
 what the model was trained on.

@@ -12,10 +12,10 @@ import os
 
 import pandas as pd
 
-comments = pd.read_csv("yt_comments.csv", encoding="utf-8-sig", low_memory=False,
+comments = pd.read_csv("data/raw/yt_comments.csv", encoding="utf-8-sig", low_memory=False,
                        usecols=["comment_id", "video_id", "channel",
                                 "region", "topic", "week"])
-scored = pd.read_csv("yt_comments_scored.csv", encoding="utf-8-sig",
+scored = pd.read_csv("data/raw/yt_comments_scored.csv", encoding="utf-8-sig",
                      usecols=["comment_id"])
 
 ids = (comments.drop_duplicates("comment_id")
@@ -27,11 +27,11 @@ size_mb = os.path.getsize("comment_ids.csv") / 1e6
 
 # GitHub's web uploader rejects files over 25 MB
 if size_mb > 24:
-    ids.to_csv("comment_ids.csv.gz", index=False, compression="gzip")
+    ids.to_csv("data/raw/comment_ids.csv.gz", index=False, compression="gzip")
     os.remove("comment_ids.csv")
-    out, size_mb = "comment_ids.csv.gz", os.path.getsize("comment_ids.csv.gz") / 1e6
+    out, size_mb = "data/raw/comment_ids.csv.gz", os.path.getsize("comment_ids.csv.gz") / 1e6
 else:
-    out = "comment_ids.csv"
+    out = "data/raw/comment_ids.csv"
 
 print(f"Wrote {out}: {len(ids):,} comments, {size_mb:.1f} MB")
 print(ids.groupby("region").size().to_string())

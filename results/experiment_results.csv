@@ -1,0 +1,12 @@
+experiment,model,n_test,roc_auc,f1
+Exp1_temporal,logreg,509,0.5883,0.3158
+Exp1_temporal,rf,509,0.5864,0.1259
+Exp1_temporal,xgboost,509,0.5453,0.228
+Exp2_temporal_sentiment,logreg,509,0.5774,0.2824
+Exp2_temporal_sentiment,rf,509,0.5865,0.0488
+Exp2_temporal_sentiment,xgboost,509,0.5475,0.1893
+Exp3_temporal_sentiment_regional,logreg,509,0.5794,0.3106
+Exp3_temporal_sentiment_regional,rf,509,0.5788,0.0348
+Exp3_temporal_sentiment_regional,xgboost,509,0.5528,0.1566
+baseline_majority,-,509,0.5,0.0
+baseline_persistence,-,509,0.517,0.2467

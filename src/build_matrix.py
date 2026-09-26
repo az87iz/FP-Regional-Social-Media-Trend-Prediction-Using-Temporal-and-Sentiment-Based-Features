@@ -19,7 +19,7 @@ import pandas as pd
 
 TRENDS_CSV    = "data/trends_raw_extended.csv"
 SENTIMENT_CSV = "data/sentiment_features.csv"
-OUT_CSV       = "feature_matrix.csv"
+OUT_CSV       = "data/feature_matrix.csv"
 
 TOP_PCT = 0.80            # top-20% label threshold, per region
 THRESH_TRAIN_FRAC = 0.35  # threshold is set from this early share of weeks

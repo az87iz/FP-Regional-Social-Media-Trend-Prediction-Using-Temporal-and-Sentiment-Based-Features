@@ -1,0 +1,22 @@
+{
+  "models": [
+    {
+      "region": "SA",
+      "model": "logreg",
+      "n_features": 8,
+      "n_rows": 261,
+      "positive_rate": 0.1954,
+      "artefact": "models/SA_model.joblib"
+    },
+    {
+      "region": "US",
+      "model": "logreg",
+      "n_features": 8,
+      "n_rows": 352,
+      "positive_rate": 0.2188,
+      "artefact": "models/US_model.joblib"
+    }
+  ],
+  "built_from": "feature_matrix.csv",
+  "built_at": "2026-09-22T22:13:04+00:00"
+}

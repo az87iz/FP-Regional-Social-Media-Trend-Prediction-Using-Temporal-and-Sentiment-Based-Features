@@ -11,7 +11,7 @@ In Colab:
     Runtime > Change runtime type > T4 GPU
     !pip install transformers torch pandas --quiet
     (upload yt_comments.csv or mount Drive)
-    !python sentiment_features.py
+    !python src/sentiment_features.py
 
 Notes:
 - The model is XLM-T (Barbieri et al. 2022), the same one checked in the

@@ -53,7 +53,7 @@ TOPICS = {
 }
 
 CACHE_DIR = "trends_cache"
-OUT_CSV   = "trends_raw_extended.csv"
+OUT_CSV   = "data/trends_raw_extended.csv"
 
 # kept slow on purpose to avoid getting blocked
 BASE_SLEEP    = 12      # seconds between requests

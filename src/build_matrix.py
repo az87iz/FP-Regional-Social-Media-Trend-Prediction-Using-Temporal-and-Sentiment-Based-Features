@@ -74,7 +74,7 @@ def main():
         tr = pd.read_csv(TRENDS_CSV, parse_dates=["week"])
         se = pd.read_csv(SENTIMENT_CSV, parse_dates=["week"])
     except FileNotFoundError as e:
-        sys.exit(f"{e}\nBoth CSVs need to be in the same folder as this script.")
+        sys.exit(f"{e}\nBoth CSVs need to be in the data folder.")
 
     print(f"Trends:    {len(tr):,} rows, {tr.week.nunique()} weeks, "
           f"{sorted(tr.geo.unique())}")

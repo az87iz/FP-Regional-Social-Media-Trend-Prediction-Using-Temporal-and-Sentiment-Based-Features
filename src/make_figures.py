@@ -86,13 +86,13 @@ def save(fig, name):
 
 def figure_trends():
     print("figure_trends")
-    if not have("trends_raw_extended.csv"):
+    if not have("data/trends_raw_extended.csv"):
         return
     topics = [("Ramadan", "shared seasonal pattern"),
               ("ChatGPT", "shared rising pattern"),
               ("weather", "regional seasonal pattern"),
               ("electric cars", "region-specific pattern")]
-    d = pd.read_csv("trends_raw_extended.csv", parse_dates=["week"])
+    d = pd.read_csv("data/trends_raw_extended.csv", parse_dates=["week"])
     fig, axes = plt.subplots(2, 2, figsize=(11.5, 6.4), sharex=True)
     for ax, (topic, label) in zip(axes.flat, topics):
         p = d[d.topic == topic].pivot(index="week", columns="geo", values="gt_score")
@@ -125,9 +125,9 @@ def figure_trends():
 
 def figure_coverage():
     print("figure_coverage")
-    if not have("feature_matrix.csv"):
+    if not have("data/feature_matrix.csv"):
         return
-    fm = pd.read_csv("feature_matrix.csv")
+    fm = pd.read_csv("data/feature_matrix.csv")
     counts = fm.groupby(["geo", "topic"]).size()
     topics_all = sorted(set(fm.topic) | {t for _, t in ROUND1_COVERAGE}
                         | {"ChatGPT", "bitcoin", "electric cars", "Ramadan"})
@@ -177,9 +177,9 @@ def figure_coverage():
 
 def figure_gains():
     print("figure_gains")
-    if not have("per_region_significance.csv"):
+    if not have("results/per_region_significance.csv"):
         return
-    s = pd.read_csv("per_region_significance.csv")
+    s = pd.read_csv("results/per_region_significance.csv")
     s = s[s.comparison == "Exp2_temporal_sentiment_vs_Exp1_temporal"]
     established = (s.verdict == "ESTABLISHED").any()
 
@@ -230,10 +230,10 @@ def figure_gains():
 
 def figure_roc():
     print("figure_roc")
-    if not have("experiment_predictions.csv", "feature_matrix.csv"):
+    if not have("results/experiment_predictions.csv", "data/feature_matrix.csv"):
         return
-    P = pd.read_csv("experiment_predictions.csv", parse_dates=["week"])
-    fm = pd.read_csv("feature_matrix.csv", parse_dates=["week"])
+    P = pd.read_csv("results/experiment_predictions.csv", parse_dates=["week"])
+    fm = pd.read_csv("data/feature_matrix.csv", parse_dates=["week"])
     exps = [("Exp1_temporal", "Exp 1: temporal", BLUE, "-"),
             ("Exp2_temporal_sentiment", "Exp 2: + sentiment", ORANGE, "-"),
             ("Exp3_temporal_sentiment_regional", "Exp 3: + regional", GREY, "--")]
@@ -283,9 +283,9 @@ def figure_roc():
 
 def figure_confusion():
     print("figure_confusion")
-    if not have("confusion_matrices.csv"):
+    if not have("results/confusion_matrices.csv"):
         return
-    cm = pd.read_csv("confusion_matrices.csv", index_col=[0, 1])
+    cm = pd.read_csv("results/confusion_matrices.csv", index_col=[0, 1])
     classes = ["negative", "neutral", "positive"]
     regions = [r for r in ("SA", "US") if r in cm.index.get_level_values(0)]
     langs = {"SA": "Arabic (Saudi channels)", "US": "English (US channels)"}
@@ -365,9 +365,9 @@ def _diffusion(raw, topics, edge_floor=0.2):
 def figure_diffusion():
     print("diffusion")
     # uses the 2022-2024 Trends pull, which covers more weeks
-    if not have("trends_raw.csv"):
+    if not have("data/trends_raw.csv"):
         return
-    raw = pd.read_csv("trends_raw.csv", parse_dates=["week"])
+    raw = pd.read_csv("data/trends_raw.csv", parse_dates=["week"])
     tech_names = {"ChatGPT", "artificial intelligence", "bitcoin",
                   "electric car", "electric cars"}
     topics = sorted(raw.topic.unique())

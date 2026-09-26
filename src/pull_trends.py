@@ -52,7 +52,7 @@ TOPICS = {
     "World Cup":               "World Cup",
 }
 
-CACHE_DIR = "trends_cache"
+CACHE_DIR = "data/raw/trends_cache"
 OUT_CSV   = "data/trends_raw_extended.csv"
 
 # kept slow on purpose to avoid getting blocked

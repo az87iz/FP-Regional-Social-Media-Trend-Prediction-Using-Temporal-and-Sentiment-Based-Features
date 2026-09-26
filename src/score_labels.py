@@ -8,7 +8,7 @@ Outputs:
      whether model error could explain the gap in sentiment between regions
   3. the share of Saudi-channel comments that look Saudi (looks_saudi)
 
-    python score_labels.py
+    python src/score_labels.py
 """
 
 import os

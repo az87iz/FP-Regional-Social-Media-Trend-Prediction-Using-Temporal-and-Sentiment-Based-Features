@@ -48,7 +48,7 @@ MIN_CHARS      = 10       # skip very short comments
 def main():
     for f in (COMMENTS_CSV, SCORED_CSV):
         if not os.path.exists(f):
-            sys.exit(f"{f} not found. It needs to be in the same folder as this script.")
+            sys.exit(f"{f} not found. It needs to be in data/raw.")
 
     com = pd.read_csv(COMMENTS_CSV, encoding="utf-8-sig", low_memory=False)
     sc  = pd.read_csv(SCORED_CSV, encoding="utf-8-sig")

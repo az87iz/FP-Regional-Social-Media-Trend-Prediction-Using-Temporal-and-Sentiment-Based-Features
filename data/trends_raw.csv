@@ -1,0 +1,5057 @@
+week,gt_score,geo,topic
+2021-12-26,0,BH,inflation
+2022-01-02,98,BH,inflation
+2022-01-09,81,BH,inflation
+2022-01-16,0,BH,inflation
+2022-01-23,0,BH,inflation
+2022-01-30,42,BH,inflation
+2022-02-06,56,BH,inflation
+2022-02-13,72,BH,inflation
+2022-02-20,33,BH,inflation
+2022-02-27,0,BH,inflation
+2022-03-06,0,BH,inflation
+2022-03-13,0,BH,inflation
+2022-03-20,0,BH,inflation
+2022-03-27,37,BH,inflation
+2022-04-03,50,BH,inflation
+2022-04-10,64,BH,inflation
+2022-04-17,0,BH,inflation
+2022-04-24,35,BH,inflation
+2022-05-01,41,BH,inflation
+2022-05-08,63,BH,inflation
+2022-05-15,41,BH,inflation
+2022-05-22,0,BH,inflation
+2022-05-29,38,BH,inflation
+2022-06-05,100,BH,inflation
+2022-06-12,42,BH,inflation
+2022-06-19,47,BH,inflation
+2022-06-26,69,BH,inflation
+2022-07-03,54,BH,inflation
+2022-07-10,66,BH,inflation
+2022-07-17,0,BH,inflation
+2022-07-24,39,BH,inflation
+2022-07-31,0,BH,inflation
+2022-08-07,53,BH,inflation
+2022-08-14,0,BH,inflation
+2022-08-21,43,BH,inflation
+2022-08-28,42,BH,inflation
+2022-09-04,44,BH,inflation
+2022-09-11,51,BH,inflation
+2022-09-18,0,BH,inflation
+2022-09-25,0,BH,inflation
+2022-10-02,0,BH,inflation
+2022-10-09,61,BH,inflation
+2022-10-16,66,BH,inflation
+2022-10-23,0,BH,inflation
+2022-10-30,50,BH,inflation
+2022-11-06,0,BH,inflation
+2022-11-13,49,BH,inflation
+2022-11-20,44,BH,inflation
+2022-11-27,36,BH,inflation
+2022-12-04,0,BH,inflation
+2022-12-11,0,BH,inflation
+2022-12-18,0,BH,inflation
+2022-12-25,42,BH,inflation
+2023-01-01,46,BH,inflation
+2023-01-08,79,BH,inflation
+2023-01-15,36,BH,inflation
+2023-01-22,0,BH,inflation
+2023-01-29,0,BH,inflation
+2023-02-05,38,BH,inflation
+2023-02-12,50,BH,inflation
+2023-02-19,0,BH,inflation
+2023-02-26,0,BH,inflation
+2023-03-05,43,BH,inflation
+2023-03-12,44,BH,inflation
+2023-03-19,0,BH,inflation
+2023-03-26,0,BH,inflation
+2023-04-02,0,BH,inflation
+2023-04-09,0,BH,inflation
+2023-04-16,0,BH,inflation
+2023-04-23,0,BH,inflation
+2023-04-30,59,BH,inflation
+2023-05-07,35,BH,inflation
+2023-05-14,47,BH,inflation
+2023-05-21,0,BH,inflation
+2023-05-28,0,BH,inflation
+2023-06-04,0,BH,inflation
+2023-06-11,0,BH,inflation
+2023-06-18,0,BH,inflation
+2023-06-25,0,BH,inflation
+2023-07-02,0,BH,inflation
+2023-07-09,0,BH,inflation
+2023-07-16,0,BH,inflation
+2023-07-23,0,BH,inflation
+2023-07-30,0,BH,inflation
+2023-08-06,0,BH,inflation
+2023-08-13,0,BH,inflation
+2023-08-20,0,BH,inflation
+2023-08-27,0,BH,inflation
+2023-09-03,0,BH,inflation
+2023-09-10,0,BH,inflation
+2023-09-17,0,BH,inflation
+2023-09-24,39,BH,inflation
+2023-10-01,0,BH,inflation
+2023-10-08,53,BH,inflation
+2023-10-15,0,BH,inflation
+2023-10-22,61,BH,inflation
+2023-10-29,0,BH,inflation
+2023-11-05,0,BH,inflation
+2023-11-12,63,BH,inflation
+2023-11-19,0,BH,inflation
+2023-11-26,0,BH,inflation
+2023-12-03,48,BH,inflation
+2023-12-10,53,BH,inflation
+2023-12-17,0,BH,inflation
+2023-12-24,0,BH,inflation
+2023-12-31,51,BH,inflation
+2024-01-07,0,BH,inflation
+2024-01-14,38,BH,inflation
+2024-01-21,48,BH,inflation
+2024-01-28,0,BH,inflation
+2024-02-04,0,BH,inflation
+2024-02-11,0,BH,inflation
+2024-02-18,0,BH,inflation
+2024-02-25,0,BH,inflation
+2024-03-03,0,BH,inflation
+2024-03-10,0,BH,inflation
+2024-03-17,55,BH,inflation
+2024-03-24,48,BH,inflation
+2024-03-31,0,BH,inflation
+2024-04-07,0,BH,inflation
+2024-04-14,0,BH,inflation
+2024-04-21,0,BH,inflation
+2024-04-28,0,BH,inflation
+2024-05-05,53,BH,inflation
+2024-05-12,0,BH,inflation
+2024-05-19,0,BH,inflation
+2024-05-26,0,BH,inflation
+2024-06-02,43,BH,inflation
+2024-06-09,0,BH,inflation
+2024-06-16,0,BH,inflation
+2024-06-23,0,BH,inflation
+2024-06-30,0,BH,inflation
+2024-07-07,0,BH,inflation
+2024-07-14,0,BH,inflation
+2024-07-21,0,BH,inflation
+2024-07-28,0,BH,inflation
+2024-08-04,0,BH,inflation
+2024-08-11,0,BH,inflation
+2024-08-18,0,BH,inflation
+2024-08-25,0,BH,inflation
+2024-09-01,0,BH,inflation
+2024-09-08,68,BH,inflation
+2024-09-15,0,BH,inflation
+2024-09-22,0,BH,inflation
+2024-09-29,0,BH,inflation
+2024-10-06,50,BH,inflation
+2024-10-13,0,BH,inflation
+2024-10-20,0,BH,inflation
+2024-10-27,0,BH,inflation
+2024-11-03,0,BH,inflation
+2024-11-10,0,BH,inflation
+2024-11-17,0,BH,inflation
+2024-11-24,0,BH,inflation
+2024-12-01,0,BH,inflation
+2024-12-08,0,BH,inflation
+2024-12-15,0,BH,inflation
+2024-12-22,0,BH,inflation
+2024-12-29,0,BH,inflation
+2021-12-26,0,BH,electric car
+2022-01-02,0,BH,electric car
+2022-01-09,0,BH,electric car
+2022-01-16,0,BH,electric car
+2022-01-23,0,BH,electric car
+2022-01-30,0,BH,electric car
+2022-02-06,0,BH,electric car
+2022-02-13,0,BH,electric car
+2022-02-20,0,BH,electric car
+2022-02-27,0,BH,electric car
+2022-03-06,0,BH,electric car
+2022-03-13,0,BH,electric car
+2022-03-20,0,BH,electric car
+2022-03-27,0,BH,electric car
+2022-04-03,0,BH,electric car
+2022-04-10,0,BH,electric car
+2022-04-17,0,BH,electric car
+2022-04-24,0,BH,electric car
+2022-05-01,0,BH,electric car
+2022-05-08,45,BH,electric car
+2022-05-15,0,BH,electric car
+2022-05-22,0,BH,electric car
+2022-05-29,0,BH,electric car
+2022-06-05,0,BH,electric car
+2022-06-12,0,BH,electric car
+2022-06-19,0,BH,electric car
+2022-06-26,0,BH,electric car
+2022-07-03,0,BH,electric car
+2022-07-10,0,BH,electric car
+2022-07-17,0,BH,electric car
+2022-07-24,0,BH,electric car
+2022-07-31,0,BH,electric car
+2022-08-07,0,BH,electric car
+2022-08-14,0,BH,electric car
+2022-08-21,0,BH,electric car
+2022-08-28,0,BH,electric car
+2022-09-04,0,BH,electric car
+2022-09-11,0,BH,electric car
+2022-09-18,75,BH,electric car
+2022-09-25,0,BH,electric car
+2022-10-02,0,BH,electric car
+2022-10-09,0,BH,electric car
+2022-10-16,0,BH,electric car
+2022-10-23,0,BH,electric car
+2022-10-30,0,BH,electric car
+2022-11-06,0,BH,electric car
+2022-11-13,0,BH,electric car
+2022-11-20,0,BH,electric car
+2022-11-27,0,BH,electric car
+2022-12-04,0,BH,electric car
+2022-12-11,0,BH,electric car
+2022-12-18,0,BH,electric car
+2022-12-25,0,BH,electric car
+2023-01-01,0,BH,electric car
+2023-01-08,0,BH,electric car
+2023-01-15,0,BH,electric car
+2023-01-22,0,BH,electric car
+2023-01-29,0,BH,electric car
+2023-02-05,0,BH,electric car
+2023-02-12,0,BH,electric car
+2023-02-19,0,BH,electric car
+2023-02-26,0,BH,electric car
+2023-03-05,0,BH,electric car
+2023-03-12,0,BH,electric car
+2023-03-19,0,BH,electric car
+2023-03-26,0,BH,electric car
+2023-04-02,0,BH,electric car
+2023-04-09,0,BH,electric car
+2023-04-16,0,BH,electric car
+2023-04-23,0,BH,electric car
+2023-04-30,0,BH,electric car
+2023-05-07,0,BH,electric car
+2023-05-14,0,BH,electric car
+2023-05-21,0,BH,electric car
+2023-05-28,0,BH,electric car
+2023-06-04,0,BH,electric car
+2023-06-11,0,BH,electric car
+2023-06-18,0,BH,electric car
+2023-06-25,0,BH,electric car
+2023-07-02,0,BH,electric car
+2023-07-09,100,BH,electric car
+2023-07-16,0,BH,electric car
+2023-07-23,0,BH,electric car
+2023-07-30,0,BH,electric car
+2023-08-06,0,BH,electric car
+2023-08-13,0,BH,electric car
+2023-08-20,61,BH,electric car
+2023-08-27,0,BH,electric car
+2023-09-03,0,BH,electric car
+2023-09-10,0,BH,electric car
+2023-09-17,0,BH,electric car
+2023-09-24,0,BH,electric car
+2023-10-01,0,BH,electric car
+2023-10-08,0,BH,electric car
+2023-10-15,0,BH,electric car
+2023-10-22,0,BH,electric car
+2023-10-29,0,BH,electric car
+2023-11-05,0,BH,electric car
+2023-11-12,0,BH,electric car
+2023-11-19,0,BH,electric car
+2023-11-26,0,BH,electric car
+2023-12-03,0,BH,electric car
+2023-12-10,0,BH,electric car
+2023-12-17,0,BH,electric car
+2023-12-24,0,BH,electric car
+2023-12-31,0,BH,electric car
+2024-01-07,0,BH,electric car
+2024-01-14,0,BH,electric car
+2024-01-21,0,BH,electric car
+2024-01-28,0,BH,electric car
+2024-02-04,0,BH,electric car
+2024-02-11,0,BH,electric car
+2024-02-18,0,BH,electric car
+2024-02-25,0,BH,electric car
+2024-03-03,0,BH,electric car
+2024-03-10,0,BH,electric car
+2024-03-17,0,BH,electric car
+2024-03-24,0,BH,electric car
+2024-03-31,0,BH,electric car
+2024-04-07,0,BH,electric car
+2024-04-14,0,BH,electric car
+2024-04-21,52,BH,electric car
+2024-04-28,0,BH,electric car
+2024-05-05,0,BH,electric car
+2024-05-12,0,BH,electric car
+2024-05-19,0,BH,electric car
+2024-05-26,0,BH,electric car
+2024-06-02,0,BH,electric car
+2024-06-09,0,BH,electric car
+2024-06-16,0,BH,electric car
+2024-06-23,0,BH,electric car
+2024-06-30,0,BH,electric car
+2024-07-07,0,BH,electric car
+2024-07-14,0,BH,electric car
+2024-07-21,0,BH,electric car
+2024-07-28,0,BH,electric car
+2024-08-04,0,BH,electric car
+2024-08-11,0,BH,electric car
+2024-08-18,0,BH,electric car
+2024-08-25,0,BH,electric car
+2024-09-01,0,BH,electric car
+2024-09-08,0,BH,electric car
+2024-09-15,0,BH,electric car
+2024-09-22,0,BH,electric car
+2024-09-29,0,BH,electric car
+2024-10-06,0,BH,electric car
+2024-10-13,0,BH,electric car
+2024-10-20,0,BH,electric car
+2024-10-27,0,BH,electric car
+2024-11-03,0,BH,electric car
+2024-11-10,0,BH,electric car
+2024-11-17,0,BH,electric car
+2024-11-24,0,BH,electric car
+2024-12-01,0,BH,electric car
+2024-12-08,0,BH,electric car
+2024-12-15,0,BH,electric car
+2024-12-22,0,BH,electric car
+2024-12-29,0,BH,electric car
+2021-12-26,74,BH,artificial intelligence
+2022-01-02,0,BH,artificial intelligence
+2022-01-09,0,BH,artificial intelligence
+2022-01-16,0,BH,artificial intelligence
+2022-01-23,0,BH,artificial intelligence
+2022-01-30,0,BH,artificial intelligence
+2022-02-06,69,BH,artificial intelligence
+2022-02-13,0,BH,artificial intelligence
+2022-02-20,58,BH,artificial intelligence
+2022-02-27,0,BH,artificial intelligence
+2022-03-06,0,BH,artificial intelligence
+2022-03-13,0,BH,artificial intelligence
+2022-03-20,55,BH,artificial intelligence
+2022-03-27,0,BH,artificial intelligence
+2022-04-03,75,BH,artificial intelligence
+2022-04-10,0,BH,artificial intelligence
+2022-04-17,0,BH,artificial intelligence
+2022-04-24,0,BH,artificial intelligence
+2022-05-01,0,BH,artificial intelligence
+2022-05-08,63,BH,artificial intelligence
+2022-05-15,0,BH,artificial intelligence
+2022-05-22,0,BH,artificial intelligence
+2022-05-29,65,BH,artificial intelligence
+2022-06-05,0,BH,artificial intelligence
+2022-06-12,0,BH,artificial intelligence
+2022-06-19,0,BH,artificial intelligence
+2022-06-26,0,BH,artificial intelligence
+2022-07-03,0,BH,artificial intelligence
+2022-07-10,0,BH,artificial intelligence
+2022-07-17,0,BH,artificial intelligence
+2022-07-24,0,BH,artificial intelligence
+2022-07-31,65,BH,artificial intelligence
+2022-08-07,0,BH,artificial intelligence
+2022-08-14,0,BH,artificial intelligence
+2022-08-21,0,BH,artificial intelligence
+2022-08-28,0,BH,artificial intelligence
+2022-09-04,0,BH,artificial intelligence
+2022-09-11,0,BH,artificial intelligence
+2022-09-18,0,BH,artificial intelligence
+2022-09-25,0,BH,artificial intelligence
+2022-10-02,0,BH,artificial intelligence
+2022-10-09,64,BH,artificial intelligence
+2022-10-16,0,BH,artificial intelligence
+2022-10-23,0,BH,artificial intelligence
+2022-10-30,0,BH,artificial intelligence
+2022-11-06,0,BH,artificial intelligence
+2022-11-13,59,BH,artificial intelligence
+2022-11-20,0,BH,artificial intelligence
+2022-11-27,50,BH,artificial intelligence
+2022-12-04,53,BH,artificial intelligence
+2022-12-11,0,BH,artificial intelligence
+2022-12-18,0,BH,artificial intelligence
+2022-12-25,0,BH,artificial intelligence
+2023-01-01,0,BH,artificial intelligence
+2023-01-08,0,BH,artificial intelligence
+2023-01-15,73,BH,artificial intelligence
+2023-01-22,93,BH,artificial intelligence
+2023-01-29,58,BH,artificial intelligence
+2023-02-05,0,BH,artificial intelligence
+2023-02-12,0,BH,artificial intelligence
+2023-02-19,0,BH,artificial intelligence
+2023-02-26,57,BH,artificial intelligence
+2023-03-05,0,BH,artificial intelligence
+2023-03-12,0,BH,artificial intelligence
+2023-03-19,0,BH,artificial intelligence
+2023-03-26,0,BH,artificial intelligence
+2023-04-02,0,BH,artificial intelligence
+2023-04-09,0,BH,artificial intelligence
+2023-04-16,0,BH,artificial intelligence
+2023-04-23,97,BH,artificial intelligence
+2023-04-30,0,BH,artificial intelligence
+2023-05-07,79,BH,artificial intelligence
+2023-05-14,71,BH,artificial intelligence
+2023-05-21,82,BH,artificial intelligence
+2023-05-28,0,BH,artificial intelligence
+2023-06-04,56,BH,artificial intelligence
+2023-06-11,85,BH,artificial intelligence
+2023-06-18,0,BH,artificial intelligence
+2023-06-25,0,BH,artificial intelligence
+2023-07-02,0,BH,artificial intelligence
+2023-07-09,0,BH,artificial intelligence
+2023-07-16,0,BH,artificial intelligence
+2023-07-23,0,BH,artificial intelligence
+2023-07-30,0,BH,artificial intelligence
+2023-08-06,0,BH,artificial intelligence
+2023-08-13,0,BH,artificial intelligence
+2023-08-20,0,BH,artificial intelligence
+2023-08-27,0,BH,artificial intelligence
+2023-09-03,0,BH,artificial intelligence
+2023-09-10,0,BH,artificial intelligence
+2023-09-17,0,BH,artificial intelligence
+2023-09-24,0,BH,artificial intelligence
+2023-10-01,0,BH,artificial intelligence
+2023-10-08,55,BH,artificial intelligence
+2023-10-15,0,BH,artificial intelligence
+2023-10-22,0,BH,artificial intelligence
+2023-10-29,59,BH,artificial intelligence
+2023-11-05,0,BH,artificial intelligence
+2023-11-12,0,BH,artificial intelligence
+2023-11-19,68,BH,artificial intelligence
+2023-11-26,63,BH,artificial intelligence
+2023-12-03,69,BH,artificial intelligence
+2023-12-10,74,BH,artificial intelligence
+2023-12-17,0,BH,artificial intelligence
+2023-12-24,0,BH,artificial intelligence
+2023-12-31,0,BH,artificial intelligence
+2024-01-07,0,BH,artificial intelligence
+2024-01-14,0,BH,artificial intelligence
+2024-01-21,0,BH,artificial intelligence
+2024-01-28,0,BH,artificial intelligence
+2024-02-04,0,BH,artificial intelligence
+2024-02-11,0,BH,artificial intelligence
+2024-02-18,0,BH,artificial intelligence
+2024-02-25,0,BH,artificial intelligence
+2024-03-03,0,BH,artificial intelligence
+2024-03-10,0,BH,artificial intelligence
+2024-03-17,93,BH,artificial intelligence
+2024-03-24,0,BH,artificial intelligence
+2024-03-31,0,BH,artificial intelligence
+2024-04-07,0,BH,artificial intelligence
+2024-04-14,0,BH,artificial intelligence
+2024-04-21,100,BH,artificial intelligence
+2024-04-28,0,BH,artificial intelligence
+2024-05-05,94,BH,artificial intelligence
+2024-05-12,0,BH,artificial intelligence
+2024-05-19,0,BH,artificial intelligence
+2024-05-26,0,BH,artificial intelligence
+2024-06-02,0,BH,artificial intelligence
+2024-06-09,0,BH,artificial intelligence
+2024-06-16,0,BH,artificial intelligence
+2024-06-23,0,BH,artificial intelligence
+2024-06-30,0,BH,artificial intelligence
+2024-07-07,0,BH,artificial intelligence
+2024-07-14,0,BH,artificial intelligence
+2024-07-21,0,BH,artificial intelligence
+2024-07-28,0,BH,artificial intelligence
+2024-08-04,0,BH,artificial intelligence
+2024-08-11,0,BH,artificial intelligence
+2024-08-18,0,BH,artificial intelligence
+2024-08-25,0,BH,artificial intelligence
+2024-09-01,0,BH,artificial intelligence
+2024-09-08,0,BH,artificial intelligence
+2024-09-15,0,BH,artificial intelligence
+2024-09-22,0,BH,artificial intelligence
+2024-09-29,0,BH,artificial intelligence
+2024-10-06,0,BH,artificial intelligence
+2024-10-13,0,BH,artificial intelligence
+2024-10-20,74,BH,artificial intelligence
+2024-10-27,0,BH,artificial intelligence
+2024-11-03,80,BH,artificial intelligence
+2024-11-10,0,BH,artificial intelligence
+2024-11-17,0,BH,artificial intelligence
+2024-11-24,92,BH,artificial intelligence
+2024-12-01,0,BH,artificial intelligence
+2024-12-08,0,BH,artificial intelligence
+2024-12-15,0,BH,artificial intelligence
+2024-12-22,0,BH,artificial intelligence
+2024-12-29,0,BH,artificial intelligence
+2021-12-26,0,BH,World Cup
+2022-01-02,0,BH,World Cup
+2022-01-09,0,BH,World Cup
+2022-01-16,1,BH,World Cup
+2022-01-23,1,BH,World Cup
+2022-01-30,2,BH,World Cup
+2022-02-06,1,BH,World Cup
+2022-02-13,0,BH,World Cup
+2022-02-20,1,BH,World Cup
+2022-02-27,0,BH,World Cup
+2022-03-06,1,BH,World Cup
+2022-03-13,1,BH,World Cup
+2022-03-20,2,BH,World Cup
+2022-03-27,3,BH,World Cup
+2022-04-03,1,BH,World Cup
+2022-04-10,0,BH,World Cup
+2022-04-17,0,BH,World Cup
+2022-04-24,0,BH,World Cup
+2022-05-01,0,BH,World Cup
+2022-05-08,0,BH,World Cup
+2022-05-15,0,BH,World Cup
+2022-05-22,0,BH,World Cup
+2022-05-29,1,BH,World Cup
+2022-06-05,1,BH,World Cup
+2022-06-12,1,BH,World Cup
+2022-06-19,0,BH,World Cup
+2022-06-26,0,BH,World Cup
+2022-07-03,1,BH,World Cup
+2022-07-10,0,BH,World Cup
+2022-07-17,0,BH,World Cup
+2022-07-24,0,BH,World Cup
+2022-07-31,1,BH,World Cup
+2022-08-07,1,BH,World Cup
+2022-08-14,1,BH,World Cup
+2022-08-21,1,BH,World Cup
+2022-08-28,1,BH,World Cup
+2022-09-04,1,BH,World Cup
+2022-09-11,2,BH,World Cup
+2022-09-18,1,BH,World Cup
+2022-09-25,1,BH,World Cup
+2022-10-02,1,BH,World Cup
+2022-10-09,2,BH,World Cup
+2022-10-16,7,BH,World Cup
+2022-10-23,15,BH,World Cup
+2022-10-30,22,BH,World Cup
+2022-11-06,18,BH,World Cup
+2022-11-13,14,BH,World Cup
+2022-11-20,95,BH,World Cup
+2022-11-27,100,BH,World Cup
+2022-12-04,75,BH,World Cup
+2022-12-11,45,BH,World Cup
+2022-12-18,22,BH,World Cup
+2022-12-25,2,BH,World Cup
+2023-01-01,1,BH,World Cup
+2023-01-08,1,BH,World Cup
+2023-01-15,2,BH,World Cup
+2023-01-22,2,BH,World Cup
+2023-01-29,1,BH,World Cup
+2023-02-05,1,BH,World Cup
+2023-02-12,2,BH,World Cup
+2023-02-19,1,BH,World Cup
+2023-02-26,1,BH,World Cup
+2023-03-05,1,BH,World Cup
+2023-03-12,1,BH,World Cup
+2023-03-19,1,BH,World Cup
+2023-03-26,1,BH,World Cup
+2023-04-02,0,BH,World Cup
+2023-04-09,0,BH,World Cup
+2023-04-16,0,BH,World Cup
+2023-04-23,0,BH,World Cup
+2023-04-30,0,BH,World Cup
+2023-05-07,0,BH,World Cup
+2023-05-14,0,BH,World Cup
+2023-05-21,1,BH,World Cup
+2023-05-28,1,BH,World Cup
+2023-06-04,1,BH,World Cup
+2023-06-11,1,BH,World Cup
+2023-06-18,1,BH,World Cup
+2023-06-25,2,BH,World Cup
+2023-07-02,1,BH,World Cup
+2023-07-09,1,BH,World Cup
+2023-07-16,1,BH,World Cup
+2023-07-23,1,BH,World Cup
+2023-07-30,1,BH,World Cup
+2023-08-06,1,BH,World Cup
+2023-08-13,1,BH,World Cup
+2023-08-20,1,BH,World Cup
+2023-08-27,1,BH,World Cup
+2023-09-03,2,BH,World Cup
+2023-09-10,1,BH,World Cup
+2023-09-17,1,BH,World Cup
+2023-09-24,3,BH,World Cup
+2023-10-01,11,BH,World Cup
+2023-10-08,22,BH,World Cup
+2023-10-15,25,BH,World Cup
+2023-10-22,28,BH,World Cup
+2023-10-29,32,BH,World Cup
+2023-11-05,33,BH,World Cup
+2023-11-12,19,BH,World Cup
+2023-11-19,12,BH,World Cup
+2023-11-26,1,BH,World Cup
+2023-12-03,1,BH,World Cup
+2023-12-10,1,BH,World Cup
+2023-12-17,1,BH,World Cup
+2023-12-24,0,BH,World Cup
+2023-12-31,0,BH,World Cup
+2024-01-07,1,BH,World Cup
+2024-01-14,1,BH,World Cup
+2024-01-21,2,BH,World Cup
+2024-01-28,2,BH,World Cup
+2024-02-04,2,BH,World Cup
+2024-02-11,2,BH,World Cup
+2024-02-18,0,BH,World Cup
+2024-02-25,0,BH,World Cup
+2024-03-03,0,BH,World Cup
+2024-03-10,0,BH,World Cup
+2024-03-17,1,BH,World Cup
+2024-03-24,0,BH,World Cup
+2024-03-31,0,BH,World Cup
+2024-04-07,0,BH,World Cup
+2024-04-14,0,BH,World Cup
+2024-04-21,0,BH,World Cup
+2024-04-28,1,BH,World Cup
+2024-05-05,0,BH,World Cup
+2024-05-12,1,BH,World Cup
+2024-05-19,1,BH,World Cup
+2024-05-26,2,BH,World Cup
+2024-06-02,11,BH,World Cup
+2024-06-09,16,BH,World Cup
+2024-06-16,11,BH,World Cup
+2024-06-23,16,BH,World Cup
+2024-06-30,2,BH,World Cup
+2024-07-07,1,BH,World Cup
+2024-07-14,1,BH,World Cup
+2024-07-21,0,BH,World Cup
+2024-07-28,0,BH,World Cup
+2024-08-04,0,BH,World Cup
+2024-08-11,0,BH,World Cup
+2024-08-18,0,BH,World Cup
+2024-08-25,0,BH,World Cup
+2024-09-01,1,BH,World Cup
+2024-09-08,1,BH,World Cup
+2024-09-15,0,BH,World Cup
+2024-09-22,0,BH,World Cup
+2024-09-29,1,BH,World Cup
+2024-10-06,2,BH,World Cup
+2024-10-13,2,BH,World Cup
+2024-10-20,0,BH,World Cup
+2024-10-27,0,BH,World Cup
+2024-11-03,0,BH,World Cup
+2024-11-10,1,BH,World Cup
+2024-11-17,1,BH,World Cup
+2024-11-24,0,BH,World Cup
+2024-12-01,0,BH,World Cup
+2024-12-08,1,BH,World Cup
+2024-12-15,0,BH,World Cup
+2024-12-22,0,BH,World Cup
+2024-12-29,0,BH,World Cup
+2021-12-26,0,BH,ChatGPT
+2022-01-02,0,BH,ChatGPT
+2022-01-09,0,BH,ChatGPT
+2022-01-16,0,BH,ChatGPT
+2022-01-23,0,BH,ChatGPT
+2022-01-30,0,BH,ChatGPT
+2022-02-06,0,BH,ChatGPT
+2022-02-13,0,BH,ChatGPT
+2022-02-20,0,BH,ChatGPT
+2022-02-27,0,BH,ChatGPT
+2022-03-06,0,BH,ChatGPT
+2022-03-13,0,BH,ChatGPT
+2022-03-20,0,BH,ChatGPT
+2022-03-27,0,BH,ChatGPT
+2022-04-03,0,BH,ChatGPT
+2022-04-10,0,BH,ChatGPT
+2022-04-17,0,BH,ChatGPT
+2022-04-24,0,BH,ChatGPT
+2022-05-01,0,BH,ChatGPT
+2022-05-08,0,BH,ChatGPT
+2022-05-15,0,BH,ChatGPT
+2022-05-22,0,BH,ChatGPT
+2022-05-29,0,BH,ChatGPT
+2022-06-05,0,BH,ChatGPT
+2022-06-12,0,BH,ChatGPT
+2022-06-19,0,BH,ChatGPT
+2022-06-26,0,BH,ChatGPT
+2022-07-03,0,BH,ChatGPT
+2022-07-10,0,BH,ChatGPT
+2022-07-17,0,BH,ChatGPT
+2022-07-24,0,BH,ChatGPT
+2022-07-31,0,BH,ChatGPT
+2022-08-07,0,BH,ChatGPT
+2022-08-14,0,BH,ChatGPT
+2022-08-21,0,BH,ChatGPT
+2022-08-28,0,BH,ChatGPT
+2022-09-04,0,BH,ChatGPT
+2022-09-11,0,BH,ChatGPT
+2022-09-18,0,BH,ChatGPT
+2022-09-25,0,BH,ChatGPT
+2022-10-02,0,BH,ChatGPT
+2022-10-09,0,BH,ChatGPT
+2022-10-16,0,BH,ChatGPT
+2022-10-23,0,BH,ChatGPT
+2022-10-30,0,BH,ChatGPT
+2022-11-06,0,BH,ChatGPT
+2022-11-13,0,BH,ChatGPT
+2022-11-20,0,BH,ChatGPT
+2022-11-27,0,BH,ChatGPT
+2022-12-04,4,BH,ChatGPT
+2022-12-11,13,BH,ChatGPT
+2022-12-18,6,BH,ChatGPT
+2022-12-25,7,BH,ChatGPT
+2023-01-01,7,BH,ChatGPT
+2023-01-08,11,BH,ChatGPT
+2023-01-15,12,BH,ChatGPT
+2023-01-22,12,BH,ChatGPT
+2023-01-29,15,BH,ChatGPT
+2023-02-05,16,BH,ChatGPT
+2023-02-12,16,BH,ChatGPT
+2023-02-19,14,BH,ChatGPT
+2023-02-26,11,BH,ChatGPT
+2023-03-05,12,BH,ChatGPT
+2023-03-12,18,BH,ChatGPT
+2023-03-19,19,BH,ChatGPT
+2023-03-26,21,BH,ChatGPT
+2023-04-02,23,BH,ChatGPT
+2023-04-09,23,BH,ChatGPT
+2023-04-16,16,BH,ChatGPT
+2023-04-23,15,BH,ChatGPT
+2023-04-30,19,BH,ChatGPT
+2023-05-07,18,BH,ChatGPT
+2023-05-14,16,BH,ChatGPT
+2023-05-21,18,BH,ChatGPT
+2023-05-28,16,BH,ChatGPT
+2023-06-04,13,BH,ChatGPT
+2023-06-11,13,BH,ChatGPT
+2023-06-18,13,BH,ChatGPT
+2023-06-25,9,BH,ChatGPT
+2023-07-02,10,BH,ChatGPT
+2023-07-09,12,BH,ChatGPT
+2023-07-16,12,BH,ChatGPT
+2023-07-23,11,BH,ChatGPT
+2023-07-30,8,BH,ChatGPT
+2023-08-06,12,BH,ChatGPT
+2023-08-13,10,BH,ChatGPT
+2023-08-20,11,BH,ChatGPT
+2023-08-27,11,BH,ChatGPT
+2023-09-03,13,BH,ChatGPT
+2023-09-10,15,BH,ChatGPT
+2023-09-17,14,BH,ChatGPT
+2023-09-24,15,BH,ChatGPT
+2023-10-01,14,BH,ChatGPT
+2023-10-08,17,BH,ChatGPT
+2023-10-15,16,BH,ChatGPT
+2023-10-22,15,BH,ChatGPT
+2023-10-29,17,BH,ChatGPT
+2023-11-05,19,BH,ChatGPT
+2023-11-12,21,BH,ChatGPT
+2023-11-19,21,BH,ChatGPT
+2023-11-26,26,BH,ChatGPT
+2023-12-03,25,BH,ChatGPT
+2023-12-10,24,BH,ChatGPT
+2023-12-17,22,BH,ChatGPT
+2023-12-24,21,BH,ChatGPT
+2023-12-31,22,BH,ChatGPT
+2024-01-07,25,BH,ChatGPT
+2024-01-14,22,BH,ChatGPT
+2024-01-21,20,BH,ChatGPT
+2024-01-28,22,BH,ChatGPT
+2024-02-04,24,BH,ChatGPT
+2024-02-11,30,BH,ChatGPT
+2024-02-18,28,BH,ChatGPT
+2024-02-25,30,BH,ChatGPT
+2024-03-03,33,BH,ChatGPT
+2024-03-10,27,BH,ChatGPT
+2024-03-17,33,BH,ChatGPT
+2024-03-24,27,BH,ChatGPT
+2024-03-31,31,BH,ChatGPT
+2024-04-07,23,BH,ChatGPT
+2024-04-14,31,BH,ChatGPT
+2024-04-21,41,BH,ChatGPT
+2024-04-28,37,BH,ChatGPT
+2024-05-05,42,BH,ChatGPT
+2024-05-12,41,BH,ChatGPT
+2024-05-19,49,BH,ChatGPT
+2024-05-26,45,BH,ChatGPT
+2024-06-02,43,BH,ChatGPT
+2024-06-09,35,BH,ChatGPT
+2024-06-16,25,BH,ChatGPT
+2024-06-23,36,BH,ChatGPT
+2024-06-30,34,BH,ChatGPT
+2024-07-07,32,BH,ChatGPT
+2024-07-14,30,BH,ChatGPT
+2024-07-21,33,BH,ChatGPT
+2024-07-28,39,BH,ChatGPT
+2024-08-04,36,BH,ChatGPT
+2024-08-11,44,BH,ChatGPT
+2024-08-18,47,BH,ChatGPT
+2024-08-25,49,BH,ChatGPT
+2024-09-01,51,BH,ChatGPT
+2024-09-08,63,BH,ChatGPT
+2024-09-15,63,BH,ChatGPT
+2024-09-22,70,BH,ChatGPT
+2024-09-29,75,BH,ChatGPT
+2024-10-06,76,BH,ChatGPT
+2024-10-13,81,BH,ChatGPT
+2024-10-20,84,BH,ChatGPT
+2024-10-27,87,BH,ChatGPT
+2024-11-03,90,BH,ChatGPT
+2024-11-10,89,BH,ChatGPT
+2024-11-17,98,BH,ChatGPT
+2024-11-24,100,BH,ChatGPT
+2024-12-01,99,BH,ChatGPT
+2024-12-08,99,BH,ChatGPT
+2024-12-15,77,BH,ChatGPT
+2024-12-22,78,BH,ChatGPT
+2024-12-29,69,BH,ChatGPT
+2021-12-26,1,BH,ramadan
+2022-01-02,2,BH,ramadan
+2022-01-09,2,BH,ramadan
+2022-01-16,2,BH,ramadan
+2022-01-23,3,BH,ramadan
+2022-01-30,3,BH,ramadan
+2022-02-06,4,BH,ramadan
+2022-02-13,4,BH,ramadan
+2022-02-20,5,BH,ramadan
+2022-02-27,6,BH,ramadan
+2022-03-06,7,BH,ramadan
+2022-03-13,9,BH,ramadan
+2022-03-20,12,BH,ramadan
+2022-03-27,69,BH,ramadan
+2022-04-03,33,BH,ramadan
+2022-04-10,19,BH,ramadan
+2022-04-17,16,BH,ramadan
+2022-04-24,16,BH,ramadan
+2022-05-01,5,BH,ramadan
+2022-05-08,2,BH,ramadan
+2022-05-15,1,BH,ramadan
+2022-05-22,1,BH,ramadan
+2022-05-29,1,BH,ramadan
+2022-06-05,0,BH,ramadan
+2022-06-12,1,BH,ramadan
+2022-06-19,1,BH,ramadan
+2022-06-26,1,BH,ramadan
+2022-07-03,1,BH,ramadan
+2022-07-10,1,BH,ramadan
+2022-07-17,1,BH,ramadan
+2022-07-24,1,BH,ramadan
+2022-07-31,1,BH,ramadan
+2022-08-07,1,BH,ramadan
+2022-08-14,1,BH,ramadan
+2022-08-21,1,BH,ramadan
+2022-08-28,1,BH,ramadan
+2022-09-04,1,BH,ramadan
+2022-09-11,1,BH,ramadan
+2022-09-18,1,BH,ramadan
+2022-09-25,1,BH,ramadan
+2022-10-02,2,BH,ramadan
+2022-10-09,2,BH,ramadan
+2022-10-16,2,BH,ramadan
+2022-10-23,1,BH,ramadan
+2022-10-30,2,BH,ramadan
+2022-11-06,2,BH,ramadan
+2022-11-13,2,BH,ramadan
+2022-11-20,1,BH,ramadan
+2022-11-27,2,BH,ramadan
+2022-12-04,3,BH,ramadan
+2022-12-11,2,BH,ramadan
+2022-12-18,2,BH,ramadan
+2022-12-25,3,BH,ramadan
+2023-01-01,5,BH,ramadan
+2023-01-08,5,BH,ramadan
+2023-01-15,4,BH,ramadan
+2023-01-22,4,BH,ramadan
+2023-01-29,6,BH,ramadan
+2023-02-05,6,BH,ramadan
+2023-02-12,6,BH,ramadan
+2023-02-19,9,BH,ramadan
+2023-02-26,10,BH,ramadan
+2023-03-05,14,BH,ramadan
+2023-03-12,18,BH,ramadan
+2023-03-19,100,BH,ramadan
+2023-03-26,32,BH,ramadan
+2023-04-02,22,BH,ramadan
+2023-04-09,21,BH,ramadan
+2023-04-16,18,BH,ramadan
+2023-04-23,2,BH,ramadan
+2023-04-30,1,BH,ramadan
+2023-05-07,1,BH,ramadan
+2023-05-14,1,BH,ramadan
+2023-05-21,1,BH,ramadan
+2023-05-28,1,BH,ramadan
+2023-06-04,1,BH,ramadan
+2023-06-11,1,BH,ramadan
+2023-06-18,1,BH,ramadan
+2023-06-25,1,BH,ramadan
+2023-07-02,1,BH,ramadan
+2023-07-09,1,BH,ramadan
+2023-07-16,1,BH,ramadan
+2023-07-23,0,BH,ramadan
+2023-07-30,1,BH,ramadan
+2023-08-06,1,BH,ramadan
+2023-08-13,1,BH,ramadan
+2023-08-20,1,BH,ramadan
+2023-08-27,1,BH,ramadan
+2023-09-03,1,BH,ramadan
+2023-09-10,1,BH,ramadan
+2023-09-17,1,BH,ramadan
+2023-09-24,1,BH,ramadan
+2023-10-01,2,BH,ramadan
+2023-10-08,1,BH,ramadan
+2023-10-15,2,BH,ramadan
+2023-10-22,1,BH,ramadan
+2023-10-29,2,BH,ramadan
+2023-11-05,2,BH,ramadan
+2023-11-12,3,BH,ramadan
+2023-11-19,2,BH,ramadan
+2023-11-26,2,BH,ramadan
+2023-12-03,3,BH,ramadan
+2023-12-10,3,BH,ramadan
+2023-12-17,3,BH,ramadan
+2023-12-24,3,BH,ramadan
+2023-12-31,5,BH,ramadan
+2024-01-07,5,BH,ramadan
+2024-01-14,5,BH,ramadan
+2024-01-21,5,BH,ramadan
+2024-01-28,6,BH,ramadan
+2024-02-04,6,BH,ramadan
+2024-02-11,7,BH,ramadan
+2024-02-18,10,BH,ramadan
+2024-02-25,14,BH,ramadan
+2024-03-03,30,BH,ramadan
+2024-03-10,85,BH,ramadan
+2024-03-17,25,BH,ramadan
+2024-03-24,20,BH,ramadan
+2024-03-31,18,BH,ramadan
+2024-04-07,11,BH,ramadan
+2024-04-14,2,BH,ramadan
+2024-04-21,1,BH,ramadan
+2024-04-28,1,BH,ramadan
+2024-05-05,1,BH,ramadan
+2024-05-12,0,BH,ramadan
+2024-05-19,1,BH,ramadan
+2024-05-26,0,BH,ramadan
+2024-06-02,0,BH,ramadan
+2024-06-09,1,BH,ramadan
+2024-06-16,1,BH,ramadan
+2024-06-23,1,BH,ramadan
+2024-06-30,1,BH,ramadan
+2024-07-07,1,BH,ramadan
+2024-07-14,1,BH,ramadan
+2024-07-21,1,BH,ramadan
+2024-07-28,1,BH,ramadan
+2024-08-04,2,BH,ramadan
+2024-08-11,1,BH,ramadan
+2024-08-18,1,BH,ramadan
+2024-08-25,1,BH,ramadan
+2024-09-01,2,BH,ramadan
+2024-09-08,1,BH,ramadan
+2024-09-15,1,BH,ramadan
+2024-09-22,1,BH,ramadan
+2024-09-29,2,BH,ramadan
+2024-10-06,1,BH,ramadan
+2024-10-13,1,BH,ramadan
+2024-10-20,2,BH,ramadan
+2024-10-27,1,BH,ramadan
+2024-11-03,2,BH,ramadan
+2024-11-10,1,BH,ramadan
+2024-11-17,2,BH,ramadan
+2024-11-24,1,BH,ramadan
+2024-12-01,2,BH,ramadan
+2024-12-08,3,BH,ramadan
+2024-12-15,3,BH,ramadan
+2024-12-22,2,BH,ramadan
+2024-12-29,3,BH,ramadan
+2021-12-26,42,BH,bitcoin
+2022-01-02,64,BH,bitcoin
+2022-01-09,66,BH,bitcoin
+2022-01-16,82,BH,bitcoin
+2022-01-23,97,BH,bitcoin
+2022-01-30,66,BH,bitcoin
+2022-02-06,67,BH,bitcoin
+2022-02-13,66,BH,bitcoin
+2022-02-20,57,BH,bitcoin
+2022-02-27,53,BH,bitcoin
+2022-03-06,50,BH,bitcoin
+2022-03-13,47,BH,bitcoin
+2022-03-20,56,BH,bitcoin
+2022-03-27,55,BH,bitcoin
+2022-04-03,41,BH,bitcoin
+2022-04-10,43,BH,bitcoin
+2022-04-17,38,BH,bitcoin
+2022-04-24,36,BH,bitcoin
+2022-05-01,34,BH,bitcoin
+2022-05-08,81,BH,bitcoin
+2022-05-15,57,BH,bitcoin
+2022-05-22,41,BH,bitcoin
+2022-05-29,43,BH,bitcoin
+2022-06-05,40,BH,bitcoin
+2022-06-12,100,BH,bitcoin
+2022-06-19,67,BH,bitcoin
+2022-06-26,53,BH,bitcoin
+2022-07-03,42,BH,bitcoin
+2022-07-10,36,BH,bitcoin
+2022-07-17,36,BH,bitcoin
+2022-07-24,41,BH,bitcoin
+2022-07-31,30,BH,bitcoin
+2022-08-07,39,BH,bitcoin
+2022-08-14,46,BH,bitcoin
+2022-08-21,34,BH,bitcoin
+2022-08-28,29,BH,bitcoin
+2022-09-04,28,BH,bitcoin
+2022-09-11,37,BH,bitcoin
+2022-09-18,37,BH,bitcoin
+2022-09-25,30,BH,bitcoin
+2022-10-02,25,BH,bitcoin
+2022-10-09,30,BH,bitcoin
+2022-10-16,34,BH,bitcoin
+2022-10-23,22,BH,bitcoin
+2022-10-30,30,BH,bitcoin
+2022-11-06,37,BH,bitcoin
+2022-11-13,42,BH,bitcoin
+2022-11-20,23,BH,bitcoin
+2022-11-27,20,BH,bitcoin
+2022-12-04,18,BH,bitcoin
+2022-12-11,25,BH,bitcoin
+2022-12-18,19,BH,bitcoin
+2022-12-25,21,BH,bitcoin
+2023-01-01,24,BH,bitcoin
+2023-01-08,25,BH,bitcoin
+2023-01-15,23,BH,bitcoin
+2023-01-22,28,BH,bitcoin
+2023-01-29,30,BH,bitcoin
+2023-02-05,26,BH,bitcoin
+2023-02-12,34,BH,bitcoin
+2023-02-19,27,BH,bitcoin
+2023-02-26,19,BH,bitcoin
+2023-03-05,25,BH,bitcoin
+2023-03-12,43,BH,bitcoin
+2023-03-19,36,BH,bitcoin
+2023-03-26,38,BH,bitcoin
+2023-04-02,31,BH,bitcoin
+2023-04-09,31,BH,bitcoin
+2023-04-16,28,BH,bitcoin
+2023-04-23,34,BH,bitcoin
+2023-04-30,29,BH,bitcoin
+2023-05-07,19,BH,bitcoin
+2023-05-14,22,BH,bitcoin
+2023-05-21,31,BH,bitcoin
+2023-05-28,28,BH,bitcoin
+2023-06-04,20,BH,bitcoin
+2023-06-11,14,BH,bitcoin
+2023-06-18,29,BH,bitcoin
+2023-06-25,22,BH,bitcoin
+2023-07-02,23,BH,bitcoin
+2023-07-09,35,BH,bitcoin
+2023-07-16,17,BH,bitcoin
+2023-07-23,26,BH,bitcoin
+2023-07-30,23,BH,bitcoin
+2023-08-06,19,BH,bitcoin
+2023-08-13,37,BH,bitcoin
+2023-08-20,32,BH,bitcoin
+2023-08-27,32,BH,bitcoin
+2023-09-03,30,BH,bitcoin
+2023-09-10,33,BH,bitcoin
+2023-09-17,31,BH,bitcoin
+2023-09-24,28,BH,bitcoin
+2023-10-01,24,BH,bitcoin
+2023-10-08,19,BH,bitcoin
+2023-10-15,27,BH,bitcoin
+2023-10-22,37,BH,bitcoin
+2023-10-29,30,BH,bitcoin
+2023-11-05,29,BH,bitcoin
+2023-11-12,28,BH,bitcoin
+2023-11-19,29,BH,bitcoin
+2023-11-26,29,BH,bitcoin
+2023-12-03,55,BH,bitcoin
+2023-12-10,47,BH,bitcoin
+2023-12-17,42,BH,bitcoin
+2023-12-24,37,BH,bitcoin
+2023-12-31,46,BH,bitcoin
+2024-01-07,68,BH,bitcoin
+2024-01-14,36,BH,bitcoin
+2024-01-21,33,BH,bitcoin
+2024-01-28,21,BH,bitcoin
+2024-02-04,29,BH,bitcoin
+2024-02-11,37,BH,bitcoin
+2024-02-18,35,BH,bitcoin
+2024-02-25,69,BH,bitcoin
+2024-03-03,74,BH,bitcoin
+2024-03-10,72,BH,bitcoin
+2024-03-17,58,BH,bitcoin
+2024-03-24,56,BH,bitcoin
+2024-03-31,41,BH,bitcoin
+2024-04-07,44,BH,bitcoin
+2024-04-14,55,BH,bitcoin
+2024-04-21,27,BH,bitcoin
+2024-04-28,47,BH,bitcoin
+2024-05-05,26,BH,bitcoin
+2024-05-12,35,BH,bitcoin
+2024-05-19,29,BH,bitcoin
+2024-05-26,30,BH,bitcoin
+2024-06-02,36,BH,bitcoin
+2024-06-09,35,BH,bitcoin
+2024-06-16,33,BH,bitcoin
+2024-06-23,30,BH,bitcoin
+2024-06-30,32,BH,bitcoin
+2024-07-07,19,BH,bitcoin
+2024-07-14,30,BH,bitcoin
+2024-07-21,18,BH,bitcoin
+2024-07-28,20,BH,bitcoin
+2024-08-04,49,BH,bitcoin
+2024-08-11,25,BH,bitcoin
+2024-08-18,21,BH,bitcoin
+2024-08-25,41,BH,bitcoin
+2024-09-01,23,BH,bitcoin
+2024-09-08,27,BH,bitcoin
+2024-09-15,24,BH,bitcoin
+2024-09-22,21,BH,bitcoin
+2024-09-29,20,BH,bitcoin
+2024-10-06,24,BH,bitcoin
+2024-10-13,19,BH,bitcoin
+2024-10-20,22,BH,bitcoin
+2024-10-27,22,BH,bitcoin
+2024-11-03,52,BH,bitcoin
+2024-11-10,91,BH,bitcoin
+2024-11-17,70,BH,bitcoin
+2024-11-24,52,BH,bitcoin
+2024-12-01,62,BH,bitcoin
+2024-12-08,37,BH,bitcoin
+2024-12-15,67,BH,bitcoin
+2024-12-22,38,BH,bitcoin
+2024-12-29,26,BH,bitcoin
+2021-12-26,48,BH,weather
+2022-01-02,41,BH,weather
+2022-01-09,36,BH,weather
+2022-01-16,68,BH,weather
+2022-01-23,34,BH,weather
+2022-01-30,25,BH,weather
+2022-02-06,21,BH,weather
+2022-02-13,16,BH,weather
+2022-02-20,16,BH,weather
+2022-02-27,18,BH,weather
+2022-03-06,16,BH,weather
+2022-03-13,21,BH,weather
+2022-03-20,16,BH,weather
+2022-03-27,14,BH,weather
+2022-04-03,12,BH,weather
+2022-04-10,15,BH,weather
+2022-04-17,12,BH,weather
+2022-04-24,18,BH,weather
+2022-05-01,17,BH,weather
+2022-05-08,16,BH,weather
+2022-05-15,18,BH,weather
+2022-05-22,18,BH,weather
+2022-05-29,16,BH,weather
+2022-06-05,22,BH,weather
+2022-06-12,19,BH,weather
+2022-06-19,23,BH,weather
+2022-06-26,19,BH,weather
+2022-07-03,20,BH,weather
+2022-07-10,24,BH,weather
+2022-07-17,30,BH,weather
+2022-07-24,37,BH,weather
+2022-07-31,28,BH,weather
+2022-08-07,28,BH,weather
+2022-08-14,24,BH,weather
+2022-08-21,22,BH,weather
+2022-08-28,16,BH,weather
+2022-09-04,16,BH,weather
+2022-09-11,18,BH,weather
+2022-09-18,16,BH,weather
+2022-09-25,14,BH,weather
+2022-10-02,14,BH,weather
+2022-10-09,13,BH,weather
+2022-10-16,12,BH,weather
+2022-10-23,13,BH,weather
+2022-10-30,14,BH,weather
+2022-11-06,15,BH,weather
+2022-11-13,15,BH,weather
+2022-11-20,14,BH,weather
+2022-11-27,12,BH,weather
+2022-12-04,20,BH,weather
+2022-12-11,16,BH,weather
+2022-12-18,19,BH,weather
+2022-12-25,37,BH,weather
+2023-01-01,100,BH,weather
+2023-01-08,87,BH,weather
+2023-01-15,47,BH,weather
+2023-01-22,64,BH,weather
+2023-01-29,29,BH,weather
+2023-02-05,22,BH,weather
+2023-02-12,25,BH,weather
+2023-02-19,20,BH,weather
+2023-02-26,21,BH,weather
+2023-03-05,17,BH,weather
+2023-03-12,26,BH,weather
+2023-03-19,17,BH,weather
+2023-03-26,23,BH,weather
+2023-04-02,18,BH,weather
+2023-04-09,24,BH,weather
+2023-04-16,18,BH,weather
+2023-04-23,19,BH,weather
+2023-04-30,15,BH,weather
+2023-05-07,14,BH,weather
+2023-05-14,20,BH,weather
+2023-05-21,14,BH,weather
+2023-05-28,15,BH,weather
+2023-06-04,17,BH,weather
+2023-06-11,21,BH,weather
+2023-06-18,17,BH,weather
+2023-06-25,16,BH,weather
+2023-07-02,18,BH,weather
+2023-07-09,26,BH,weather
+2023-07-16,24,BH,weather
+2023-07-23,29,BH,weather
+2023-07-30,31,BH,weather
+2023-08-06,28,BH,weather
+2023-08-13,30,BH,weather
+2023-08-20,27,BH,weather
+2023-08-27,19,BH,weather
+2023-09-03,26,BH,weather
+2023-09-10,25,BH,weather
+2023-09-17,17,BH,weather
+2023-09-24,16,BH,weather
+2023-10-01,14,BH,weather
+2023-10-08,12,BH,weather
+2023-10-15,14,BH,weather
+2023-10-22,19,BH,weather
+2023-10-29,26,BH,weather
+2023-11-05,19,BH,weather
+2023-11-12,39,BH,weather
+2023-11-19,56,BH,weather
+2023-11-26,23,BH,weather
+2023-12-03,18,BH,weather
+2023-12-10,20,BH,weather
+2023-12-17,19,BH,weather
+2023-12-24,19,BH,weather
+2023-12-31,28,BH,weather
+2024-01-07,16,BH,weather
+2024-01-14,23,BH,weather
+2024-01-21,16,BH,weather
+2024-01-28,16,BH,weather
+2024-02-04,17,BH,weather
+2024-02-11,29,BH,weather
+2024-02-18,13,BH,weather
+2024-02-25,20,BH,weather
+2024-03-03,17,BH,weather
+2024-03-10,21,BH,weather
+2024-03-17,28,BH,weather
+2024-03-24,24,BH,weather
+2024-03-31,13,BH,weather
+2024-04-07,17,BH,weather
+2024-04-14,56,BH,weather
+2024-04-21,28,BH,weather
+2024-04-28,60,BH,weather
+2024-05-05,26,BH,weather
+2024-05-12,20,BH,weather
+2024-05-19,17,BH,weather
+2024-05-26,19,BH,weather
+2024-06-02,18,BH,weather
+2024-06-09,24,BH,weather
+2024-06-16,23,BH,weather
+2024-06-23,24,BH,weather
+2024-06-30,18,BH,weather
+2024-07-07,24,BH,weather
+2024-07-14,19,BH,weather
+2024-07-21,19,BH,weather
+2024-07-28,24,BH,weather
+2024-08-04,20,BH,weather
+2024-08-11,25,BH,weather
+2024-08-18,31,BH,weather
+2024-08-25,25,BH,weather
+2024-09-01,20,BH,weather
+2024-09-08,19,BH,weather
+2024-09-15,16,BH,weather
+2024-09-22,17,BH,weather
+2024-09-29,15,BH,weather
+2024-10-06,15,BH,weather
+2024-10-13,14,BH,weather
+2024-10-20,22,BH,weather
+2024-10-27,15,BH,weather
+2024-11-03,14,BH,weather
+2024-11-10,14,BH,weather
+2024-11-17,13,BH,weather
+2024-11-24,34,BH,weather
+2024-12-01,18,BH,weather
+2024-12-08,19,BH,weather
+2024-12-15,33,BH,weather
+2024-12-22,22,BH,weather
+2024-12-29,22,BH,weather
+2021-12-26,22,SA,inflation
+2022-01-02,27,SA,inflation
+2022-01-09,40,SA,inflation
+2022-01-16,34,SA,inflation
+2022-01-23,34,SA,inflation
+2022-01-30,31,SA,inflation
+2022-02-06,41,SA,inflation
+2022-02-13,40,SA,inflation
+2022-02-20,30,SA,inflation
+2022-02-27,30,SA,inflation
+2022-03-06,34,SA,inflation
+2022-03-13,31,SA,inflation
+2022-03-20,38,SA,inflation
+2022-03-27,39,SA,inflation
+2022-04-03,47,SA,inflation
+2022-04-10,37,SA,inflation
+2022-04-17,41,SA,inflation
+2022-04-24,38,SA,inflation
+2022-05-01,47,SA,inflation
+2022-05-08,57,SA,inflation
+2022-05-15,44,SA,inflation
+2022-05-22,36,SA,inflation
+2022-05-29,51,SA,inflation
+2022-06-05,54,SA,inflation
+2022-06-12,61,SA,inflation
+2022-06-19,46,SA,inflation
+2022-06-26,43,SA,inflation
+2022-07-03,53,SA,inflation
+2022-07-10,85,SA,inflation
+2022-07-17,33,SA,inflation
+2022-07-24,42,SA,inflation
+2022-07-31,38,SA,inflation
+2022-08-07,65,SA,inflation
+2022-08-14,45,SA,inflation
+2022-08-21,50,SA,inflation
+2022-08-28,30,SA,inflation
+2022-09-04,44,SA,inflation
+2022-09-11,48,SA,inflation
+2022-09-18,47,SA,inflation
+2022-09-25,45,SA,inflation
+2022-10-02,41,SA,inflation
+2022-10-09,55,SA,inflation
+2022-10-16,45,SA,inflation
+2022-10-23,40,SA,inflation
+2022-10-30,44,SA,inflation
+2022-11-06,59,SA,inflation
+2022-11-13,53,SA,inflation
+2022-11-20,26,SA,inflation
+2022-11-27,27,SA,inflation
+2022-12-04,33,SA,inflation
+2022-12-11,43,SA,inflation
+2022-12-18,32,SA,inflation
+2022-12-25,29,SA,inflation
+2023-01-01,35,SA,inflation
+2023-01-08,44,SA,inflation
+2023-01-15,38,SA,inflation
+2023-01-22,42,SA,inflation
+2023-01-29,41,SA,inflation
+2023-02-05,34,SA,inflation
+2023-02-12,37,SA,inflation
+2023-02-19,34,SA,inflation
+2023-02-26,34,SA,inflation
+2023-03-05,29,SA,inflation
+2023-03-12,41,SA,inflation
+2023-03-19,45,SA,inflation
+2023-03-26,36,SA,inflation
+2023-04-02,38,SA,inflation
+2023-04-09,39,SA,inflation
+2023-04-16,33,SA,inflation
+2023-04-23,29,SA,inflation
+2023-04-30,33,SA,inflation
+2023-05-07,35,SA,inflation
+2023-05-14,37,SA,inflation
+2023-05-21,32,SA,inflation
+2023-05-28,29,SA,inflation
+2023-06-04,30,SA,inflation
+2023-06-11,39,SA,inflation
+2023-06-18,26,SA,inflation
+2023-06-25,27,SA,inflation
+2023-07-02,35,SA,inflation
+2023-07-09,52,SA,inflation
+2023-07-16,33,SA,inflation
+2023-07-23,33,SA,inflation
+2023-07-30,34,SA,inflation
+2023-08-06,44,SA,inflation
+2023-08-13,28,SA,inflation
+2023-08-20,27,SA,inflation
+2023-08-27,35,SA,inflation
+2023-09-03,29,SA,inflation
+2023-09-10,37,SA,inflation
+2023-09-17,33,SA,inflation
+2023-09-24,30,SA,inflation
+2023-10-01,31,SA,inflation
+2023-10-08,39,SA,inflation
+2023-10-15,37,SA,inflation
+2023-10-22,26,SA,inflation
+2023-10-29,34,SA,inflation
+2023-11-05,35,SA,inflation
+2023-11-12,29,SA,inflation
+2023-11-19,30,SA,inflation
+2023-11-26,33,SA,inflation
+2023-12-03,35,SA,inflation
+2023-12-10,38,SA,inflation
+2023-12-17,32,SA,inflation
+2023-12-24,31,SA,inflation
+2023-12-31,33,SA,inflation
+2024-01-07,33,SA,inflation
+2024-01-14,36,SA,inflation
+2024-01-21,32,SA,inflation
+2024-01-28,39,SA,inflation
+2024-02-04,42,SA,inflation
+2024-02-11,76,SA,inflation
+2024-02-18,100,SA,inflation
+2024-02-25,57,SA,inflation
+2024-03-03,42,SA,inflation
+2024-03-10,38,SA,inflation
+2024-03-17,46,SA,inflation
+2024-03-24,24,SA,inflation
+2024-03-31,28,SA,inflation
+2024-04-07,31,SA,inflation
+2024-04-14,34,SA,inflation
+2024-04-21,35,SA,inflation
+2024-04-28,39,SA,inflation
+2024-05-05,44,SA,inflation
+2024-05-12,50,SA,inflation
+2024-05-19,31,SA,inflation
+2024-05-26,35,SA,inflation
+2024-06-02,30,SA,inflation
+2024-06-09,27,SA,inflation
+2024-06-16,26,SA,inflation
+2024-06-23,26,SA,inflation
+2024-06-30,34,SA,inflation
+2024-07-07,39,SA,inflation
+2024-07-14,39,SA,inflation
+2024-07-21,30,SA,inflation
+2024-07-28,35,SA,inflation
+2024-08-04,32,SA,inflation
+2024-08-11,34,SA,inflation
+2024-08-18,30,SA,inflation
+2024-08-25,29,SA,inflation
+2024-09-01,31,SA,inflation
+2024-09-08,41,SA,inflation
+2024-09-15,25,SA,inflation
+2024-09-22,30,SA,inflation
+2024-09-29,38,SA,inflation
+2024-10-06,31,SA,inflation
+2024-10-13,42,SA,inflation
+2024-10-20,34,SA,inflation
+2024-10-27,31,SA,inflation
+2024-11-03,35,SA,inflation
+2024-11-10,42,SA,inflation
+2024-11-17,33,SA,inflation
+2024-11-24,37,SA,inflation
+2024-12-01,36,SA,inflation
+2024-12-08,32,SA,inflation
+2024-12-15,29,SA,inflation
+2024-12-22,33,SA,inflation
+2024-12-29,21,SA,inflation
+2021-12-26,31,SA,electric car
+2022-01-02,30,SA,electric car
+2022-01-09,43,SA,electric car
+2022-01-16,46,SA,electric car
+2022-01-23,62,SA,electric car
+2022-01-30,43,SA,electric car
+2022-02-06,32,SA,electric car
+2022-02-13,39,SA,electric car
+2022-02-20,50,SA,electric car
+2022-02-27,35,SA,electric car
+2022-03-06,45,SA,electric car
+2022-03-13,49,SA,electric car
+2022-03-20,62,SA,electric car
+2022-03-27,56,SA,electric car
+2022-04-03,51,SA,electric car
+2022-04-10,66,SA,electric car
+2022-04-17,60,SA,electric car
+2022-04-24,47,SA,electric car
+2022-05-01,51,SA,electric car
+2022-05-08,73,SA,electric car
+2022-05-15,45,SA,electric car
+2022-05-22,49,SA,electric car
+2022-05-29,49,SA,electric car
+2022-06-05,56,SA,electric car
+2022-06-12,51,SA,electric car
+2022-06-19,44,SA,electric car
+2022-06-26,58,SA,electric car
+2022-07-03,56,SA,electric car
+2022-07-10,74,SA,electric car
+2022-07-17,55,SA,electric car
+2022-07-24,51,SA,electric car
+2022-07-31,66,SA,electric car
+2022-08-07,38,SA,electric car
+2022-08-14,69,SA,electric car
+2022-08-21,100,SA,electric car
+2022-08-28,43,SA,electric car
+2022-09-04,55,SA,electric car
+2022-09-11,43,SA,electric car
+2022-09-18,42,SA,electric car
+2022-09-25,37,SA,electric car
+2022-10-02,39,SA,electric car
+2022-10-09,43,SA,electric car
+2022-10-16,51,SA,electric car
+2022-10-23,53,SA,electric car
+2022-10-30,66,SA,electric car
+2022-11-06,49,SA,electric car
+2022-11-13,51,SA,electric car
+2022-11-20,62,SA,electric car
+2022-11-27,38,SA,electric car
+2022-12-04,57,SA,electric car
+2022-12-11,55,SA,electric car
+2022-12-18,47,SA,electric car
+2022-12-25,41,SA,electric car
+2023-01-01,44,SA,electric car
+2023-01-08,61,SA,electric car
+2023-01-15,46,SA,electric car
+2023-01-22,49,SA,electric car
+2023-01-29,73,SA,electric car
+2023-02-05,37,SA,electric car
+2023-02-12,61,SA,electric car
+2023-02-19,69,SA,electric car
+2023-02-26,52,SA,electric car
+2023-03-05,52,SA,electric car
+2023-03-12,45,SA,electric car
+2023-03-19,51,SA,electric car
+2023-03-26,66,SA,electric car
+2023-04-02,46,SA,electric car
+2023-04-09,34,SA,electric car
+2023-04-16,52,SA,electric car
+2023-04-23,60,SA,electric car
+2023-04-30,49,SA,electric car
+2023-05-07,54,SA,electric car
+2023-05-14,40,SA,electric car
+2023-05-21,67,SA,electric car
+2023-05-28,63,SA,electric car
+2023-06-04,38,SA,electric car
+2023-06-11,47,SA,electric car
+2023-06-18,63,SA,electric car
+2023-06-25,61,SA,electric car
+2023-07-02,51,SA,electric car
+2023-07-09,47,SA,electric car
+2023-07-16,52,SA,electric car
+2023-07-23,75,SA,electric car
+2023-07-30,47,SA,electric car
+2023-08-06,45,SA,electric car
+2023-08-13,68,SA,electric car
+2023-08-20,55,SA,electric car
+2023-08-27,49,SA,electric car
+2023-09-03,54,SA,electric car
+2023-09-10,52,SA,electric car
+2023-09-17,79,SA,electric car
+2023-09-24,70,SA,electric car
+2023-10-01,51,SA,electric car
+2023-10-08,55,SA,electric car
+2023-10-15,60,SA,electric car
+2023-10-22,48,SA,electric car
+2023-10-29,47,SA,electric car
+2023-11-05,38,SA,electric car
+2023-11-12,28,SA,electric car
+2023-11-19,57,SA,electric car
+2023-11-26,56,SA,electric car
+2023-12-03,25,SA,electric car
+2023-12-10,46,SA,electric car
+2023-12-17,27,SA,electric car
+2023-12-24,64,SA,electric car
+2023-12-31,65,SA,electric car
+2024-01-07,85,SA,electric car
+2024-01-14,45,SA,electric car
+2024-01-21,61,SA,electric car
+2024-01-28,66,SA,electric car
+2024-02-04,60,SA,electric car
+2024-02-11,48,SA,electric car
+2024-02-18,56,SA,electric car
+2024-02-25,63,SA,electric car
+2024-03-03,32,SA,electric car
+2024-03-10,60,SA,electric car
+2024-03-17,58,SA,electric car
+2024-03-24,62,SA,electric car
+2024-03-31,61,SA,electric car
+2024-04-07,72,SA,electric car
+2024-04-14,59,SA,electric car
+2024-04-21,48,SA,electric car
+2024-04-28,63,SA,electric car
+2024-05-05,62,SA,electric car
+2024-05-12,56,SA,electric car
+2024-05-19,45,SA,electric car
+2024-05-26,38,SA,electric car
+2024-06-02,33,SA,electric car
+2024-06-09,47,SA,electric car
+2024-06-16,72,SA,electric car
+2024-06-23,57,SA,electric car
+2024-06-30,55,SA,electric car
+2024-07-07,45,SA,electric car
+2024-07-14,55,SA,electric car
+2024-07-21,56,SA,electric car
+2024-07-28,74,SA,electric car
+2024-08-04,57,SA,electric car
+2024-08-11,62,SA,electric car
+2024-08-18,60,SA,electric car
+2024-08-25,46,SA,electric car
+2024-09-01,41,SA,electric car
+2024-09-08,53,SA,electric car
+2024-09-15,51,SA,electric car
+2024-09-22,46,SA,electric car
+2024-09-29,43,SA,electric car
+2024-10-06,44,SA,electric car
+2024-10-13,45,SA,electric car
+2024-10-20,46,SA,electric car
+2024-10-27,46,SA,electric car
+2024-11-03,55,SA,electric car
+2024-11-10,47,SA,electric car
+2024-11-17,60,SA,electric car
+2024-11-24,65,SA,electric car
+2024-12-01,44,SA,electric car
+2024-12-08,48,SA,electric car
+2024-12-15,58,SA,electric car
+2024-12-22,47,SA,electric car
+2024-12-29,52,SA,electric car
+2021-12-26,30,SA,artificial intelligence
+2022-01-02,21,SA,artificial intelligence
+2022-01-09,36,SA,artificial intelligence
+2022-01-16,34,SA,artificial intelligence
+2022-01-23,49,SA,artificial intelligence
+2022-01-30,43,SA,artificial intelligence
+2022-02-06,50,SA,artificial intelligence
+2022-02-13,48,SA,artificial intelligence
+2022-02-20,52,SA,artificial intelligence
+2022-02-27,55,SA,artificial intelligence
+2022-03-06,40,SA,artificial intelligence
+2022-03-13,54,SA,artificial intelligence
+2022-03-20,86,SA,artificial intelligence
+2022-03-27,48,SA,artificial intelligence
+2022-04-03,46,SA,artificial intelligence
+2022-04-10,50,SA,artificial intelligence
+2022-04-17,50,SA,artificial intelligence
+2022-04-24,34,SA,artificial intelligence
+2022-05-01,32,SA,artificial intelligence
+2022-05-08,52,SA,artificial intelligence
+2022-05-15,38,SA,artificial intelligence
+2022-05-22,37,SA,artificial intelligence
+2022-05-29,48,SA,artificial intelligence
+2022-06-05,37,SA,artificial intelligence
+2022-06-12,38,SA,artificial intelligence
+2022-06-19,30,SA,artificial intelligence
+2022-06-26,30,SA,artificial intelligence
+2022-07-03,33,SA,artificial intelligence
+2022-07-10,33,SA,artificial intelligence
+2022-07-17,29,SA,artificial intelligence
+2022-07-24,33,SA,artificial intelligence
+2022-07-31,42,SA,artificial intelligence
+2022-08-07,40,SA,artificial intelligence
+2022-08-14,46,SA,artificial intelligence
+2022-08-21,42,SA,artificial intelligence
+2022-08-28,43,SA,artificial intelligence
+2022-09-04,45,SA,artificial intelligence
+2022-09-11,62,SA,artificial intelligence
+2022-09-18,49,SA,artificial intelligence
+2022-09-25,40,SA,artificial intelligence
+2022-10-02,49,SA,artificial intelligence
+2022-10-09,42,SA,artificial intelligence
+2022-10-16,54,SA,artificial intelligence
+2022-10-23,47,SA,artificial intelligence
+2022-10-30,73,SA,artificial intelligence
+2022-11-06,50,SA,artificial intelligence
+2022-11-13,34,SA,artificial intelligence
+2022-11-20,37,SA,artificial intelligence
+2022-11-27,28,SA,artificial intelligence
+2022-12-04,58,SA,artificial intelligence
+2022-12-11,41,SA,artificial intelligence
+2022-12-18,52,SA,artificial intelligence
+2022-12-25,40,SA,artificial intelligence
+2023-01-01,40,SA,artificial intelligence
+2023-01-08,44,SA,artificial intelligence
+2023-01-15,63,SA,artificial intelligence
+2023-01-22,62,SA,artificial intelligence
+2023-01-29,71,SA,artificial intelligence
+2023-02-05,71,SA,artificial intelligence
+2023-02-12,59,SA,artificial intelligence
+2023-02-19,47,SA,artificial intelligence
+2023-02-26,46,SA,artificial intelligence
+2023-03-05,42,SA,artificial intelligence
+2023-03-12,60,SA,artificial intelligence
+2023-03-19,64,SA,artificial intelligence
+2023-03-26,56,SA,artificial intelligence
+2023-04-02,52,SA,artificial intelligence
+2023-04-09,73,SA,artificial intelligence
+2023-04-16,47,SA,artificial intelligence
+2023-04-23,52,SA,artificial intelligence
+2023-04-30,71,SA,artificial intelligence
+2023-05-07,94,SA,artificial intelligence
+2023-05-14,80,SA,artificial intelligence
+2023-05-21,81,SA,artificial intelligence
+2023-05-28,81,SA,artificial intelligence
+2023-06-04,67,SA,artificial intelligence
+2023-06-11,81,SA,artificial intelligence
+2023-06-18,52,SA,artificial intelligence
+2023-06-25,42,SA,artificial intelligence
+2023-07-02,47,SA,artificial intelligence
+2023-07-09,58,SA,artificial intelligence
+2023-07-16,55,SA,artificial intelligence
+2023-07-23,63,SA,artificial intelligence
+2023-07-30,61,SA,artificial intelligence
+2023-08-06,50,SA,artificial intelligence
+2023-08-13,53,SA,artificial intelligence
+2023-08-20,58,SA,artificial intelligence
+2023-08-27,57,SA,artificial intelligence
+2023-09-03,73,SA,artificial intelligence
+2023-09-10,71,SA,artificial intelligence
+2023-09-17,68,SA,artificial intelligence
+2023-09-24,55,SA,artificial intelligence
+2023-10-01,80,SA,artificial intelligence
+2023-10-08,68,SA,artificial intelligence
+2023-10-15,67,SA,artificial intelligence
+2023-10-22,66,SA,artificial intelligence
+2023-10-29,63,SA,artificial intelligence
+2023-11-05,69,SA,artificial intelligence
+2023-11-12,60,SA,artificial intelligence
+2023-11-19,61,SA,artificial intelligence
+2023-11-26,69,SA,artificial intelligence
+2023-12-03,61,SA,artificial intelligence
+2023-12-10,61,SA,artificial intelligence
+2023-12-17,69,SA,artificial intelligence
+2023-12-24,45,SA,artificial intelligence
+2023-12-31,55,SA,artificial intelligence
+2024-01-07,67,SA,artificial intelligence
+2024-01-14,62,SA,artificial intelligence
+2024-01-21,83,SA,artificial intelligence
+2024-01-28,79,SA,artificial intelligence
+2024-02-04,74,SA,artificial intelligence
+2024-02-11,79,SA,artificial intelligence
+2024-02-18,73,SA,artificial intelligence
+2024-02-25,78,SA,artificial intelligence
+2024-03-03,70,SA,artificial intelligence
+2024-03-10,75,SA,artificial intelligence
+2024-03-17,79,SA,artificial intelligence
+2024-03-24,56,SA,artificial intelligence
+2024-03-31,47,SA,artificial intelligence
+2024-04-07,41,SA,artificial intelligence
+2024-04-14,75,SA,artificial intelligence
+2024-04-21,72,SA,artificial intelligence
+2024-04-28,87,SA,artificial intelligence
+2024-05-05,90,SA,artificial intelligence
+2024-05-12,100,SA,artificial intelligence
+2024-05-19,84,SA,artificial intelligence
+2024-05-26,80,SA,artificial intelligence
+2024-06-02,78,SA,artificial intelligence
+2024-06-09,69,SA,artificial intelligence
+2024-06-16,49,SA,artificial intelligence
+2024-06-23,75,SA,artificial intelligence
+2024-06-30,57,SA,artificial intelligence
+2024-07-07,78,SA,artificial intelligence
+2024-07-14,82,SA,artificial intelligence
+2024-07-21,79,SA,artificial intelligence
+2024-07-28,77,SA,artificial intelligence
+2024-08-04,65,SA,artificial intelligence
+2024-08-11,63,SA,artificial intelligence
+2024-08-18,72,SA,artificial intelligence
+2024-08-25,87,SA,artificial intelligence
+2024-09-01,81,SA,artificial intelligence
+2024-09-08,88,SA,artificial intelligence
+2024-09-15,93,SA,artificial intelligence
+2024-09-22,78,SA,artificial intelligence
+2024-09-29,78,SA,artificial intelligence
+2024-10-06,81,SA,artificial intelligence
+2024-10-13,77,SA,artificial intelligence
+2024-10-20,84,SA,artificial intelligence
+2024-10-27,69,SA,artificial intelligence
+2024-11-03,67,SA,artificial intelligence
+2024-11-10,76,SA,artificial intelligence
+2024-11-17,76,SA,artificial intelligence
+2024-11-24,53,SA,artificial intelligence
+2024-12-01,89,SA,artificial intelligence
+2024-12-08,75,SA,artificial intelligence
+2024-12-15,53,SA,artificial intelligence
+2024-12-22,60,SA,artificial intelligence
+2024-12-29,63,SA,artificial intelligence
+2021-12-26,0,SA,World Cup
+2022-01-02,0,SA,World Cup
+2022-01-09,0,SA,World Cup
+2022-01-16,1,SA,World Cup
+2022-01-23,1,SA,World Cup
+2022-01-30,1,SA,World Cup
+2022-02-06,1,SA,World Cup
+2022-02-13,0,SA,World Cup
+2022-02-20,0,SA,World Cup
+2022-02-27,0,SA,World Cup
+2022-03-06,1,SA,World Cup
+2022-03-13,1,SA,World Cup
+2022-03-20,2,SA,World Cup
+2022-03-27,2,SA,World Cup
+2022-04-03,1,SA,World Cup
+2022-04-10,0,SA,World Cup
+2022-04-17,0,SA,World Cup
+2022-04-24,0,SA,World Cup
+2022-05-01,0,SA,World Cup
+2022-05-08,0,SA,World Cup
+2022-05-15,0,SA,World Cup
+2022-05-22,0,SA,World Cup
+2022-05-29,1,SA,World Cup
+2022-06-05,1,SA,World Cup
+2022-06-12,1,SA,World Cup
+2022-06-19,0,SA,World Cup
+2022-06-26,0,SA,World Cup
+2022-07-03,0,SA,World Cup
+2022-07-10,0,SA,World Cup
+2022-07-17,0,SA,World Cup
+2022-07-24,0,SA,World Cup
+2022-07-31,0,SA,World Cup
+2022-08-07,0,SA,World Cup
+2022-08-14,0,SA,World Cup
+2022-08-21,1,SA,World Cup
+2022-08-28,1,SA,World Cup
+2022-09-04,1,SA,World Cup
+2022-09-11,2,SA,World Cup
+2022-09-18,1,SA,World Cup
+2022-09-25,1,SA,World Cup
+2022-10-02,1,SA,World Cup
+2022-10-09,2,SA,World Cup
+2022-10-16,7,SA,World Cup
+2022-10-23,14,SA,World Cup
+2022-10-30,20,SA,World Cup
+2022-11-06,17,SA,World Cup
+2022-11-13,11,SA,World Cup
+2022-11-20,85,SA,World Cup
+2022-11-27,100,SA,World Cup
+2022-12-04,70,SA,World Cup
+2022-12-11,41,SA,World Cup
+2022-12-18,19,SA,World Cup
+2022-12-25,1,SA,World Cup
+2023-01-01,1,SA,World Cup
+2023-01-08,1,SA,World Cup
+2023-01-15,1,SA,World Cup
+2023-01-22,1,SA,World Cup
+2023-01-29,1,SA,World Cup
+2023-02-05,2,SA,World Cup
+2023-02-12,2,SA,World Cup
+2023-02-19,2,SA,World Cup
+2023-02-26,1,SA,World Cup
+2023-03-05,0,SA,World Cup
+2023-03-12,1,SA,World Cup
+2023-03-19,0,SA,World Cup
+2023-03-26,0,SA,World Cup
+2023-04-02,0,SA,World Cup
+2023-04-09,0,SA,World Cup
+2023-04-16,0,SA,World Cup
+2023-04-23,0,SA,World Cup
+2023-04-30,0,SA,World Cup
+2023-05-07,0,SA,World Cup
+2023-05-14,0,SA,World Cup
+2023-05-21,1,SA,World Cup
+2023-05-28,1,SA,World Cup
+2023-06-04,1,SA,World Cup
+2023-06-11,1,SA,World Cup
+2023-06-18,1,SA,World Cup
+2023-06-25,2,SA,World Cup
+2023-07-02,1,SA,World Cup
+2023-07-09,1,SA,World Cup
+2023-07-16,1,SA,World Cup
+2023-07-23,1,SA,World Cup
+2023-07-30,1,SA,World Cup
+2023-08-06,1,SA,World Cup
+2023-08-13,1,SA,World Cup
+2023-08-20,1,SA,World Cup
+2023-08-27,1,SA,World Cup
+2023-09-03,2,SA,World Cup
+2023-09-10,1,SA,World Cup
+2023-09-17,2,SA,World Cup
+2023-09-24,4,SA,World Cup
+2023-10-01,12,SA,World Cup
+2023-10-08,28,SA,World Cup
+2023-10-15,28,SA,World Cup
+2023-10-22,29,SA,World Cup
+2023-10-29,38,SA,World Cup
+2023-11-05,36,SA,World Cup
+2023-11-12,22,SA,World Cup
+2023-11-19,13,SA,World Cup
+2023-11-26,2,SA,World Cup
+2023-12-03,1,SA,World Cup
+2023-12-10,2,SA,World Cup
+2023-12-17,2,SA,World Cup
+2023-12-24,0,SA,World Cup
+2023-12-31,0,SA,World Cup
+2024-01-07,1,SA,World Cup
+2024-01-14,1,SA,World Cup
+2024-01-21,3,SA,World Cup
+2024-01-28,3,SA,World Cup
+2024-02-04,3,SA,World Cup
+2024-02-11,1,SA,World Cup
+2024-02-18,0,SA,World Cup
+2024-02-25,0,SA,World Cup
+2024-03-03,0,SA,World Cup
+2024-03-10,0,SA,World Cup
+2024-03-17,1,SA,World Cup
+2024-03-24,1,SA,World Cup
+2024-03-31,0,SA,World Cup
+2024-04-07,0,SA,World Cup
+2024-04-14,0,SA,World Cup
+2024-04-21,0,SA,World Cup
+2024-04-28,1,SA,World Cup
+2024-05-05,1,SA,World Cup
+2024-05-12,1,SA,World Cup
+2024-05-19,1,SA,World Cup
+2024-05-26,3,SA,World Cup
+2024-06-02,13,SA,World Cup
+2024-06-09,18,SA,World Cup
+2024-06-16,16,SA,World Cup
+2024-06-23,17,SA,World Cup
+2024-06-30,2,SA,World Cup
+2024-07-07,1,SA,World Cup
+2024-07-14,1,SA,World Cup
+2024-07-21,1,SA,World Cup
+2024-07-28,1,SA,World Cup
+2024-08-04,0,SA,World Cup
+2024-08-11,0,SA,World Cup
+2024-08-18,0,SA,World Cup
+2024-08-25,0,SA,World Cup
+2024-09-01,1,SA,World Cup
+2024-09-08,1,SA,World Cup
+2024-09-15,0,SA,World Cup
+2024-09-22,0,SA,World Cup
+2024-09-29,1,SA,World Cup
+2024-10-06,2,SA,World Cup
+2024-10-13,2,SA,World Cup
+2024-10-20,0,SA,World Cup
+2024-10-27,0,SA,World Cup
+2024-11-03,0,SA,World Cup
+2024-11-10,1,SA,World Cup
+2024-11-17,1,SA,World Cup
+2024-11-24,0,SA,World Cup
+2024-12-01,1,SA,World Cup
+2024-12-08,2,SA,World Cup
+2024-12-15,0,SA,World Cup
+2024-12-22,0,SA,World Cup
+2024-12-29,0,SA,World Cup
+2021-12-26,0,SA,ChatGPT
+2022-01-02,0,SA,ChatGPT
+2022-01-09,0,SA,ChatGPT
+2022-01-16,0,SA,ChatGPT
+2022-01-23,0,SA,ChatGPT
+2022-01-30,0,SA,ChatGPT
+2022-02-06,0,SA,ChatGPT
+2022-02-13,0,SA,ChatGPT
+2022-02-20,0,SA,ChatGPT
+2022-02-27,0,SA,ChatGPT
+2022-03-06,0,SA,ChatGPT
+2022-03-13,0,SA,ChatGPT
+2022-03-20,0,SA,ChatGPT
+2022-03-27,0,SA,ChatGPT
+2022-04-03,0,SA,ChatGPT
+2022-04-10,0,SA,ChatGPT
+2022-04-17,0,SA,ChatGPT
+2022-04-24,0,SA,ChatGPT
+2022-05-01,0,SA,ChatGPT
+2022-05-08,0,SA,ChatGPT
+2022-05-15,0,SA,ChatGPT
+2022-05-22,0,SA,ChatGPT
+2022-05-29,0,SA,ChatGPT
+2022-06-05,0,SA,ChatGPT
+2022-06-12,0,SA,ChatGPT
+2022-06-19,0,SA,ChatGPT
+2022-06-26,0,SA,ChatGPT
+2022-07-03,0,SA,ChatGPT
+2022-07-10,0,SA,ChatGPT
+2022-07-17,0,SA,ChatGPT
+2022-07-24,0,SA,ChatGPT
+2022-07-31,0,SA,ChatGPT
+2022-08-07,0,SA,ChatGPT
+2022-08-14,0,SA,ChatGPT
+2022-08-21,0,SA,ChatGPT
+2022-08-28,0,SA,ChatGPT
+2022-09-04,0,SA,ChatGPT
+2022-09-11,0,SA,ChatGPT
+2022-09-18,0,SA,ChatGPT
+2022-09-25,0,SA,ChatGPT
+2022-10-02,0,SA,ChatGPT
+2022-10-09,0,SA,ChatGPT
+2022-10-16,0,SA,ChatGPT
+2022-10-23,0,SA,ChatGPT
+2022-10-30,0,SA,ChatGPT
+2022-11-06,0,SA,ChatGPT
+2022-11-13,0,SA,ChatGPT
+2022-11-20,0,SA,ChatGPT
+2022-11-27,1,SA,ChatGPT
+2022-12-04,5,SA,ChatGPT
+2022-12-11,20,SA,ChatGPT
+2022-12-18,10,SA,ChatGPT
+2022-12-25,10,SA,ChatGPT
+2023-01-01,10,SA,ChatGPT
+2023-01-08,16,SA,ChatGPT
+2023-01-15,16,SA,ChatGPT
+2023-01-22,17,SA,ChatGPT
+2023-01-29,16,SA,ChatGPT
+2023-02-05,20,SA,ChatGPT
+2023-02-12,19,SA,ChatGPT
+2023-02-19,15,SA,ChatGPT
+2023-02-26,13,SA,ChatGPT
+2023-03-05,15,SA,ChatGPT
+2023-03-12,21,SA,ChatGPT
+2023-03-19,24,SA,ChatGPT
+2023-03-26,29,SA,ChatGPT
+2023-04-02,26,SA,ChatGPT
+2023-04-09,25,SA,ChatGPT
+2023-04-16,17,SA,ChatGPT
+2023-04-23,17,SA,ChatGPT
+2023-04-30,20,SA,ChatGPT
+2023-05-07,20,SA,ChatGPT
+2023-05-14,20,SA,ChatGPT
+2023-05-21,19,SA,ChatGPT
+2023-05-28,20,SA,ChatGPT
+2023-06-04,16,SA,ChatGPT
+2023-06-11,16,SA,ChatGPT
+2023-06-18,13,SA,ChatGPT
+2023-06-25,10,SA,ChatGPT
+2023-07-02,12,SA,ChatGPT
+2023-07-09,14,SA,ChatGPT
+2023-07-16,13,SA,ChatGPT
+2023-07-23,13,SA,ChatGPT
+2023-07-30,13,SA,ChatGPT
+2023-08-06,24,SA,ChatGPT
+2023-08-13,21,SA,ChatGPT
+2023-08-20,19,SA,ChatGPT
+2023-08-27,20,SA,ChatGPT
+2023-09-03,24,SA,ChatGPT
+2023-09-10,27,SA,ChatGPT
+2023-09-17,27,SA,ChatGPT
+2023-09-24,28,SA,ChatGPT
+2023-10-01,28,SA,ChatGPT
+2023-10-08,29,SA,ChatGPT
+2023-10-15,33,SA,ChatGPT
+2023-10-22,32,SA,ChatGPT
+2023-10-29,31,SA,ChatGPT
+2023-11-05,35,SA,ChatGPT
+2023-11-12,32,SA,ChatGPT
+2023-11-19,27,SA,ChatGPT
+2023-11-26,36,SA,ChatGPT
+2023-12-03,41,SA,ChatGPT
+2023-12-10,36,SA,ChatGPT
+2023-12-17,36,SA,ChatGPT
+2023-12-24,30,SA,ChatGPT
+2023-12-31,30,SA,ChatGPT
+2024-01-07,32,SA,ChatGPT
+2024-01-14,33,SA,ChatGPT
+2024-01-21,38,SA,ChatGPT
+2024-01-28,39,SA,ChatGPT
+2024-02-04,44,SA,ChatGPT
+2024-02-11,42,SA,ChatGPT
+2024-02-18,37,SA,ChatGPT
+2024-02-25,37,SA,ChatGPT
+2024-03-03,42,SA,ChatGPT
+2024-03-10,35,SA,ChatGPT
+2024-03-17,42,SA,ChatGPT
+2024-03-24,39,SA,ChatGPT
+2024-03-31,30,SA,ChatGPT
+2024-04-07,21,SA,ChatGPT
+2024-04-14,44,SA,ChatGPT
+2024-04-21,51,SA,ChatGPT
+2024-04-28,54,SA,ChatGPT
+2024-05-05,67,SA,ChatGPT
+2024-05-12,68,SA,ChatGPT
+2024-05-19,59,SA,ChatGPT
+2024-05-26,55,SA,ChatGPT
+2024-06-02,55,SA,ChatGPT
+2024-06-09,40,SA,ChatGPT
+2024-06-16,29,SA,ChatGPT
+2024-06-23,43,SA,ChatGPT
+2024-06-30,46,SA,ChatGPT
+2024-07-07,49,SA,ChatGPT
+2024-07-14,49,SA,ChatGPT
+2024-07-21,51,SA,ChatGPT
+2024-07-28,53,SA,ChatGPT
+2024-08-04,55,SA,ChatGPT
+2024-08-11,54,SA,ChatGPT
+2024-08-18,60,SA,ChatGPT
+2024-08-25,65,SA,ChatGPT
+2024-09-01,74,SA,ChatGPT
+2024-09-08,77,SA,ChatGPT
+2024-09-15,73,SA,ChatGPT
+2024-09-22,79,SA,ChatGPT
+2024-09-29,76,SA,ChatGPT
+2024-10-06,84,SA,ChatGPT
+2024-10-13,81,SA,ChatGPT
+2024-10-20,93,SA,ChatGPT
+2024-10-27,90,SA,ChatGPT
+2024-11-03,84,SA,ChatGPT
+2024-11-10,88,SA,ChatGPT
+2024-11-17,100,SA,ChatGPT
+2024-11-24,93,SA,ChatGPT
+2024-12-01,94,SA,ChatGPT
+2024-12-08,94,SA,ChatGPT
+2024-12-15,92,SA,ChatGPT
+2024-12-22,85,SA,ChatGPT
+2024-12-29,73,SA,ChatGPT
+2021-12-26,1,SA,ramadan
+2022-01-02,2,SA,ramadan
+2022-01-09,2,SA,ramadan
+2022-01-16,2,SA,ramadan
+2022-01-23,2,SA,ramadan
+2022-01-30,3,SA,ramadan
+2022-02-06,2,SA,ramadan
+2022-02-13,3,SA,ramadan
+2022-02-20,3,SA,ramadan
+2022-02-27,5,SA,ramadan
+2022-03-06,6,SA,ramadan
+2022-03-13,8,SA,ramadan
+2022-03-20,11,SA,ramadan
+2022-03-27,70,SA,ramadan
+2022-04-03,29,SA,ramadan
+2022-04-10,15,SA,ramadan
+2022-04-17,14,SA,ramadan
+2022-04-24,16,SA,ramadan
+2022-05-01,4,SA,ramadan
+2022-05-08,1,SA,ramadan
+2022-05-15,1,SA,ramadan
+2022-05-22,1,SA,ramadan
+2022-05-29,1,SA,ramadan
+2022-06-05,1,SA,ramadan
+2022-06-12,1,SA,ramadan
+2022-06-19,1,SA,ramadan
+2022-06-26,1,SA,ramadan
+2022-07-03,1,SA,ramadan
+2022-07-10,1,SA,ramadan
+2022-07-17,1,SA,ramadan
+2022-07-24,1,SA,ramadan
+2022-07-31,1,SA,ramadan
+2022-08-07,1,SA,ramadan
+2022-08-14,1,SA,ramadan
+2022-08-21,1,SA,ramadan
+2022-08-28,1,SA,ramadan
+2022-09-04,1,SA,ramadan
+2022-09-11,1,SA,ramadan
+2022-09-18,1,SA,ramadan
+2022-09-25,1,SA,ramadan
+2022-10-02,1,SA,ramadan
+2022-10-09,1,SA,ramadan
+2022-10-16,1,SA,ramadan
+2022-10-23,2,SA,ramadan
+2022-10-30,2,SA,ramadan
+2022-11-06,2,SA,ramadan
+2022-11-13,2,SA,ramadan
+2022-11-20,2,SA,ramadan
+2022-11-27,2,SA,ramadan
+2022-12-04,2,SA,ramadan
+2022-12-11,2,SA,ramadan
+2022-12-18,3,SA,ramadan
+2022-12-25,3,SA,ramadan
+2023-01-01,3,SA,ramadan
+2023-01-08,3,SA,ramadan
+2023-01-15,4,SA,ramadan
+2023-01-22,3,SA,ramadan
+2023-01-29,4,SA,ramadan
+2023-02-05,4,SA,ramadan
+2023-02-12,5,SA,ramadan
+2023-02-19,5,SA,ramadan
+2023-02-26,7,SA,ramadan
+2023-03-05,10,SA,ramadan
+2023-03-12,16,SA,ramadan
+2023-03-19,100,SA,ramadan
+2023-03-26,23,SA,ramadan
+2023-04-02,17,SA,ramadan
+2023-04-09,18,SA,ramadan
+2023-04-16,18,SA,ramadan
+2023-04-23,2,SA,ramadan
+2023-04-30,1,SA,ramadan
+2023-05-07,1,SA,ramadan
+2023-05-14,1,SA,ramadan
+2023-05-21,1,SA,ramadan
+2023-05-28,1,SA,ramadan
+2023-06-04,1,SA,ramadan
+2023-06-11,1,SA,ramadan
+2023-06-18,1,SA,ramadan
+2023-06-25,1,SA,ramadan
+2023-07-02,1,SA,ramadan
+2023-07-09,1,SA,ramadan
+2023-07-16,1,SA,ramadan
+2023-07-23,1,SA,ramadan
+2023-07-30,1,SA,ramadan
+2023-08-06,1,SA,ramadan
+2023-08-13,1,SA,ramadan
+2023-08-20,1,SA,ramadan
+2023-08-27,1,SA,ramadan
+2023-09-03,1,SA,ramadan
+2023-09-10,1,SA,ramadan
+2023-09-17,1,SA,ramadan
+2023-09-24,1,SA,ramadan
+2023-10-01,1,SA,ramadan
+2023-10-08,1,SA,ramadan
+2023-10-15,1,SA,ramadan
+2023-10-22,2,SA,ramadan
+2023-10-29,2,SA,ramadan
+2023-11-05,2,SA,ramadan
+2023-11-12,2,SA,ramadan
+2023-11-19,2,SA,ramadan
+2023-11-26,3,SA,ramadan
+2023-12-03,2,SA,ramadan
+2023-12-10,3,SA,ramadan
+2023-12-17,3,SA,ramadan
+2023-12-24,3,SA,ramadan
+2023-12-31,4,SA,ramadan
+2024-01-07,4,SA,ramadan
+2024-01-14,4,SA,ramadan
+2024-01-21,4,SA,ramadan
+2024-01-28,4,SA,ramadan
+2024-02-04,5,SA,ramadan
+2024-02-11,6,SA,ramadan
+2024-02-18,7,SA,ramadan
+2024-02-25,12,SA,ramadan
+2024-03-03,25,SA,ramadan
+2024-03-10,79,SA,ramadan
+2024-03-17,18,SA,ramadan
+2024-03-24,17,SA,ramadan
+2024-03-31,20,SA,ramadan
+2024-04-07,11,SA,ramadan
+2024-04-14,2,SA,ramadan
+2024-04-21,1,SA,ramadan
+2024-04-28,1,SA,ramadan
+2024-05-05,1,SA,ramadan
+2024-05-12,1,SA,ramadan
+2024-05-19,1,SA,ramadan
+2024-05-26,1,SA,ramadan
+2024-06-02,1,SA,ramadan
+2024-06-09,1,SA,ramadan
+2024-06-16,1,SA,ramadan
+2024-06-23,1,SA,ramadan
+2024-06-30,1,SA,ramadan
+2024-07-07,1,SA,ramadan
+2024-07-14,1,SA,ramadan
+2024-07-21,1,SA,ramadan
+2024-07-28,1,SA,ramadan
+2024-08-04,1,SA,ramadan
+2024-08-11,1,SA,ramadan
+2024-08-18,1,SA,ramadan
+2024-08-25,1,SA,ramadan
+2024-09-01,1,SA,ramadan
+2024-09-08,1,SA,ramadan
+2024-09-15,2,SA,ramadan
+2024-09-22,1,SA,ramadan
+2024-09-29,2,SA,ramadan
+2024-10-06,2,SA,ramadan
+2024-10-13,2,SA,ramadan
+2024-10-20,2,SA,ramadan
+2024-10-27,2,SA,ramadan
+2024-11-03,2,SA,ramadan
+2024-11-10,2,SA,ramadan
+2024-11-17,2,SA,ramadan
+2024-11-24,2,SA,ramadan
+2024-12-01,2,SA,ramadan
+2024-12-08,3,SA,ramadan
+2024-12-15,3,SA,ramadan
+2024-12-22,3,SA,ramadan
+2024-12-29,3,SA,ramadan
+2021-12-26,32,SA,bitcoin
+2022-01-02,41,SA,bitcoin
+2022-01-09,49,SA,bitcoin
+2022-01-16,44,SA,bitcoin
+2022-01-23,61,SA,bitcoin
+2022-01-30,48,SA,bitcoin
+2022-02-06,43,SA,bitcoin
+2022-02-13,38,SA,bitcoin
+2022-02-20,58,SA,bitcoin
+2022-02-27,44,SA,bitcoin
+2022-03-06,42,SA,bitcoin
+2022-03-13,43,SA,bitcoin
+2022-03-20,38,SA,bitcoin
+2022-03-27,36,SA,bitcoin
+2022-04-03,35,SA,bitcoin
+2022-04-10,33,SA,bitcoin
+2022-04-17,31,SA,bitcoin
+2022-04-24,40,SA,bitcoin
+2022-05-01,42,SA,bitcoin
+2022-05-08,94,SA,bitcoin
+2022-05-15,60,SA,bitcoin
+2022-05-22,42,SA,bitcoin
+2022-05-29,36,SA,bitcoin
+2022-06-05,33,SA,bitcoin
+2022-06-12,100,SA,bitcoin
+2022-06-19,78,SA,bitcoin
+2022-06-26,50,SA,bitcoin
+2022-07-03,47,SA,bitcoin
+2022-07-10,41,SA,bitcoin
+2022-07-17,43,SA,bitcoin
+2022-07-24,36,SA,bitcoin
+2022-07-31,33,SA,bitcoin
+2022-08-07,29,SA,bitcoin
+2022-08-14,32,SA,bitcoin
+2022-08-21,29,SA,bitcoin
+2022-08-28,30,SA,bitcoin
+2022-09-04,29,SA,bitcoin
+2022-09-11,26,SA,bitcoin
+2022-09-18,32,SA,bitcoin
+2022-09-25,28,SA,bitcoin
+2022-10-02,24,SA,bitcoin
+2022-10-09,26,SA,bitcoin
+2022-10-16,24,SA,bitcoin
+2022-10-23,25,SA,bitcoin
+2022-10-30,23,SA,bitcoin
+2022-11-06,44,SA,bitcoin
+2022-11-13,42,SA,bitcoin
+2022-11-20,28,SA,bitcoin
+2022-11-27,25,SA,bitcoin
+2022-12-04,22,SA,bitcoin
+2022-12-11,25,SA,bitcoin
+2022-12-18,21,SA,bitcoin
+2022-12-25,21,SA,bitcoin
+2023-01-01,21,SA,bitcoin
+2023-01-08,20,SA,bitcoin
+2023-01-15,31,SA,bitcoin
+2023-01-22,26,SA,bitcoin
+2023-01-29,26,SA,bitcoin
+2023-02-05,24,SA,bitcoin
+2023-02-12,23,SA,bitcoin
+2023-02-19,21,SA,bitcoin
+2023-02-26,20,SA,bitcoin
+2023-03-05,25,SA,bitcoin
+2023-03-12,28,SA,bitcoin
+2023-03-19,32,SA,bitcoin
+2023-03-26,28,SA,bitcoin
+2023-04-02,27,SA,bitcoin
+2023-04-09,30,SA,bitcoin
+2023-04-16,29,SA,bitcoin
+2023-04-23,30,SA,bitcoin
+2023-04-30,25,SA,bitcoin
+2023-05-07,26,SA,bitcoin
+2023-05-14,19,SA,bitcoin
+2023-05-21,20,SA,bitcoin
+2023-05-28,18,SA,bitcoin
+2023-06-04,21,SA,bitcoin
+2023-06-11,24,SA,bitcoin
+2023-06-18,27,SA,bitcoin
+2023-06-25,25,SA,bitcoin
+2023-07-02,25,SA,bitcoin
+2023-07-09,26,SA,bitcoin
+2023-07-16,26,SA,bitcoin
+2023-07-23,19,SA,bitcoin
+2023-07-30,22,SA,bitcoin
+2023-08-06,21,SA,bitcoin
+2023-08-13,22,SA,bitcoin
+2023-08-20,22,SA,bitcoin
+2023-08-27,23,SA,bitcoin
+2023-09-03,21,SA,bitcoin
+2023-09-10,21,SA,bitcoin
+2023-09-17,18,SA,bitcoin
+2023-09-24,17,SA,bitcoin
+2023-10-01,17,SA,bitcoin
+2023-10-08,15,SA,bitcoin
+2023-10-15,19,SA,bitcoin
+2023-10-22,29,SA,bitcoin
+2023-10-29,22,SA,bitcoin
+2023-11-05,25,SA,bitcoin
+2023-11-12,24,SA,bitcoin
+2023-11-19,26,SA,bitcoin
+2023-11-26,22,SA,bitcoin
+2023-12-03,36,SA,bitcoin
+2023-12-10,25,SA,bitcoin
+2023-12-17,27,SA,bitcoin
+2023-12-24,24,SA,bitcoin
+2023-12-31,29,SA,bitcoin
+2024-01-07,51,SA,bitcoin
+2024-01-14,30,SA,bitcoin
+2024-01-21,23,SA,bitcoin
+2024-01-28,24,SA,bitcoin
+2024-02-04,21,SA,bitcoin
+2024-02-11,36,SA,bitcoin
+2024-02-18,30,SA,bitcoin
+2024-02-25,56,SA,bitcoin
+2024-03-03,65,SA,bitcoin
+2024-03-10,58,SA,bitcoin
+2024-03-17,49,SA,bitcoin
+2024-03-24,43,SA,bitcoin
+2024-03-31,39,SA,bitcoin
+2024-04-07,45,SA,bitcoin
+2024-04-14,59,SA,bitcoin
+2024-04-21,30,SA,bitcoin
+2024-04-28,32,SA,bitcoin
+2024-05-05,26,SA,bitcoin
+2024-05-12,27,SA,bitcoin
+2024-05-19,31,SA,bitcoin
+2024-05-26,21,SA,bitcoin
+2024-06-02,28,SA,bitcoin
+2024-06-09,27,SA,bitcoin
+2024-06-16,36,SA,bitcoin
+2024-06-23,28,SA,bitcoin
+2024-06-30,30,SA,bitcoin
+2024-07-07,30,SA,bitcoin
+2024-07-14,32,SA,bitcoin
+2024-07-21,31,SA,bitcoin
+2024-07-28,32,SA,bitcoin
+2024-08-04,49,SA,bitcoin
+2024-08-11,26,SA,bitcoin
+2024-08-18,24,SA,bitcoin
+2024-08-25,25,SA,bitcoin
+2024-09-01,24,SA,bitcoin
+2024-09-08,22,SA,bitcoin
+2024-09-15,22,SA,bitcoin
+2024-09-22,23,SA,bitcoin
+2024-09-29,21,SA,bitcoin
+2024-10-06,22,SA,bitcoin
+2024-10-13,24,SA,bitcoin
+2024-10-20,19,SA,bitcoin
+2024-10-27,23,SA,bitcoin
+2024-11-03,50,SA,bitcoin
+2024-11-10,99,SA,bitcoin
+2024-11-17,68,SA,bitcoin
+2024-11-24,58,SA,bitcoin
+2024-12-01,61,SA,bitcoin
+2024-12-08,54,SA,bitcoin
+2024-12-15,56,SA,bitcoin
+2024-12-22,42,SA,bitcoin
+2024-12-29,40,SA,bitcoin
+2021-12-26,49,SA,weather
+2022-01-02,35,SA,weather
+2022-01-09,40,SA,weather
+2022-01-16,49,SA,weather
+2022-01-23,31,SA,weather
+2022-01-30,32,SA,weather
+2022-02-06,24,SA,weather
+2022-02-13,21,SA,weather
+2022-02-20,22,SA,weather
+2022-02-27,22,SA,weather
+2022-03-06,21,SA,weather
+2022-03-13,26,SA,weather
+2022-03-20,19,SA,weather
+2022-03-27,15,SA,weather
+2022-04-03,16,SA,weather
+2022-04-10,20,SA,weather
+2022-04-17,19,SA,weather
+2022-04-24,29,SA,weather
+2022-05-01,24,SA,weather
+2022-05-08,18,SA,weather
+2022-05-15,23,SA,weather
+2022-05-22,21,SA,weather
+2022-05-29,18,SA,weather
+2022-06-05,21,SA,weather
+2022-06-12,22,SA,weather
+2022-06-19,22,SA,weather
+2022-06-26,21,SA,weather
+2022-07-03,22,SA,weather
+2022-07-10,24,SA,weather
+2022-07-17,26,SA,weather
+2022-07-24,29,SA,weather
+2022-07-31,35,SA,weather
+2022-08-07,30,SA,weather
+2022-08-14,25,SA,weather
+2022-08-21,21,SA,weather
+2022-08-28,17,SA,weather
+2022-09-04,16,SA,weather
+2022-09-11,17,SA,weather
+2022-09-18,17,SA,weather
+2022-09-25,16,SA,weather
+2022-10-02,14,SA,weather
+2022-10-09,14,SA,weather
+2022-10-16,14,SA,weather
+2022-10-23,15,SA,weather
+2022-10-30,16,SA,weather
+2022-11-06,20,SA,weather
+2022-11-13,23,SA,weather
+2022-11-20,25,SA,weather
+2022-11-27,25,SA,weather
+2022-12-04,30,SA,weather
+2022-12-11,28,SA,weather
+2022-12-18,37,SA,weather
+2022-12-25,61,SA,weather
+2023-01-01,100,SA,weather
+2023-01-08,68,SA,weather
+2023-01-15,48,SA,weather
+2023-01-22,52,SA,weather
+2023-01-29,31,SA,weather
+2023-02-05,26,SA,weather
+2023-02-12,27,SA,weather
+2023-02-19,24,SA,weather
+2023-02-26,22,SA,weather
+2023-03-05,25,SA,weather
+2023-03-12,37,SA,weather
+2023-03-19,26,SA,weather
+2023-03-26,30,SA,weather
+2023-04-02,27,SA,weather
+2023-04-09,41,SA,weather
+2023-04-16,46,SA,weather
+2023-04-23,37,SA,weather
+2023-04-30,22,SA,weather
+2023-05-07,23,SA,weather
+2023-05-14,25,SA,weather
+2023-05-21,25,SA,weather
+2023-05-28,30,SA,weather
+2023-06-04,25,SA,weather
+2023-06-11,27,SA,weather
+2023-06-18,24,SA,weather
+2023-06-25,26,SA,weather
+2023-07-02,25,SA,weather
+2023-07-09,28,SA,weather
+2023-07-16,29,SA,weather
+2023-07-23,29,SA,weather
+2023-07-30,29,SA,weather
+2023-08-06,29,SA,weather
+2023-08-13,32,SA,weather
+2023-08-20,32,SA,weather
+2023-08-27,26,SA,weather
+2023-09-03,26,SA,weather
+2023-09-10,28,SA,weather
+2023-09-17,23,SA,weather
+2023-09-24,20,SA,weather
+2023-10-01,17,SA,weather
+2023-10-08,19,SA,weather
+2023-10-15,20,SA,weather
+2023-10-22,29,SA,weather
+2023-10-29,44,SA,weather
+2023-11-05,37,SA,weather
+2023-11-12,47,SA,weather
+2023-11-19,61,SA,weather
+2023-11-26,24,SA,weather
+2023-12-03,23,SA,weather
+2023-12-10,29,SA,weather
+2023-12-17,28,SA,weather
+2023-12-24,37,SA,weather
+2023-12-31,32,SA,weather
+2024-01-07,25,SA,weather
+2024-01-14,24,SA,weather
+2024-01-21,24,SA,weather
+2024-01-28,22,SA,weather
+2024-02-04,24,SA,weather
+2024-02-11,32,SA,weather
+2024-02-18,19,SA,weather
+2024-02-25,21,SA,weather
+2024-03-03,18,SA,weather
+2024-03-10,20,SA,weather
+2024-03-17,33,SA,weather
+2024-03-24,28,SA,weather
+2024-03-31,25,SA,weather
+2024-04-07,27,SA,weather
+2024-04-14,32,SA,weather
+2024-04-21,29,SA,weather
+2024-04-28,56,SA,weather
+2024-05-05,31,SA,weather
+2024-05-12,30,SA,weather
+2024-05-19,26,SA,weather
+2024-05-26,30,SA,weather
+2024-06-02,28,SA,weather
+2024-06-09,30,SA,weather
+2024-06-16,34,SA,weather
+2024-06-23,29,SA,weather
+2024-06-30,25,SA,weather
+2024-07-07,29,SA,weather
+2024-07-14,25,SA,weather
+2024-07-21,25,SA,weather
+2024-07-28,29,SA,weather
+2024-08-04,32,SA,weather
+2024-08-11,28,SA,weather
+2024-08-18,35,SA,weather
+2024-08-25,30,SA,weather
+2024-09-01,27,SA,weather
+2024-09-08,22,SA,weather
+2024-09-15,20,SA,weather
+2024-09-22,21,SA,weather
+2024-09-29,19,SA,weather
+2024-10-06,20,SA,weather
+2024-10-13,19,SA,weather
+2024-10-20,30,SA,weather
+2024-10-27,37,SA,weather
+2024-11-03,23,SA,weather
+2024-11-10,23,SA,weather
+2024-11-17,20,SA,weather
+2024-11-24,38,SA,weather
+2024-12-01,24,SA,weather
+2024-12-08,27,SA,weather
+2024-12-15,45,SA,weather
+2024-12-22,33,SA,weather
+2024-12-29,35,SA,weather
+2021-12-26,21,AE,inflation
+2022-01-02,35,AE,inflation
+2022-01-09,48,AE,inflation
+2022-01-16,49,AE,inflation
+2022-01-23,52,AE,inflation
+2022-01-30,38,AE,inflation
+2022-02-06,55,AE,inflation
+2022-02-13,45,AE,inflation
+2022-02-20,43,AE,inflation
+2022-02-27,49,AE,inflation
+2022-03-06,57,AE,inflation
+2022-03-13,49,AE,inflation
+2022-03-20,49,AE,inflation
+2022-03-27,43,AE,inflation
+2022-04-03,44,AE,inflation
+2022-04-10,66,AE,inflation
+2022-04-17,60,AE,inflation
+2022-04-24,48,AE,inflation
+2022-05-01,50,AE,inflation
+2022-05-08,81,AE,inflation
+2022-05-15,69,AE,inflation
+2022-05-22,56,AE,inflation
+2022-05-29,62,AE,inflation
+2022-06-05,84,AE,inflation
+2022-06-12,94,AE,inflation
+2022-06-19,72,AE,inflation
+2022-06-26,61,AE,inflation
+2022-07-03,100,AE,inflation
+2022-07-10,90,AE,inflation
+2022-07-17,58,AE,inflation
+2022-07-24,56,AE,inflation
+2022-07-31,46,AE,inflation
+2022-08-07,71,AE,inflation
+2022-08-14,54,AE,inflation
+2022-08-21,57,AE,inflation
+2022-08-28,56,AE,inflation
+2022-09-04,55,AE,inflation
+2022-09-11,81,AE,inflation
+2022-09-18,59,AE,inflation
+2022-09-25,65,AE,inflation
+2022-10-02,58,AE,inflation
+2022-10-09,78,AE,inflation
+2022-10-16,53,AE,inflation
+2022-10-23,54,AE,inflation
+2022-10-30,52,AE,inflation
+2022-11-06,62,AE,inflation
+2022-11-13,51,AE,inflation
+2022-11-20,36,AE,inflation
+2022-11-27,34,AE,inflation
+2022-12-04,46,AE,inflation
+2022-12-11,54,AE,inflation
+2022-12-18,35,AE,inflation
+2022-12-25,35,AE,inflation
+2023-01-01,43,AE,inflation
+2023-01-08,65,AE,inflation
+2023-01-15,50,AE,inflation
+2023-01-22,49,AE,inflation
+2023-01-29,51,AE,inflation
+2023-02-05,49,AE,inflation
+2023-02-12,50,AE,inflation
+2023-02-19,46,AE,inflation
+2023-02-26,43,AE,inflation
+2023-03-05,46,AE,inflation
+2023-03-12,48,AE,inflation
+2023-03-19,47,AE,inflation
+2023-03-26,42,AE,inflation
+2023-04-02,35,AE,inflation
+2023-04-09,46,AE,inflation
+2023-04-16,33,AE,inflation
+2023-04-23,42,AE,inflation
+2023-04-30,45,AE,inflation
+2023-05-07,46,AE,inflation
+2023-05-14,40,AE,inflation
+2023-05-21,42,AE,inflation
+2023-05-28,37,AE,inflation
+2023-06-04,34,AE,inflation
+2023-06-11,46,AE,inflation
+2023-06-18,31,AE,inflation
+2023-06-25,27,AE,inflation
+2023-07-02,30,AE,inflation
+2023-07-09,49,AE,inflation
+2023-07-16,28,AE,inflation
+2023-07-23,30,AE,inflation
+2023-07-30,27,AE,inflation
+2023-08-06,35,AE,inflation
+2023-08-13,38,AE,inflation
+2023-08-20,29,AE,inflation
+2023-08-27,36,AE,inflation
+2023-09-03,40,AE,inflation
+2023-09-10,43,AE,inflation
+2023-09-17,39,AE,inflation
+2023-09-24,42,AE,inflation
+2023-10-01,45,AE,inflation
+2023-10-08,41,AE,inflation
+2023-10-15,34,AE,inflation
+2023-10-22,37,AE,inflation
+2023-10-29,32,AE,inflation
+2023-11-05,31,AE,inflation
+2023-11-12,39,AE,inflation
+2023-11-19,35,AE,inflation
+2023-11-26,38,AE,inflation
+2023-12-03,37,AE,inflation
+2023-12-10,35,AE,inflation
+2023-12-17,26,AE,inflation
+2023-12-24,25,AE,inflation
+2023-12-31,37,AE,inflation
+2024-01-07,51,AE,inflation
+2024-01-14,44,AE,inflation
+2024-01-21,41,AE,inflation
+2024-01-28,42,AE,inflation
+2024-02-04,37,AE,inflation
+2024-02-11,49,AE,inflation
+2024-02-18,41,AE,inflation
+2024-02-25,47,AE,inflation
+2024-03-03,41,AE,inflation
+2024-03-10,44,AE,inflation
+2024-03-17,44,AE,inflation
+2024-03-24,36,AE,inflation
+2024-03-31,36,AE,inflation
+2024-04-07,32,AE,inflation
+2024-04-14,37,AE,inflation
+2024-04-21,37,AE,inflation
+2024-04-28,37,AE,inflation
+2024-05-05,38,AE,inflation
+2024-05-12,52,AE,inflation
+2024-05-19,37,AE,inflation
+2024-05-26,42,AE,inflation
+2024-06-02,36,AE,inflation
+2024-06-09,38,AE,inflation
+2024-06-16,35,AE,inflation
+2024-06-23,27,AE,inflation
+2024-06-30,29,AE,inflation
+2024-07-07,40,AE,inflation
+2024-07-14,38,AE,inflation
+2024-07-21,35,AE,inflation
+2024-07-28,29,AE,inflation
+2024-08-04,32,AE,inflation
+2024-08-11,39,AE,inflation
+2024-08-18,33,AE,inflation
+2024-08-25,35,AE,inflation
+2024-09-01,42,AE,inflation
+2024-09-08,41,AE,inflation
+2024-09-15,40,AE,inflation
+2024-09-22,38,AE,inflation
+2024-09-29,39,AE,inflation
+2024-10-06,40,AE,inflation
+2024-10-13,28,AE,inflation
+2024-10-20,29,AE,inflation
+2024-10-27,32,AE,inflation
+2024-11-03,34,AE,inflation
+2024-11-10,43,AE,inflation
+2024-11-17,39,AE,inflation
+2024-11-24,32,AE,inflation
+2024-12-01,26,AE,inflation
+2024-12-08,39,AE,inflation
+2024-12-15,35,AE,inflation
+2024-12-22,19,AE,inflation
+2024-12-29,30,AE,inflation
+2021-12-26,25,AE,electric car
+2022-01-02,31,AE,electric car
+2022-01-09,28,AE,electric car
+2022-01-16,26,AE,electric car
+2022-01-23,31,AE,electric car
+2022-01-30,41,AE,electric car
+2022-02-06,37,AE,electric car
+2022-02-13,36,AE,electric car
+2022-02-20,41,AE,electric car
+2022-02-27,57,AE,electric car
+2022-03-06,59,AE,electric car
+2022-03-13,48,AE,electric car
+2022-03-20,40,AE,electric car
+2022-03-27,63,AE,electric car
+2022-04-03,59,AE,electric car
+2022-04-10,63,AE,electric car
+2022-04-17,58,AE,electric car
+2022-04-24,57,AE,electric car
+2022-05-01,61,AE,electric car
+2022-05-08,45,AE,electric car
+2022-05-15,41,AE,electric car
+2022-05-22,55,AE,electric car
+2022-05-29,100,AE,electric car
+2022-06-05,87,AE,electric car
+2022-06-12,72,AE,electric car
+2022-06-19,85,AE,electric car
+2022-06-26,93,AE,electric car
+2022-07-03,92,AE,electric car
+2022-07-10,80,AE,electric car
+2022-07-17,65,AE,electric car
+2022-07-24,65,AE,electric car
+2022-07-31,61,AE,electric car
+2022-08-07,61,AE,electric car
+2022-08-14,59,AE,electric car
+2022-08-21,68,AE,electric car
+2022-08-28,47,AE,electric car
+2022-09-04,46,AE,electric car
+2022-09-11,52,AE,electric car
+2022-09-18,47,AE,electric car
+2022-09-25,43,AE,electric car
+2022-10-02,44,AE,electric car
+2022-10-09,43,AE,electric car
+2022-10-16,44,AE,electric car
+2022-10-23,44,AE,electric car
+2022-10-30,43,AE,electric car
+2022-11-06,46,AE,electric car
+2022-11-13,42,AE,electric car
+2022-11-20,27,AE,electric car
+2022-11-27,33,AE,electric car
+2022-12-04,31,AE,electric car
+2022-12-11,34,AE,electric car
+2022-12-18,37,AE,electric car
+2022-12-25,42,AE,electric car
+2023-01-01,34,AE,electric car
+2023-01-08,46,AE,electric car
+2023-01-15,42,AE,electric car
+2023-01-22,44,AE,electric car
+2023-01-29,38,AE,electric car
+2023-02-05,34,AE,electric car
+2023-02-12,38,AE,electric car
+2023-02-19,39,AE,electric car
+2023-02-26,36,AE,electric car
+2023-03-05,44,AE,electric car
+2023-03-12,42,AE,electric car
+2023-03-19,42,AE,electric car
+2023-03-26,44,AE,electric car
+2023-04-02,43,AE,electric car
+2023-04-09,31,AE,electric car
+2023-04-16,36,AE,electric car
+2023-04-23,40,AE,electric car
+2023-04-30,38,AE,electric car
+2023-05-07,36,AE,electric car
+2023-05-14,38,AE,electric car
+2023-05-21,46,AE,electric car
+2023-05-28,40,AE,electric car
+2023-06-04,43,AE,electric car
+2023-06-11,44,AE,electric car
+2023-06-18,37,AE,electric car
+2023-06-25,39,AE,electric car
+2023-07-02,39,AE,electric car
+2023-07-09,34,AE,electric car
+2023-07-16,40,AE,electric car
+2023-07-23,38,AE,electric car
+2023-07-30,32,AE,electric car
+2023-08-06,39,AE,electric car
+2023-08-13,44,AE,electric car
+2023-08-20,43,AE,electric car
+2023-08-27,41,AE,electric car
+2023-09-03,46,AE,electric car
+2023-09-10,40,AE,electric car
+2023-09-17,48,AE,electric car
+2023-09-24,39,AE,electric car
+2023-10-01,51,AE,electric car
+2023-10-08,40,AE,electric car
+2023-10-15,43,AE,electric car
+2023-10-22,28,AE,electric car
+2023-10-29,41,AE,electric car
+2023-11-05,36,AE,electric car
+2023-11-12,36,AE,electric car
+2023-11-19,35,AE,electric car
+2023-11-26,32,AE,electric car
+2023-12-03,49,AE,electric car
+2023-12-10,41,AE,electric car
+2023-12-17,40,AE,electric car
+2023-12-24,37,AE,electric car
+2023-12-31,42,AE,electric car
+2024-01-07,42,AE,electric car
+2024-01-14,34,AE,electric car
+2024-01-21,38,AE,electric car
+2024-01-28,45,AE,electric car
+2024-02-04,39,AE,electric car
+2024-02-11,34,AE,electric car
+2024-02-18,38,AE,electric car
+2024-02-25,53,AE,electric car
+2024-03-03,38,AE,electric car
+2024-03-10,40,AE,electric car
+2024-03-17,39,AE,electric car
+2024-03-24,35,AE,electric car
+2024-03-31,41,AE,electric car
+2024-04-07,31,AE,electric car
+2024-04-14,35,AE,electric car
+2024-04-21,39,AE,electric car
+2024-04-28,40,AE,electric car
+2024-05-05,42,AE,electric car
+2024-05-12,41,AE,electric car
+2024-05-19,39,AE,electric car
+2024-05-26,38,AE,electric car
+2024-06-02,41,AE,electric car
+2024-06-09,39,AE,electric car
+2024-06-16,37,AE,electric car
+2024-06-23,37,AE,electric car
+2024-06-30,35,AE,electric car
+2024-07-07,31,AE,electric car
+2024-07-14,31,AE,electric car
+2024-07-21,35,AE,electric car
+2024-07-28,34,AE,electric car
+2024-08-04,36,AE,electric car
+2024-08-11,29,AE,electric car
+2024-08-18,35,AE,electric car
+2024-08-25,42,AE,electric car
+2024-09-01,38,AE,electric car
+2024-09-08,41,AE,electric car
+2024-09-15,43,AE,electric car
+2024-09-22,42,AE,electric car
+2024-09-29,30,AE,electric car
+2024-10-06,32,AE,electric car
+2024-10-13,35,AE,electric car
+2024-10-20,34,AE,electric car
+2024-10-27,40,AE,electric car
+2024-11-03,33,AE,electric car
+2024-11-10,28,AE,electric car
+2024-11-17,30,AE,electric car
+2024-11-24,38,AE,electric car
+2024-12-01,34,AE,electric car
+2024-12-08,29,AE,electric car
+2024-12-15,34,AE,electric car
+2024-12-22,37,AE,electric car
+2024-12-29,29,AE,electric car
+2021-12-26,30,AE,artificial intelligence
+2022-01-02,55,AE,artificial intelligence
+2022-01-09,63,AE,artificial intelligence
+2022-01-16,67,AE,artificial intelligence
+2022-01-23,66,AE,artificial intelligence
+2022-01-30,58,AE,artificial intelligence
+2022-02-06,70,AE,artificial intelligence
+2022-02-13,72,AE,artificial intelligence
+2022-02-20,82,AE,artificial intelligence
+2022-02-27,69,AE,artificial intelligence
+2022-03-06,64,AE,artificial intelligence
+2022-03-13,61,AE,artificial intelligence
+2022-03-20,76,AE,artificial intelligence
+2022-03-27,62,AE,artificial intelligence
+2022-04-03,57,AE,artificial intelligence
+2022-04-10,51,AE,artificial intelligence
+2022-04-17,89,AE,artificial intelligence
+2022-04-24,62,AE,artificial intelligence
+2022-05-01,40,AE,artificial intelligence
+2022-05-08,66,AE,artificial intelligence
+2022-05-15,55,AE,artificial intelligence
+2022-05-22,61,AE,artificial intelligence
+2022-05-29,72,AE,artificial intelligence
+2022-06-05,61,AE,artificial intelligence
+2022-06-12,60,AE,artificial intelligence
+2022-06-19,66,AE,artificial intelligence
+2022-06-26,64,AE,artificial intelligence
+2022-07-03,38,AE,artificial intelligence
+2022-07-10,44,AE,artificial intelligence
+2022-07-17,45,AE,artificial intelligence
+2022-07-24,41,AE,artificial intelligence
+2022-07-31,46,AE,artificial intelligence
+2022-08-07,44,AE,artificial intelligence
+2022-08-14,54,AE,artificial intelligence
+2022-08-21,51,AE,artificial intelligence
+2022-08-28,67,AE,artificial intelligence
+2022-09-04,65,AE,artificial intelligence
+2022-09-11,70,AE,artificial intelligence
+2022-09-18,71,AE,artificial intelligence
+2022-09-25,62,AE,artificial intelligence
+2022-10-02,70,AE,artificial intelligence
+2022-10-09,74,AE,artificial intelligence
+2022-10-16,72,AE,artificial intelligence
+2022-10-23,70,AE,artificial intelligence
+2022-10-30,50,AE,artificial intelligence
+2022-11-06,68,AE,artificial intelligence
+2022-11-13,59,AE,artificial intelligence
+2022-11-20,53,AE,artificial intelligence
+2022-11-27,38,AE,artificial intelligence
+2022-12-04,43,AE,artificial intelligence
+2022-12-11,53,AE,artificial intelligence
+2022-12-18,37,AE,artificial intelligence
+2022-12-25,50,AE,artificial intelligence
+2023-01-01,62,AE,artificial intelligence
+2023-01-08,62,AE,artificial intelligence
+2023-01-15,73,AE,artificial intelligence
+2023-01-22,75,AE,artificial intelligence
+2023-01-29,71,AE,artificial intelligence
+2023-02-05,82,AE,artificial intelligence
+2023-02-12,85,AE,artificial intelligence
+2023-02-19,74,AE,artificial intelligence
+2023-02-26,68,AE,artificial intelligence
+2023-03-05,57,AE,artificial intelligence
+2023-03-12,76,AE,artificial intelligence
+2023-03-19,53,AE,artificial intelligence
+2023-03-26,50,AE,artificial intelligence
+2023-04-02,68,AE,artificial intelligence
+2023-04-09,81,AE,artificial intelligence
+2023-04-16,65,AE,artificial intelligence
+2023-04-23,77,AE,artificial intelligence
+2023-04-30,100,AE,artificial intelligence
+2023-05-07,82,AE,artificial intelligence
+2023-05-14,91,AE,artificial intelligence
+2023-05-21,88,AE,artificial intelligence
+2023-05-28,86,AE,artificial intelligence
+2023-06-04,78,AE,artificial intelligence
+2023-06-11,77,AE,artificial intelligence
+2023-06-18,75,AE,artificial intelligence
+2023-06-25,65,AE,artificial intelligence
+2023-07-02,63,AE,artificial intelligence
+2023-07-09,73,AE,artificial intelligence
+2023-07-16,55,AE,artificial intelligence
+2023-07-23,57,AE,artificial intelligence
+2023-07-30,62,AE,artificial intelligence
+2023-08-06,57,AE,artificial intelligence
+2023-08-13,63,AE,artificial intelligence
+2023-08-20,62,AE,artificial intelligence
+2023-08-27,72,AE,artificial intelligence
+2023-09-03,70,AE,artificial intelligence
+2023-09-10,88,AE,artificial intelligence
+2023-09-17,74,AE,artificial intelligence
+2023-09-24,68,AE,artificial intelligence
+2023-10-01,69,AE,artificial intelligence
+2023-10-08,59,AE,artificial intelligence
+2023-10-15,56,AE,artificial intelligence
+2023-10-22,60,AE,artificial intelligence
+2023-10-29,62,AE,artificial intelligence
+2023-11-05,77,AE,artificial intelligence
+2023-11-12,69,AE,artificial intelligence
+2023-11-19,60,AE,artificial intelligence
+2023-11-26,51,AE,artificial intelligence
+2023-12-03,49,AE,artificial intelligence
+2023-12-10,39,AE,artificial intelligence
+2023-12-17,30,AE,artificial intelligence
+2023-12-24,57,AE,artificial intelligence
+2023-12-31,57,AE,artificial intelligence
+2024-01-07,53,AE,artificial intelligence
+2024-01-14,62,AE,artificial intelligence
+2024-01-21,76,AE,artificial intelligence
+2024-01-28,76,AE,artificial intelligence
+2024-02-04,78,AE,artificial intelligence
+2024-02-11,61,AE,artificial intelligence
+2024-02-18,79,AE,artificial intelligence
+2024-02-25,82,AE,artificial intelligence
+2024-03-03,55,AE,artificial intelligence
+2024-03-10,60,AE,artificial intelligence
+2024-03-17,55,AE,artificial intelligence
+2024-03-24,73,AE,artificial intelligence
+2024-03-31,66,AE,artificial intelligence
+2024-04-07,32,AE,artificial intelligence
+2024-04-14,69,AE,artificial intelligence
+2024-04-21,57,AE,artificial intelligence
+2024-04-28,65,AE,artificial intelligence
+2024-05-05,69,AE,artificial intelligence
+2024-05-12,66,AE,artificial intelligence
+2024-05-19,65,AE,artificial intelligence
+2024-05-26,63,AE,artificial intelligence
+2024-06-02,52,AE,artificial intelligence
+2024-06-09,66,AE,artificial intelligence
+2024-06-16,47,AE,artificial intelligence
+2024-06-23,65,AE,artificial intelligence
+2024-06-30,52,AE,artificial intelligence
+2024-07-07,65,AE,artificial intelligence
+2024-07-14,52,AE,artificial intelligence
+2024-07-21,56,AE,artificial intelligence
+2024-07-28,35,AE,artificial intelligence
+2024-08-04,40,AE,artificial intelligence
+2024-08-11,52,AE,artificial intelligence
+2024-08-18,60,AE,artificial intelligence
+2024-08-25,70,AE,artificial intelligence
+2024-09-01,74,AE,artificial intelligence
+2024-09-08,72,AE,artificial intelligence
+2024-09-15,58,AE,artificial intelligence
+2024-09-22,76,AE,artificial intelligence
+2024-09-29,80,AE,artificial intelligence
+2024-10-06,56,AE,artificial intelligence
+2024-10-13,72,AE,artificial intelligence
+2024-10-20,60,AE,artificial intelligence
+2024-10-27,66,AE,artificial intelligence
+2024-11-03,62,AE,artificial intelligence
+2024-11-10,80,AE,artificial intelligence
+2024-11-17,67,AE,artificial intelligence
+2024-11-24,67,AE,artificial intelligence
+2024-12-01,46,AE,artificial intelligence
+2024-12-08,47,AE,artificial intelligence
+2024-12-15,47,AE,artificial intelligence
+2024-12-22,45,AE,artificial intelligence
+2024-12-29,43,AE,artificial intelligence
+2021-12-26,0,AE,World Cup
+2022-01-02,0,AE,World Cup
+2022-01-09,0,AE,World Cup
+2022-01-16,1,AE,World Cup
+2022-01-23,1,AE,World Cup
+2022-01-30,2,AE,World Cup
+2022-02-06,1,AE,World Cup
+2022-02-13,0,AE,World Cup
+2022-02-20,0,AE,World Cup
+2022-02-27,0,AE,World Cup
+2022-03-06,1,AE,World Cup
+2022-03-13,1,AE,World Cup
+2022-03-20,3,AE,World Cup
+2022-03-27,3,AE,World Cup
+2022-04-03,1,AE,World Cup
+2022-04-10,0,AE,World Cup
+2022-04-17,0,AE,World Cup
+2022-04-24,0,AE,World Cup
+2022-05-01,0,AE,World Cup
+2022-05-08,0,AE,World Cup
+2022-05-15,0,AE,World Cup
+2022-05-22,1,AE,World Cup
+2022-05-29,1,AE,World Cup
+2022-06-05,1,AE,World Cup
+2022-06-12,1,AE,World Cup
+2022-06-19,1,AE,World Cup
+2022-06-26,0,AE,World Cup
+2022-07-03,1,AE,World Cup
+2022-07-10,0,AE,World Cup
+2022-07-17,1,AE,World Cup
+2022-07-24,0,AE,World Cup
+2022-07-31,1,AE,World Cup
+2022-08-07,1,AE,World Cup
+2022-08-14,1,AE,World Cup
+2022-08-21,1,AE,World Cup
+2022-08-28,1,AE,World Cup
+2022-09-04,2,AE,World Cup
+2022-09-11,2,AE,World Cup
+2022-09-18,1,AE,World Cup
+2022-09-25,1,AE,World Cup
+2022-10-02,2,AE,World Cup
+2022-10-09,2,AE,World Cup
+2022-10-16,8,AE,World Cup
+2022-10-23,17,AE,World Cup
+2022-10-30,23,AE,World Cup
+2022-11-06,21,AE,World Cup
+2022-11-13,13,AE,World Cup
+2022-11-20,86,AE,World Cup
+2022-11-27,100,AE,World Cup
+2022-12-04,74,AE,World Cup
+2022-12-11,43,AE,World Cup
+2022-12-18,23,AE,World Cup
+2022-12-25,2,AE,World Cup
+2023-01-01,1,AE,World Cup
+2023-01-08,1,AE,World Cup
+2023-01-15,1,AE,World Cup
+2023-01-22,1,AE,World Cup
+2023-01-29,1,AE,World Cup
+2023-02-05,1,AE,World Cup
+2023-02-12,1,AE,World Cup
+2023-02-19,2,AE,World Cup
+2023-02-26,1,AE,World Cup
+2023-03-05,1,AE,World Cup
+2023-03-12,1,AE,World Cup
+2023-03-19,1,AE,World Cup
+2023-03-26,1,AE,World Cup
+2023-04-02,0,AE,World Cup
+2023-04-09,0,AE,World Cup
+2023-04-16,0,AE,World Cup
+2023-04-23,0,AE,World Cup
+2023-04-30,0,AE,World Cup
+2023-05-07,0,AE,World Cup
+2023-05-14,0,AE,World Cup
+2023-05-21,1,AE,World Cup
+2023-05-28,1,AE,World Cup
+2023-06-04,1,AE,World Cup
+2023-06-11,1,AE,World Cup
+2023-06-18,1,AE,World Cup
+2023-06-25,2,AE,World Cup
+2023-07-02,1,AE,World Cup
+2023-07-09,1,AE,World Cup
+2023-07-16,1,AE,World Cup
+2023-07-23,1,AE,World Cup
+2023-07-30,1,AE,World Cup
+2023-08-06,2,AE,World Cup
+2023-08-13,1,AE,World Cup
+2023-08-20,2,AE,World Cup
+2023-08-27,2,AE,World Cup
+2023-09-03,2,AE,World Cup
+2023-09-10,2,AE,World Cup
+2023-09-17,3,AE,World Cup
+2023-09-24,4,AE,World Cup
+2023-10-01,12,AE,World Cup
+2023-10-08,27,AE,World Cup
+2023-10-15,29,AE,World Cup
+2023-10-22,31,AE,World Cup
+2023-10-29,37,AE,World Cup
+2023-11-05,36,AE,World Cup
+2023-11-12,22,AE,World Cup
+2023-11-19,13,AE,World Cup
+2023-11-26,1,AE,World Cup
+2023-12-03,1,AE,World Cup
+2023-12-10,1,AE,World Cup
+2023-12-17,1,AE,World Cup
+2023-12-24,0,AE,World Cup
+2023-12-31,0,AE,World Cup
+2024-01-07,0,AE,World Cup
+2024-01-14,1,AE,World Cup
+2024-01-21,2,AE,World Cup
+2024-01-28,2,AE,World Cup
+2024-02-04,2,AE,World Cup
+2024-02-11,2,AE,World Cup
+2024-02-18,1,AE,World Cup
+2024-02-25,0,AE,World Cup
+2024-03-03,0,AE,World Cup
+2024-03-10,0,AE,World Cup
+2024-03-17,0,AE,World Cup
+2024-03-24,1,AE,World Cup
+2024-03-31,0,AE,World Cup
+2024-04-07,0,AE,World Cup
+2024-04-14,0,AE,World Cup
+2024-04-21,0,AE,World Cup
+2024-04-28,1,AE,World Cup
+2024-05-05,1,AE,World Cup
+2024-05-12,1,AE,World Cup
+2024-05-19,1,AE,World Cup
+2024-05-26,3,AE,World Cup
+2024-06-02,13,AE,World Cup
+2024-06-09,19,AE,World Cup
+2024-06-16,15,AE,World Cup
+2024-06-23,21,AE,World Cup
+2024-06-30,2,AE,World Cup
+2024-07-07,1,AE,World Cup
+2024-07-14,1,AE,World Cup
+2024-07-21,0,AE,World Cup
+2024-07-28,0,AE,World Cup
+2024-08-04,0,AE,World Cup
+2024-08-11,0,AE,World Cup
+2024-08-18,0,AE,World Cup
+2024-08-25,0,AE,World Cup
+2024-09-01,0,AE,World Cup
+2024-09-08,1,AE,World Cup
+2024-09-15,0,AE,World Cup
+2024-09-22,0,AE,World Cup
+2024-09-29,3,AE,World Cup
+2024-10-06,2,AE,World Cup
+2024-10-13,2,AE,World Cup
+2024-10-20,1,AE,World Cup
+2024-10-27,0,AE,World Cup
+2024-11-03,0,AE,World Cup
+2024-11-10,1,AE,World Cup
+2024-11-17,1,AE,World Cup
+2024-11-24,0,AE,World Cup
+2024-12-01,0,AE,World Cup
+2024-12-08,1,AE,World Cup
+2024-12-15,0,AE,World Cup
+2024-12-22,0,AE,World Cup
+2024-12-29,0,AE,World Cup
+2021-12-26,0,AE,ChatGPT
+2022-01-02,0,AE,ChatGPT
+2022-01-09,0,AE,ChatGPT
+2022-01-16,0,AE,ChatGPT
+2022-01-23,0,AE,ChatGPT
+2022-01-30,0,AE,ChatGPT
+2022-02-06,0,AE,ChatGPT
+2022-02-13,0,AE,ChatGPT
+2022-02-20,0,AE,ChatGPT
+2022-02-27,0,AE,ChatGPT
+2022-03-06,0,AE,ChatGPT
+2022-03-13,0,AE,ChatGPT
+2022-03-20,0,AE,ChatGPT
+2022-03-27,0,AE,ChatGPT
+2022-04-03,0,AE,ChatGPT
+2022-04-10,0,AE,ChatGPT
+2022-04-17,0,AE,ChatGPT
+2022-04-24,0,AE,ChatGPT
+2022-05-01,0,AE,ChatGPT
+2022-05-08,0,AE,ChatGPT
+2022-05-15,0,AE,ChatGPT
+2022-05-22,0,AE,ChatGPT
+2022-05-29,0,AE,ChatGPT
+2022-06-05,0,AE,ChatGPT
+2022-06-12,0,AE,ChatGPT
+2022-06-19,0,AE,ChatGPT
+2022-06-26,0,AE,ChatGPT
+2022-07-03,0,AE,ChatGPT
+2022-07-10,0,AE,ChatGPT
+2022-07-17,0,AE,ChatGPT
+2022-07-24,0,AE,ChatGPT
+2022-07-31,0,AE,ChatGPT
+2022-08-07,0,AE,ChatGPT
+2022-08-14,0,AE,ChatGPT
+2022-08-21,0,AE,ChatGPT
+2022-08-28,0,AE,ChatGPT
+2022-09-04,0,AE,ChatGPT
+2022-09-11,0,AE,ChatGPT
+2022-09-18,0,AE,ChatGPT
+2022-09-25,0,AE,ChatGPT
+2022-10-02,0,AE,ChatGPT
+2022-10-09,0,AE,ChatGPT
+2022-10-16,0,AE,ChatGPT
+2022-10-23,0,AE,ChatGPT
+2022-10-30,0,AE,ChatGPT
+2022-11-06,0,AE,ChatGPT
+2022-11-13,0,AE,ChatGPT
+2022-11-20,0,AE,ChatGPT
+2022-11-27,0,AE,ChatGPT
+2022-12-04,4,AE,ChatGPT
+2022-12-11,9,AE,ChatGPT
+2022-12-18,5,AE,ChatGPT
+2022-12-25,7,AE,ChatGPT
+2023-01-01,9,AE,ChatGPT
+2023-01-08,15,AE,ChatGPT
+2023-01-15,18,AE,ChatGPT
+2023-01-22,21,AE,ChatGPT
+2023-01-29,22,AE,ChatGPT
+2023-02-05,25,AE,ChatGPT
+2023-02-12,25,AE,ChatGPT
+2023-02-19,25,AE,ChatGPT
+2023-02-26,24,AE,ChatGPT
+2023-03-05,23,AE,ChatGPT
+2023-03-12,25,AE,ChatGPT
+2023-03-19,26,AE,ChatGPT
+2023-03-26,27,AE,ChatGPT
+2023-04-02,25,AE,ChatGPT
+2023-04-09,26,AE,ChatGPT
+2023-04-16,23,AE,ChatGPT
+2023-04-23,28,AE,ChatGPT
+2023-04-30,28,AE,ChatGPT
+2023-05-07,28,AE,ChatGPT
+2023-05-14,28,AE,ChatGPT
+2023-05-21,27,AE,ChatGPT
+2023-05-28,24,AE,ChatGPT
+2023-06-04,25,AE,ChatGPT
+2023-06-11,26,AE,ChatGPT
+2023-06-18,25,AE,ChatGPT
+2023-06-25,17,AE,ChatGPT
+2023-07-02,25,AE,ChatGPT
+2023-07-09,25,AE,ChatGPT
+2023-07-16,21,AE,ChatGPT
+2023-07-23,22,AE,ChatGPT
+2023-07-30,24,AE,ChatGPT
+2023-08-06,23,AE,ChatGPT
+2023-08-13,23,AE,ChatGPT
+2023-08-20,25,AE,ChatGPT
+2023-08-27,27,AE,ChatGPT
+2023-09-03,30,AE,ChatGPT
+2023-09-10,30,AE,ChatGPT
+2023-09-17,31,AE,ChatGPT
+2023-09-24,31,AE,ChatGPT
+2023-10-01,34,AE,ChatGPT
+2023-10-08,33,AE,ChatGPT
+2023-10-15,31,AE,ChatGPT
+2023-10-22,36,AE,ChatGPT
+2023-10-29,33,AE,ChatGPT
+2023-11-05,39,AE,ChatGPT
+2023-11-12,35,AE,ChatGPT
+2023-11-19,33,AE,ChatGPT
+2023-11-26,32,AE,ChatGPT
+2023-12-03,29,AE,ChatGPT
+2023-12-10,30,AE,ChatGPT
+2023-12-17,27,AE,ChatGPT
+2023-12-24,25,AE,ChatGPT
+2023-12-31,29,AE,ChatGPT
+2024-01-07,40,AE,ChatGPT
+2024-01-14,39,AE,ChatGPT
+2024-01-21,44,AE,ChatGPT
+2024-01-28,44,AE,ChatGPT
+2024-02-04,46,AE,ChatGPT
+2024-02-11,44,AE,ChatGPT
+2024-02-18,48,AE,ChatGPT
+2024-02-25,49,AE,ChatGPT
+2024-03-03,43,AE,ChatGPT
+2024-03-10,37,AE,ChatGPT
+2024-03-17,36,AE,ChatGPT
+2024-03-24,34,AE,ChatGPT
+2024-03-31,36,AE,ChatGPT
+2024-04-07,22,AE,ChatGPT
+2024-04-14,41,AE,ChatGPT
+2024-04-21,52,AE,ChatGPT
+2024-04-28,51,AE,ChatGPT
+2024-05-05,54,AE,ChatGPT
+2024-05-12,61,AE,ChatGPT
+2024-05-19,63,AE,ChatGPT
+2024-05-26,58,AE,ChatGPT
+2024-06-02,62,AE,ChatGPT
+2024-06-09,50,AE,ChatGPT
+2024-06-16,37,AE,ChatGPT
+2024-06-23,49,AE,ChatGPT
+2024-06-30,41,AE,ChatGPT
+2024-07-07,45,AE,ChatGPT
+2024-07-14,45,AE,ChatGPT
+2024-07-21,46,AE,ChatGPT
+2024-07-28,46,AE,ChatGPT
+2024-08-04,47,AE,ChatGPT
+2024-08-11,56,AE,ChatGPT
+2024-08-18,58,AE,ChatGPT
+2024-08-25,69,AE,ChatGPT
+2024-09-01,80,AE,ChatGPT
+2024-09-08,79,AE,ChatGPT
+2024-09-15,75,AE,ChatGPT
+2024-09-22,77,AE,ChatGPT
+2024-09-29,80,AE,ChatGPT
+2024-10-06,82,AE,ChatGPT
+2024-10-13,85,AE,ChatGPT
+2024-10-20,89,AE,ChatGPT
+2024-10-27,92,AE,ChatGPT
+2024-11-03,91,AE,ChatGPT
+2024-11-10,100,AE,ChatGPT
+2024-11-17,93,AE,ChatGPT
+2024-11-24,86,AE,ChatGPT
+2024-12-01,71,AE,ChatGPT
+2024-12-08,89,AE,ChatGPT
+2024-12-15,78,AE,ChatGPT
+2024-12-22,74,AE,ChatGPT
+2024-12-29,67,AE,ChatGPT
+2021-12-26,1,AE,ramadan
+2022-01-02,2,AE,ramadan
+2022-01-09,2,AE,ramadan
+2022-01-16,2,AE,ramadan
+2022-01-23,2,AE,ramadan
+2022-01-30,3,AE,ramadan
+2022-02-06,3,AE,ramadan
+2022-02-13,3,AE,ramadan
+2022-02-20,3,AE,ramadan
+2022-02-27,5,AE,ramadan
+2022-03-06,5,AE,ramadan
+2022-03-13,8,AE,ramadan
+2022-03-20,11,AE,ramadan
+2022-03-27,72,AE,ramadan
+2022-04-03,30,AE,ramadan
+2022-04-10,19,AE,ramadan
+2022-04-17,16,AE,ramadan
+2022-04-24,16,AE,ramadan
+2022-05-01,4,AE,ramadan
+2022-05-08,1,AE,ramadan
+2022-05-15,1,AE,ramadan
+2022-05-22,1,AE,ramadan
+2022-05-29,1,AE,ramadan
+2022-06-05,1,AE,ramadan
+2022-06-12,1,AE,ramadan
+2022-06-19,1,AE,ramadan
+2022-06-26,1,AE,ramadan
+2022-07-03,1,AE,ramadan
+2022-07-10,1,AE,ramadan
+2022-07-17,1,AE,ramadan
+2022-07-24,0,AE,ramadan
+2022-07-31,1,AE,ramadan
+2022-08-07,1,AE,ramadan
+2022-08-14,1,AE,ramadan
+2022-08-21,1,AE,ramadan
+2022-08-28,1,AE,ramadan
+2022-09-04,1,AE,ramadan
+2022-09-11,1,AE,ramadan
+2022-09-18,1,AE,ramadan
+2022-09-25,1,AE,ramadan
+2022-10-02,1,AE,ramadan
+2022-10-09,1,AE,ramadan
+2022-10-16,1,AE,ramadan
+2022-10-23,1,AE,ramadan
+2022-10-30,1,AE,ramadan
+2022-11-06,1,AE,ramadan
+2022-11-13,1,AE,ramadan
+2022-11-20,1,AE,ramadan
+2022-11-27,1,AE,ramadan
+2022-12-04,2,AE,ramadan
+2022-12-11,2,AE,ramadan
+2022-12-18,2,AE,ramadan
+2022-12-25,2,AE,ramadan
+2023-01-01,4,AE,ramadan
+2023-01-08,3,AE,ramadan
+2023-01-15,3,AE,ramadan
+2023-01-22,4,AE,ramadan
+2023-01-29,4,AE,ramadan
+2023-02-05,4,AE,ramadan
+2023-02-12,5,AE,ramadan
+2023-02-19,6,AE,ramadan
+2023-02-26,7,AE,ramadan
+2023-03-05,11,AE,ramadan
+2023-03-12,17,AE,ramadan
+2023-03-19,100,AE,ramadan
+2023-03-26,26,AE,ramadan
+2023-04-02,20,AE,ramadan
+2023-04-09,19,AE,ramadan
+2023-04-16,17,AE,ramadan
+2023-04-23,2,AE,ramadan
+2023-04-30,1,AE,ramadan
+2023-05-07,1,AE,ramadan
+2023-05-14,1,AE,ramadan
+2023-05-21,1,AE,ramadan
+2023-05-28,1,AE,ramadan
+2023-06-04,1,AE,ramadan
+2023-06-11,1,AE,ramadan
+2023-06-18,1,AE,ramadan
+2023-06-25,1,AE,ramadan
+2023-07-02,1,AE,ramadan
+2023-07-09,1,AE,ramadan
+2023-07-16,1,AE,ramadan
+2023-07-23,1,AE,ramadan
+2023-07-30,1,AE,ramadan
+2023-08-06,1,AE,ramadan
+2023-08-13,1,AE,ramadan
+2023-08-20,1,AE,ramadan
+2023-08-27,1,AE,ramadan
+2023-09-03,1,AE,ramadan
+2023-09-10,1,AE,ramadan
+2023-09-17,1,AE,ramadan
+2023-09-24,1,AE,ramadan
+2023-10-01,1,AE,ramadan
+2023-10-08,1,AE,ramadan
+2023-10-15,1,AE,ramadan
+2023-10-22,1,AE,ramadan
+2023-10-29,1,AE,ramadan
+2023-11-05,1,AE,ramadan
+2023-11-12,1,AE,ramadan
+2023-11-19,1,AE,ramadan
+2023-11-26,1,AE,ramadan
+2023-12-03,2,AE,ramadan
+2023-12-10,2,AE,ramadan
+2023-12-17,2,AE,ramadan
+2023-12-24,2,AE,ramadan
+2023-12-31,4,AE,ramadan
+2024-01-07,4,AE,ramadan
+2024-01-14,4,AE,ramadan
+2024-01-21,4,AE,ramadan
+2024-01-28,4,AE,ramadan
+2024-02-04,6,AE,ramadan
+2024-02-11,6,AE,ramadan
+2024-02-18,9,AE,ramadan
+2024-02-25,12,AE,ramadan
+2024-03-03,28,AE,ramadan
+2024-03-10,81,AE,ramadan
+2024-03-17,20,AE,ramadan
+2024-03-24,18,AE,ramadan
+2024-03-31,19,AE,ramadan
+2024-04-07,9,AE,ramadan
+2024-04-14,1,AE,ramadan
+2024-04-21,1,AE,ramadan
+2024-04-28,1,AE,ramadan
+2024-05-05,1,AE,ramadan
+2024-05-12,1,AE,ramadan
+2024-05-19,1,AE,ramadan
+2024-05-26,1,AE,ramadan
+2024-06-02,1,AE,ramadan
+2024-06-09,1,AE,ramadan
+2024-06-16,1,AE,ramadan
+2024-06-23,0,AE,ramadan
+2024-06-30,0,AE,ramadan
+2024-07-07,1,AE,ramadan
+2024-07-14,1,AE,ramadan
+2024-07-21,1,AE,ramadan
+2024-07-28,1,AE,ramadan
+2024-08-04,1,AE,ramadan
+2024-08-11,1,AE,ramadan
+2024-08-18,1,AE,ramadan
+2024-08-25,1,AE,ramadan
+2024-09-01,1,AE,ramadan
+2024-09-08,1,AE,ramadan
+2024-09-15,1,AE,ramadan
+2024-09-22,1,AE,ramadan
+2024-09-29,1,AE,ramadan
+2024-10-06,1,AE,ramadan
+2024-10-13,1,AE,ramadan
+2024-10-20,1,AE,ramadan
+2024-10-27,1,AE,ramadan
+2024-11-03,1,AE,ramadan
+2024-11-10,1,AE,ramadan
+2024-11-17,1,AE,ramadan
+2024-11-24,1,AE,ramadan
+2024-12-01,2,AE,ramadan
+2024-12-08,2,AE,ramadan
+2024-12-15,2,AE,ramadan
+2024-12-22,2,AE,ramadan
+2024-12-29,3,AE,ramadan
+2021-12-26,36,AE,bitcoin
+2022-01-02,45,AE,bitcoin
+2022-01-09,42,AE,bitcoin
+2022-01-16,48,AE,bitcoin
+2022-01-23,71,AE,bitcoin
+2022-01-30,50,AE,bitcoin
+2022-02-06,46,AE,bitcoin
+2022-02-13,37,AE,bitcoin
+2022-02-20,54,AE,bitcoin
+2022-02-27,47,AE,bitcoin
+2022-03-06,41,AE,bitcoin
+2022-03-13,37,AE,bitcoin
+2022-03-20,33,AE,bitcoin
+2022-03-27,39,AE,bitcoin
+2022-04-03,31,AE,bitcoin
+2022-04-10,34,AE,bitcoin
+2022-04-17,28,AE,bitcoin
+2022-04-24,30,AE,bitcoin
+2022-05-01,34,AE,bitcoin
+2022-05-08,81,AE,bitcoin
+2022-05-15,53,AE,bitcoin
+2022-05-22,40,AE,bitcoin
+2022-05-29,34,AE,bitcoin
+2022-06-05,32,AE,bitcoin
+2022-06-12,100,AE,bitcoin
+2022-06-19,78,AE,bitcoin
+2022-06-26,56,AE,bitcoin
+2022-07-03,44,AE,bitcoin
+2022-07-10,38,AE,bitcoin
+2022-07-17,44,AE,bitcoin
+2022-07-24,36,AE,bitcoin
+2022-07-31,33,AE,bitcoin
+2022-08-07,30,AE,bitcoin
+2022-08-14,31,AE,bitcoin
+2022-08-21,31,AE,bitcoin
+2022-08-28,29,AE,bitcoin
+2022-09-04,27,AE,bitcoin
+2022-09-11,29,AE,bitcoin
+2022-09-18,32,AE,bitcoin
+2022-09-25,29,AE,bitcoin
+2022-10-02,23,AE,bitcoin
+2022-10-09,23,AE,bitcoin
+2022-10-16,21,AE,bitcoin
+2022-10-23,20,AE,bitcoin
+2022-10-30,19,AE,bitcoin
+2022-11-06,44,AE,bitcoin
+2022-11-13,40,AE,bitcoin
+2022-11-20,27,AE,bitcoin
+2022-11-27,23,AE,bitcoin
+2022-12-04,21,AE,bitcoin
+2022-12-11,22,AE,bitcoin
+2022-12-18,20,AE,bitcoin
+2022-12-25,20,AE,bitcoin
+2023-01-01,20,AE,bitcoin
+2023-01-08,23,AE,bitcoin
+2023-01-15,29,AE,bitcoin
+2023-01-22,22,AE,bitcoin
+2023-01-29,26,AE,bitcoin
+2023-02-05,22,AE,bitcoin
+2023-02-12,21,AE,bitcoin
+2023-02-19,21,AE,bitcoin
+2023-02-26,19,AE,bitcoin
+2023-03-05,20,AE,bitcoin
+2023-03-12,30,AE,bitcoin
+2023-03-19,31,AE,bitcoin
+2023-03-26,26,AE,bitcoin
+2023-04-02,22,AE,bitcoin
+2023-04-09,30,AE,bitcoin
+2023-04-16,23,AE,bitcoin
+2023-04-23,25,AE,bitcoin
+2023-04-30,21,AE,bitcoin
+2023-05-07,21,AE,bitcoin
+2023-05-14,18,AE,bitcoin
+2023-05-21,20,AE,bitcoin
+2023-05-28,18,AE,bitcoin
+2023-06-04,20,AE,bitcoin
+2023-06-11,20,AE,bitcoin
+2023-06-18,25,AE,bitcoin
+2023-06-25,21,AE,bitcoin
+2023-07-02,20,AE,bitcoin
+2023-07-09,20,AE,bitcoin
+2023-07-16,20,AE,bitcoin
+2023-07-23,19,AE,bitcoin
+2023-07-30,17,AE,bitcoin
+2023-08-06,15,AE,bitcoin
+2023-08-13,21,AE,bitcoin
+2023-08-20,19,AE,bitcoin
+2023-08-27,19,AE,bitcoin
+2023-09-03,15,AE,bitcoin
+2023-09-10,15,AE,bitcoin
+2023-09-17,15,AE,bitcoin
+2023-09-24,17,AE,bitcoin
+2023-10-01,15,AE,bitcoin
+2023-10-08,15,AE,bitcoin
+2023-10-15,18,AE,bitcoin
+2023-10-22,27,AE,bitcoin
+2023-10-29,20,AE,bitcoin
+2023-11-05,20,AE,bitcoin
+2023-11-12,21,AE,bitcoin
+2023-11-19,20,AE,bitcoin
+2023-11-26,20,AE,bitcoin
+2023-12-03,34,AE,bitcoin
+2023-12-10,26,AE,bitcoin
+2023-12-17,24,AE,bitcoin
+2023-12-24,24,AE,bitcoin
+2023-12-31,35,AE,bitcoin
+2024-01-07,50,AE,bitcoin
+2024-01-14,31,AE,bitcoin
+2024-01-21,29,AE,bitcoin
+2024-01-28,23,AE,bitcoin
+2024-02-04,23,AE,bitcoin
+2024-02-11,32,AE,bitcoin
+2024-02-18,27,AE,bitcoin
+2024-02-25,58,AE,bitcoin
+2024-03-03,64,AE,bitcoin
+2024-03-10,62,AE,bitcoin
+2024-03-17,50,AE,bitcoin
+2024-03-24,41,AE,bitcoin
+2024-03-31,36,AE,bitcoin
+2024-04-07,39,AE,bitcoin
+2024-04-14,57,AE,bitcoin
+2024-04-21,33,AE,bitcoin
+2024-04-28,30,AE,bitcoin
+2024-05-05,23,AE,bitcoin
+2024-05-12,23,AE,bitcoin
+2024-05-19,27,AE,bitcoin
+2024-05-26,22,AE,bitcoin
+2024-06-02,21,AE,bitcoin
+2024-06-09,21,AE,bitcoin
+2024-06-16,22,AE,bitcoin
+2024-06-23,22,AE,bitcoin
+2024-06-30,24,AE,bitcoin
+2024-07-07,21,AE,bitcoin
+2024-07-14,26,AE,bitcoin
+2024-07-21,24,AE,bitcoin
+2024-07-28,24,AE,bitcoin
+2024-08-04,42,AE,bitcoin
+2024-08-11,24,AE,bitcoin
+2024-08-18,21,AE,bitcoin
+2024-08-25,22,AE,bitcoin
+2024-09-01,23,AE,bitcoin
+2024-09-08,23,AE,bitcoin
+2024-09-15,21,AE,bitcoin
+2024-09-22,20,AE,bitcoin
+2024-09-29,21,AE,bitcoin
+2024-10-06,19,AE,bitcoin
+2024-10-13,21,AE,bitcoin
+2024-10-20,17,AE,bitcoin
+2024-10-27,25,AE,bitcoin
+2024-11-03,42,AE,bitcoin
+2024-11-10,80,AE,bitcoin
+2024-11-17,64,AE,bitcoin
+2024-11-24,49,AE,bitcoin
+2024-12-01,61,AE,bitcoin
+2024-12-08,52,AE,bitcoin
+2024-12-15,50,AE,bitcoin
+2024-12-22,39,AE,bitcoin
+2024-12-29,36,AE,bitcoin
+2021-12-26,40,AE,weather
+2022-01-02,47,AE,weather
+2022-01-09,26,AE,weather
+2022-01-16,42,AE,weather
+2022-01-23,22,AE,weather
+2022-01-30,20,AE,weather
+2022-02-06,20,AE,weather
+2022-02-13,19,AE,weather
+2022-02-20,17,AE,weather
+2022-02-27,17,AE,weather
+2022-03-06,18,AE,weather
+2022-03-13,18,AE,weather
+2022-03-20,16,AE,weather
+2022-03-27,16,AE,weather
+2022-04-03,17,AE,weather
+2022-04-10,17,AE,weather
+2022-04-17,16,AE,weather
+2022-04-24,19,AE,weather
+2022-05-01,18,AE,weather
+2022-05-08,15,AE,weather
+2022-05-15,20,AE,weather
+2022-05-22,19,AE,weather
+2022-05-29,18,AE,weather
+2022-06-05,19,AE,weather
+2022-06-12,22,AE,weather
+2022-06-19,25,AE,weather
+2022-06-26,25,AE,weather
+2022-07-03,35,AE,weather
+2022-07-10,27,AE,weather
+2022-07-17,27,AE,weather
+2022-07-24,41,AE,weather
+2022-07-31,26,AE,weather
+2022-08-07,27,AE,weather
+2022-08-14,28,AE,weather
+2022-08-21,21,AE,weather
+2022-08-28,18,AE,weather
+2022-09-04,16,AE,weather
+2022-09-11,19,AE,weather
+2022-09-18,16,AE,weather
+2022-09-25,17,AE,weather
+2022-10-02,16,AE,weather
+2022-10-09,15,AE,weather
+2022-10-16,17,AE,weather
+2022-10-23,15,AE,weather
+2022-10-30,17,AE,weather
+2022-11-06,17,AE,weather
+2022-11-13,17,AE,weather
+2022-11-20,19,AE,weather
+2022-11-27,16,AE,weather
+2022-12-04,17,AE,weather
+2022-12-11,18,AE,weather
+2022-12-18,20,AE,weather
+2022-12-25,54,AE,weather
+2023-01-01,43,AE,weather
+2023-01-08,32,AE,weather
+2023-01-15,25,AE,weather
+2023-01-22,78,AE,weather
+2023-01-29,25,AE,weather
+2023-02-05,23,AE,weather
+2023-02-12,18,AE,weather
+2023-02-19,18,AE,weather
+2023-02-26,20,AE,weather
+2023-03-05,17,AE,weather
+2023-03-12,19,AE,weather
+2023-03-19,25,AE,weather
+2023-03-26,26,AE,weather
+2023-04-02,21,AE,weather
+2023-04-09,20,AE,weather
+2023-04-16,20,AE,weather
+2023-04-23,18,AE,weather
+2023-04-30,16,AE,weather
+2023-05-07,16,AE,weather
+2023-05-14,19,AE,weather
+2023-05-21,22,AE,weather
+2023-05-28,20,AE,weather
+2023-06-04,20,AE,weather
+2023-06-11,23,AE,weather
+2023-06-18,25,AE,weather
+2023-06-25,27,AE,weather
+2023-07-02,28,AE,weather
+2023-07-09,30,AE,weather
+2023-07-16,32,AE,weather
+2023-07-23,29,AE,weather
+2023-07-30,30,AE,weather
+2023-08-06,28,AE,weather
+2023-08-13,23,AE,weather
+2023-08-20,29,AE,weather
+2023-08-27,25,AE,weather
+2023-09-03,21,AE,weather
+2023-09-10,24,AE,weather
+2023-09-17,22,AE,weather
+2023-09-24,19,AE,weather
+2023-10-01,16,AE,weather
+2023-10-08,16,AE,weather
+2023-10-15,17,AE,weather
+2023-10-22,32,AE,weather
+2023-10-29,20,AE,weather
+2023-11-05,27,AE,weather
+2023-11-12,43,AE,weather
+2023-11-19,29,AE,weather
+2023-11-26,20,AE,weather
+2023-12-03,17,AE,weather
+2023-12-10,19,AE,weather
+2023-12-17,19,AE,weather
+2023-12-24,17,AE,weather
+2023-12-31,22,AE,weather
+2024-01-07,17,AE,weather
+2024-01-14,17,AE,weather
+2024-01-21,17,AE,weather
+2024-01-28,29,AE,weather
+2024-02-04,25,AE,weather
+2024-02-11,65,AE,weather
+2024-02-18,24,AE,weather
+2024-02-25,33,AE,weather
+2024-03-03,76,AE,weather
+2024-03-10,27,AE,weather
+2024-03-17,30,AE,weather
+2024-03-24,29,AE,weather
+2024-03-31,20,AE,weather
+2024-04-07,29,AE,weather
+2024-04-14,90,AE,weather
+2024-04-21,47,AE,weather
+2024-04-28,100,AE,weather
+2024-05-05,29,AE,weather
+2024-05-12,25,AE,weather
+2024-05-19,23,AE,weather
+2024-05-26,31,AE,weather
+2024-06-02,24,AE,weather
+2024-06-09,27,AE,weather
+2024-06-16,31,AE,weather
+2024-06-23,32,AE,weather
+2024-06-30,26,AE,weather
+2024-07-07,30,AE,weather
+2024-07-14,40,AE,weather
+2024-07-21,38,AE,weather
+2024-07-28,34,AE,weather
+2024-08-04,34,AE,weather
+2024-08-11,27,AE,weather
+2024-08-18,26,AE,weather
+2024-08-25,29,AE,weather
+2024-09-01,23,AE,weather
+2024-09-08,22,AE,weather
+2024-09-15,19,AE,weather
+2024-09-22,21,AE,weather
+2024-09-29,24,AE,weather
+2024-10-06,21,AE,weather
+2024-10-13,20,AE,weather
+2024-10-20,19,AE,weather
+2024-10-27,17,AE,weather
+2024-11-03,17,AE,weather
+2024-11-10,16,AE,weather
+2024-11-17,17,AE,weather
+2024-11-24,23,AE,weather
+2024-12-01,21,AE,weather
+2024-12-08,19,AE,weather
+2024-12-15,29,AE,weather
+2024-12-22,26,AE,weather
+2024-12-29,33,AE,weather
+2021-12-26,21,US,inflation
+2022-01-02,27,US,inflation
+2022-01-09,40,US,inflation
+2022-01-16,31,US,inflation
+2022-01-23,37,US,inflation
+2022-01-30,29,US,inflation
+2022-02-06,48,US,inflation
+2022-02-13,42,US,inflation
+2022-02-20,36,US,inflation
+2022-02-27,41,US,inflation
+2022-03-06,52,US,inflation
+2022-03-13,43,US,inflation
+2022-03-20,37,US,inflation
+2022-03-27,39,US,inflation
+2022-04-03,39,US,inflation
+2022-04-10,59,US,inflation
+2022-04-17,44,US,inflation
+2022-04-24,42,US,inflation
+2022-05-01,46,US,inflation
+2022-05-08,65,US,inflation
+2022-05-15,45,US,inflation
+2022-05-22,42,US,inflation
+2022-05-29,36,US,inflation
+2022-06-05,66,US,inflation
+2022-06-12,72,US,inflation
+2022-06-19,46,US,inflation
+2022-06-26,47,US,inflation
+2022-07-03,39,US,inflation
+2022-07-10,64,US,inflation
+2022-07-17,36,US,inflation
+2022-07-24,48,US,inflation
+2022-07-31,51,US,inflation
+2022-08-07,100,US,inflation
+2022-08-14,69,US,inflation
+2022-08-21,46,US,inflation
+2022-08-28,38,US,inflation
+2022-09-04,35,US,inflation
+2022-09-11,61,US,inflation
+2022-09-18,49,US,inflation
+2022-09-25,47,US,inflation
+2022-10-02,55,US,inflation
+2022-10-09,63,US,inflation
+2022-10-16,53,US,inflation
+2022-10-23,53,US,inflation
+2022-10-30,52,US,inflation
+2022-11-06,52,US,inflation
+2022-11-13,42,US,inflation
+2022-11-20,31,US,inflation
+2022-11-27,39,US,inflation
+2022-12-04,39,US,inflation
+2022-12-11,43,US,inflation
+2022-12-18,29,US,inflation
+2022-12-25,25,US,inflation
+2023-01-01,30,US,inflation
+2023-01-08,40,US,inflation
+2023-01-15,34,US,inflation
+2023-01-22,34,US,inflation
+2023-01-29,36,US,inflation
+2023-02-05,38,US,inflation
+2023-02-12,39,US,inflation
+2023-02-19,37,US,inflation
+2023-02-26,35,US,inflation
+2023-03-05,35,US,inflation
+2023-03-12,36,US,inflation
+2023-03-19,37,US,inflation
+2023-03-26,35,US,inflation
+2023-04-02,30,US,inflation
+2023-04-09,41,US,inflation
+2023-04-16,33,US,inflation
+2023-04-23,35,US,inflation
+2023-04-30,33,US,inflation
+2023-05-07,36,US,inflation
+2023-05-14,29,US,inflation
+2023-05-21,27,US,inflation
+2023-05-28,24,US,inflation
+2023-06-04,24,US,inflation
+2023-06-11,35,US,inflation
+2023-06-18,24,US,inflation
+2023-06-25,27,US,inflation
+2023-07-02,25,US,inflation
+2023-07-09,37,US,inflation
+2023-07-16,26,US,inflation
+2023-07-23,28,US,inflation
+2023-07-30,25,US,inflation
+2023-08-06,32,US,inflation
+2023-08-13,29,US,inflation
+2023-08-20,28,US,inflation
+2023-08-27,28,US,inflation
+2023-09-03,27,US,inflation
+2023-09-10,34,US,inflation
+2023-09-17,39,US,inflation
+2023-09-24,32,US,inflation
+2023-10-01,32,US,inflation
+2023-10-08,34,US,inflation
+2023-10-15,34,US,inflation
+2023-10-22,32,US,inflation
+2023-10-29,31,US,inflation
+2023-11-05,33,US,inflation
+2023-11-12,37,US,inflation
+2023-11-19,26,US,inflation
+2023-11-26,36,US,inflation
+2023-12-03,37,US,inflation
+2023-12-10,37,US,inflation
+2023-12-17,28,US,inflation
+2023-12-24,23,US,inflation
+2023-12-31,24,US,inflation
+2024-01-07,31,US,inflation
+2024-01-14,27,US,inflation
+2024-01-21,32,US,inflation
+2024-01-28,32,US,inflation
+2024-02-04,32,US,inflation
+2024-02-11,39,US,inflation
+2024-02-18,36,US,inflation
+2024-02-25,38,US,inflation
+2024-03-03,39,US,inflation
+2024-03-10,37,US,inflation
+2024-03-17,34,US,inflation
+2024-03-24,31,US,inflation
+2024-03-31,32,US,inflation
+2024-04-07,44,US,inflation
+2024-04-14,36,US,inflation
+2024-04-21,37,US,inflation
+2024-04-28,35,US,inflation
+2024-05-05,33,US,inflation
+2024-05-12,39,US,inflation
+2024-05-19,31,US,inflation
+2024-05-26,32,US,inflation
+2024-06-02,27,US,inflation
+2024-06-09,33,US,inflation
+2024-06-16,26,US,inflation
+2024-06-23,32,US,inflation
+2024-06-30,26,US,inflation
+2024-07-07,33,US,inflation
+2024-07-14,27,US,inflation
+2024-07-21,30,US,inflation
+2024-07-28,28,US,inflation
+2024-08-04,27,US,inflation
+2024-08-11,42,US,inflation
+2024-08-18,33,US,inflation
+2024-08-25,32,US,inflation
+2024-09-01,28,US,inflation
+2024-09-08,45,US,inflation
+2024-09-15,36,US,inflation
+2024-09-22,33,US,inflation
+2024-09-29,31,US,inflation
+2024-10-06,33,US,inflation
+2024-10-13,31,US,inflation
+2024-10-20,34,US,inflation
+2024-10-27,36,US,inflation
+2024-11-03,48,US,inflation
+2024-11-10,38,US,inflation
+2024-11-17,33,US,inflation
+2024-11-24,27,US,inflation
+2024-12-01,29,US,inflation
+2024-12-08,34,US,inflation
+2024-12-15,29,US,inflation
+2024-12-22,22,US,inflation
+2024-12-29,22,US,inflation
+2021-12-26,37,US,electric car
+2022-01-02,40,US,electric car
+2022-01-09,34,US,electric car
+2022-01-16,31,US,electric car
+2022-01-23,32,US,electric car
+2022-01-30,34,US,electric car
+2022-02-06,37,US,electric car
+2022-02-13,55,US,electric car
+2022-02-20,47,US,electric car
+2022-02-27,50,US,electric car
+2022-03-06,100,US,electric car
+2022-03-13,79,US,electric car
+2022-03-20,65,US,electric car
+2022-03-27,56,US,electric car
+2022-04-03,54,US,electric car
+2022-04-10,50,US,electric car
+2022-04-17,54,US,electric car
+2022-04-24,52,US,electric car
+2022-05-01,41,US,electric car
+2022-05-08,47,US,electric car
+2022-05-15,48,US,electric car
+2022-05-22,51,US,electric car
+2022-05-29,58,US,electric car
+2022-06-05,68,US,electric car
+2022-06-12,60,US,electric car
+2022-06-19,59,US,electric car
+2022-06-26,49,US,electric car
+2022-07-03,51,US,electric car
+2022-07-10,47,US,electric car
+2022-07-17,52,US,electric car
+2022-07-24,47,US,electric car
+2022-07-31,42,US,electric car
+2022-08-07,49,US,electric car
+2022-08-14,54,US,electric car
+2022-08-21,52,US,electric car
+2022-08-28,53,US,electric car
+2022-09-04,51,US,electric car
+2022-09-11,46,US,electric car
+2022-09-18,39,US,electric car
+2022-09-25,40,US,electric car
+2022-10-02,40,US,electric car
+2022-10-09,39,US,electric car
+2022-10-16,40,US,electric car
+2022-10-23,36,US,electric car
+2022-10-30,36,US,electric car
+2022-11-06,34,US,electric car
+2022-11-13,33,US,electric car
+2022-11-20,36,US,electric car
+2022-11-27,33,US,electric car
+2022-12-04,34,US,electric car
+2022-12-11,35,US,electric car
+2022-12-18,36,US,electric car
+2022-12-25,37,US,electric car
+2023-01-01,32,US,electric car
+2023-01-08,38,US,electric car
+2023-01-15,38,US,electric car
+2023-01-22,35,US,electric car
+2023-01-29,39,US,electric car
+2023-02-05,35,US,electric car
+2023-02-12,38,US,electric car
+2023-02-19,35,US,electric car
+2023-02-26,35,US,electric car
+2023-03-05,31,US,electric car
+2023-03-12,31,US,electric car
+2023-03-19,34,US,electric car
+2023-03-26,32,US,electric car
+2023-04-02,34,US,electric car
+2023-04-09,38,US,electric car
+2023-04-16,39,US,electric car
+2023-04-23,37,US,electric car
+2023-04-30,32,US,electric car
+2023-05-07,33,US,electric car
+2023-05-14,35,US,electric car
+2023-05-21,36,US,electric car
+2023-05-28,32,US,electric car
+2023-06-04,35,US,electric car
+2023-06-11,34,US,electric car
+2023-06-18,34,US,electric car
+2023-06-25,33,US,electric car
+2023-07-02,35,US,electric car
+2023-07-09,34,US,electric car
+2023-07-16,32,US,electric car
+2023-07-23,34,US,electric car
+2023-07-30,33,US,electric car
+2023-08-06,34,US,electric car
+2023-08-13,33,US,electric car
+2023-08-20,33,US,electric car
+2023-08-27,32,US,electric car
+2023-09-03,34,US,electric car
+2023-09-10,33,US,electric car
+2023-09-17,34,US,electric car
+2023-09-24,33,US,electric car
+2023-10-01,33,US,electric car
+2023-10-08,32,US,electric car
+2023-10-15,33,US,electric car
+2023-10-22,33,US,electric car
+2023-10-29,30,US,electric car
+2023-11-05,30,US,electric car
+2023-11-12,30,US,electric car
+2023-11-19,33,US,electric car
+2023-11-26,31,US,electric car
+2023-12-03,31,US,electric car
+2023-12-10,31,US,electric car
+2023-12-17,31,US,electric car
+2023-12-24,33,US,electric car
+2023-12-31,29,US,electric car
+2024-01-07,27,US,electric car
+2024-01-14,29,US,electric car
+2024-01-21,31,US,electric car
+2024-01-28,26,US,electric car
+2024-02-04,27,US,electric car
+2024-02-11,27,US,electric car
+2024-02-18,29,US,electric car
+2024-02-25,30,US,electric car
+2024-03-03,29,US,electric car
+2024-03-10,29,US,electric car
+2024-03-17,30,US,electric car
+2024-03-24,32,US,electric car
+2024-03-31,30,US,electric car
+2024-04-07,29,US,electric car
+2024-04-14,31,US,electric car
+2024-04-21,33,US,electric car
+2024-04-28,31,US,electric car
+2024-05-05,29,US,electric car
+2024-05-12,30,US,electric car
+2024-05-19,31,US,electric car
+2024-05-26,30,US,electric car
+2024-06-02,27,US,electric car
+2024-06-09,29,US,electric car
+2024-06-16,32,US,electric car
+2024-06-23,30,US,electric car
+2024-06-30,26,US,electric car
+2024-07-07,28,US,electric car
+2024-07-14,27,US,electric car
+2024-07-21,29,US,electric car
+2024-07-28,27,US,electric car
+2024-08-04,24,US,electric car
+2024-08-11,28,US,electric car
+2024-08-18,27,US,electric car
+2024-08-25,28,US,electric car
+2024-09-01,31,US,electric car
+2024-09-08,27,US,electric car
+2024-09-15,26,US,electric car
+2024-09-22,26,US,electric car
+2024-09-29,26,US,electric car
+2024-10-06,27,US,electric car
+2024-10-13,25,US,electric car
+2024-10-20,25,US,electric car
+2024-10-27,24,US,electric car
+2024-11-03,23,US,electric car
+2024-11-10,30,US,electric car
+2024-11-17,29,US,electric car
+2024-11-24,32,US,electric car
+2024-12-01,29,US,electric car
+2024-12-08,29,US,electric car
+2024-12-15,27,US,electric car
+2024-12-22,29,US,electric car
+2024-12-29,25,US,electric car
+2021-12-26,21,US,artificial intelligence
+2022-01-02,25,US,artificial intelligence
+2022-01-09,25,US,artificial intelligence
+2022-01-16,25,US,artificial intelligence
+2022-01-23,29,US,artificial intelligence
+2022-01-30,28,US,artificial intelligence
+2022-02-06,30,US,artificial intelligence
+2022-02-13,30,US,artificial intelligence
+2022-02-20,30,US,artificial intelligence
+2022-02-27,31,US,artificial intelligence
+2022-03-06,28,US,artificial intelligence
+2022-03-13,29,US,artificial intelligence
+2022-03-20,30,US,artificial intelligence
+2022-03-27,35,US,artificial intelligence
+2022-04-03,35,US,artificial intelligence
+2022-04-10,33,US,artificial intelligence
+2022-04-17,36,US,artificial intelligence
+2022-04-24,35,US,artificial intelligence
+2022-05-01,31,US,artificial intelligence
+2022-05-08,31,US,artificial intelligence
+2022-05-15,28,US,artificial intelligence
+2022-05-22,26,US,artificial intelligence
+2022-05-29,22,US,artificial intelligence
+2022-06-05,26,US,artificial intelligence
+2022-06-12,31,US,artificial intelligence
+2022-06-19,27,US,artificial intelligence
+2022-06-26,25,US,artificial intelligence
+2022-07-03,25,US,artificial intelligence
+2022-07-10,26,US,artificial intelligence
+2022-07-17,27,US,artificial intelligence
+2022-07-24,26,US,artificial intelligence
+2022-07-31,26,US,artificial intelligence
+2022-08-07,27,US,artificial intelligence
+2022-08-14,27,US,artificial intelligence
+2022-08-21,33,US,artificial intelligence
+2022-08-28,31,US,artificial intelligence
+2022-09-04,33,US,artificial intelligence
+2022-09-11,35,US,artificial intelligence
+2022-09-18,38,US,artificial intelligence
+2022-09-25,35,US,artificial intelligence
+2022-10-02,33,US,artificial intelligence
+2022-10-09,34,US,artificial intelligence
+2022-10-16,35,US,artificial intelligence
+2022-10-23,35,US,artificial intelligence
+2022-10-30,35,US,artificial intelligence
+2022-11-06,34,US,artificial intelligence
+2022-11-13,33,US,artificial intelligence
+2022-11-20,26,US,artificial intelligence
+2022-11-27,36,US,artificial intelligence
+2022-12-04,46,US,artificial intelligence
+2022-12-11,40,US,artificial intelligence
+2022-12-18,31,US,artificial intelligence
+2022-12-25,27,US,artificial intelligence
+2023-01-01,35,US,artificial intelligence
+2023-01-08,44,US,artificial intelligence
+2023-01-15,44,US,artificial intelligence
+2023-01-22,53,US,artificial intelligence
+2023-01-29,53,US,artificial intelligence
+2023-02-05,56,US,artificial intelligence
+2023-02-12,54,US,artificial intelligence
+2023-02-19,50,US,artificial intelligence
+2023-02-26,51,US,artificial intelligence
+2023-03-05,49,US,artificial intelligence
+2023-03-12,47,US,artificial intelligence
+2023-03-19,56,US,artificial intelligence
+2023-03-26,82,US,artificial intelligence
+2023-04-02,66,US,artificial intelligence
+2023-04-09,69,US,artificial intelligence
+2023-04-16,100,US,artificial intelligence
+2023-04-23,63,US,artificial intelligence
+2023-04-30,88,US,artificial intelligence
+2023-05-07,67,US,artificial intelligence
+2023-05-14,63,US,artificial intelligence
+2023-05-21,57,US,artificial intelligence
+2023-05-28,60,US,artificial intelligence
+2023-06-04,58,US,artificial intelligence
+2023-06-11,54,US,artificial intelligence
+2023-06-18,48,US,artificial intelligence
+2023-06-25,48,US,artificial intelligence
+2023-07-02,44,US,artificial intelligence
+2023-07-09,58,US,artificial intelligence
+2023-07-16,55,US,artificial intelligence
+2023-07-23,51,US,artificial intelligence
+2023-07-30,48,US,artificial intelligence
+2023-08-06,45,US,artificial intelligence
+2023-08-13,48,US,artificial intelligence
+2023-08-20,50,US,artificial intelligence
+2023-08-27,50,US,artificial intelligence
+2023-09-03,52,US,artificial intelligence
+2023-09-10,55,US,artificial intelligence
+2023-09-17,58,US,artificial intelligence
+2023-09-24,56,US,artificial intelligence
+2023-10-01,52,US,artificial intelligence
+2023-10-08,58,US,artificial intelligence
+2023-10-15,60,US,artificial intelligence
+2023-10-22,58,US,artificial intelligence
+2023-10-29,65,US,artificial intelligence
+2023-11-05,56,US,artificial intelligence
+2023-11-12,59,US,artificial intelligence
+2023-11-19,50,US,artificial intelligence
+2023-11-26,59,US,artificial intelligence
+2023-12-03,60,US,artificial intelligence
+2023-12-10,51,US,artificial intelligence
+2023-12-17,62,US,artificial intelligence
+2023-12-24,38,US,artificial intelligence
+2023-12-31,47,US,artificial intelligence
+2024-01-07,53,US,artificial intelligence
+2024-01-14,55,US,artificial intelligence
+2024-01-21,62,US,artificial intelligence
+2024-01-28,59,US,artificial intelligence
+2024-02-04,60,US,artificial intelligence
+2024-02-11,58,US,artificial intelligence
+2024-02-18,60,US,artificial intelligence
+2024-02-25,61,US,artificial intelligence
+2024-03-03,62,US,artificial intelligence
+2024-03-10,57,US,artificial intelligence
+2024-03-17,57,US,artificial intelligence
+2024-03-24,59,US,artificial intelligence
+2024-03-31,58,US,artificial intelligence
+2024-04-07,53,US,artificial intelligence
+2024-04-14,57,US,artificial intelligence
+2024-04-21,56,US,artificial intelligence
+2024-04-28,57,US,artificial intelligence
+2024-05-05,57,US,artificial intelligence
+2024-05-12,61,US,artificial intelligence
+2024-05-19,51,US,artificial intelligence
+2024-05-26,57,US,artificial intelligence
+2024-06-02,54,US,artificial intelligence
+2024-06-09,56,US,artificial intelligence
+2024-06-16,56,US,artificial intelligence
+2024-06-23,52,US,artificial intelligence
+2024-06-30,46,US,artificial intelligence
+2024-07-07,49,US,artificial intelligence
+2024-07-14,48,US,artificial intelligence
+2024-07-21,50,US,artificial intelligence
+2024-07-28,48,US,artificial intelligence
+2024-08-04,51,US,artificial intelligence
+2024-08-11,51,US,artificial intelligence
+2024-08-18,55,US,artificial intelligence
+2024-08-25,51,US,artificial intelligence
+2024-09-01,54,US,artificial intelligence
+2024-09-08,60,US,artificial intelligence
+2024-09-15,58,US,artificial intelligence
+2024-09-22,58,US,artificial intelligence
+2024-09-29,60,US,artificial intelligence
+2024-10-06,62,US,artificial intelligence
+2024-10-13,56,US,artificial intelligence
+2024-10-20,59,US,artificial intelligence
+2024-10-27,60,US,artificial intelligence
+2024-11-03,62,US,artificial intelligence
+2024-11-10,63,US,artificial intelligence
+2024-11-17,60,US,artificial intelligence
+2024-11-24,51,US,artificial intelligence
+2024-12-01,66,US,artificial intelligence
+2024-12-08,61,US,artificial intelligence
+2024-12-15,60,US,artificial intelligence
+2024-12-22,47,US,artificial intelligence
+2024-12-29,51,US,artificial intelligence
+2021-12-26,0,US,World Cup
+2022-01-02,0,US,World Cup
+2022-01-09,0,US,World Cup
+2022-01-16,0,US,World Cup
+2022-01-23,1,US,World Cup
+2022-01-30,2,US,World Cup
+2022-02-06,1,US,World Cup
+2022-02-13,1,US,World Cup
+2022-02-20,0,US,World Cup
+2022-02-27,0,US,World Cup
+2022-03-06,0,US,World Cup
+2022-03-13,0,US,World Cup
+2022-03-20,2,US,World Cup
+2022-03-27,5,US,World Cup
+2022-04-03,1,US,World Cup
+2022-04-10,1,US,World Cup
+2022-04-17,0,US,World Cup
+2022-04-24,0,US,World Cup
+2022-05-01,0,US,World Cup
+2022-05-08,0,US,World Cup
+2022-05-15,0,US,World Cup
+2022-05-22,0,US,World Cup
+2022-05-29,1,US,World Cup
+2022-06-05,1,US,World Cup
+2022-06-12,2,US,World Cup
+2022-06-19,1,US,World Cup
+2022-06-26,1,US,World Cup
+2022-07-03,1,US,World Cup
+2022-07-10,1,US,World Cup
+2022-07-17,1,US,World Cup
+2022-07-24,0,US,World Cup
+2022-07-31,1,US,World Cup
+2022-08-07,1,US,World Cup
+2022-08-14,1,US,World Cup
+2022-08-21,1,US,World Cup
+2022-08-28,1,US,World Cup
+2022-09-04,1,US,World Cup
+2022-09-11,1,US,World Cup
+2022-09-18,1,US,World Cup
+2022-09-25,1,US,World Cup
+2022-10-02,1,US,World Cup
+2022-10-09,1,US,World Cup
+2022-10-16,2,US,World Cup
+2022-10-23,3,US,World Cup
+2022-10-30,3,US,World Cup
+2022-11-06,5,US,World Cup
+2022-11-13,11,US,World Cup
+2022-11-20,87,US,World Cup
+2022-11-27,100,US,World Cup
+2022-12-04,65,US,World Cup
+2022-12-11,37,US,World Cup
+2022-12-18,25,US,World Cup
+2022-12-25,2,US,World Cup
+2023-01-01,2,US,World Cup
+2023-01-08,1,US,World Cup
+2023-01-15,1,US,World Cup
+2023-01-22,1,US,World Cup
+2023-01-29,1,US,World Cup
+2023-02-05,1,US,World Cup
+2023-02-12,1,US,World Cup
+2023-02-19,1,US,World Cup
+2023-02-26,1,US,World Cup
+2023-03-05,1,US,World Cup
+2023-03-12,1,US,World Cup
+2023-03-19,1,US,World Cup
+2023-03-26,1,US,World Cup
+2023-04-02,1,US,World Cup
+2023-04-09,1,US,World Cup
+2023-04-16,0,US,World Cup
+2023-04-23,0,US,World Cup
+2023-04-30,0,US,World Cup
+2023-05-07,1,US,World Cup
+2023-05-14,1,US,World Cup
+2023-05-21,1,US,World Cup
+2023-05-28,1,US,World Cup
+2023-06-04,1,US,World Cup
+2023-06-11,1,US,World Cup
+2023-06-18,1,US,World Cup
+2023-06-25,1,US,World Cup
+2023-07-02,1,US,World Cup
+2023-07-09,1,US,World Cup
+2023-07-16,14,US,World Cup
+2023-07-23,9,US,World Cup
+2023-07-30,16,US,World Cup
+2023-08-06,9,US,World Cup
+2023-08-13,5,US,World Cup
+2023-08-20,9,US,World Cup
+2023-08-27,1,US,World Cup
+2023-09-03,2,US,World Cup
+2023-09-10,1,US,World Cup
+2023-09-17,1,US,World Cup
+2023-09-24,1,US,World Cup
+2023-10-01,2,US,World Cup
+2023-10-08,3,US,World Cup
+2023-10-15,4,US,World Cup
+2023-10-22,4,US,World Cup
+2023-10-29,4,US,World Cup
+2023-11-05,4,US,World Cup
+2023-11-12,3,US,World Cup
+2023-11-19,3,US,World Cup
+2023-11-26,1,US,World Cup
+2023-12-03,1,US,World Cup
+2023-12-10,1,US,World Cup
+2023-12-17,1,US,World Cup
+2023-12-24,0,US,World Cup
+2023-12-31,1,US,World Cup
+2024-01-07,0,US,World Cup
+2024-01-14,1,US,World Cup
+2024-01-21,1,US,World Cup
+2024-01-28,1,US,World Cup
+2024-02-04,2,US,World Cup
+2024-02-11,1,US,World Cup
+2024-02-18,1,US,World Cup
+2024-02-25,1,US,World Cup
+2024-03-03,0,US,World Cup
+2024-03-10,0,US,World Cup
+2024-03-17,0,US,World Cup
+2024-03-24,1,US,World Cup
+2024-03-31,0,US,World Cup
+2024-04-07,0,US,World Cup
+2024-04-14,0,US,World Cup
+2024-04-21,0,US,World Cup
+2024-04-28,1,US,World Cup
+2024-05-05,0,US,World Cup
+2024-05-12,0,US,World Cup
+2024-05-19,1,US,World Cup
+2024-05-26,4,US,World Cup
+2024-06-02,5,US,World Cup
+2024-06-09,4,US,World Cup
+2024-06-16,3,US,World Cup
+2024-06-23,4,US,World Cup
+2024-06-30,2,US,World Cup
+2024-07-07,1,US,World Cup
+2024-07-14,1,US,World Cup
+2024-07-21,1,US,World Cup
+2024-07-28,1,US,World Cup
+2024-08-04,1,US,World Cup
+2024-08-11,0,US,World Cup
+2024-08-18,0,US,World Cup
+2024-08-25,0,US,World Cup
+2024-09-01,1,US,World Cup
+2024-09-08,1,US,World Cup
+2024-09-15,0,US,World Cup
+2024-09-22,0,US,World Cup
+2024-09-29,0,US,World Cup
+2024-10-06,1,US,World Cup
+2024-10-13,1,US,World Cup
+2024-10-20,0,US,World Cup
+2024-10-27,0,US,World Cup
+2024-11-03,0,US,World Cup
+2024-11-10,1,US,World Cup
+2024-11-17,1,US,World Cup
+2024-11-24,0,US,World Cup
+2024-12-01,1,US,World Cup
+2024-12-08,1,US,World Cup
+2024-12-15,1,US,World Cup
+2024-12-22,0,US,World Cup
+2024-12-29,0,US,World Cup
+2021-12-26,0,US,ChatGPT
+2022-01-02,0,US,ChatGPT
+2022-01-09,0,US,ChatGPT
+2022-01-16,0,US,ChatGPT
+2022-01-23,0,US,ChatGPT
+2022-01-30,0,US,ChatGPT
+2022-02-06,0,US,ChatGPT
+2022-02-13,0,US,ChatGPT
+2022-02-20,0,US,ChatGPT
+2022-02-27,0,US,ChatGPT
+2022-03-06,0,US,ChatGPT
+2022-03-13,0,US,ChatGPT
+2022-03-20,0,US,ChatGPT
+2022-03-27,0,US,ChatGPT
+2022-04-03,0,US,ChatGPT
+2022-04-10,0,US,ChatGPT
+2022-04-17,0,US,ChatGPT
+2022-04-24,0,US,ChatGPT
+2022-05-01,0,US,ChatGPT
+2022-05-08,0,US,ChatGPT
+2022-05-15,0,US,ChatGPT
+2022-05-22,0,US,ChatGPT
+2022-05-29,0,US,ChatGPT
+2022-06-05,0,US,ChatGPT
+2022-06-12,0,US,ChatGPT
+2022-06-19,0,US,ChatGPT
+2022-06-26,0,US,ChatGPT
+2022-07-03,0,US,ChatGPT
+2022-07-10,0,US,ChatGPT
+2022-07-17,0,US,ChatGPT
+2022-07-24,0,US,ChatGPT
+2022-07-31,0,US,ChatGPT
+2022-08-07,0,US,ChatGPT
+2022-08-14,0,US,ChatGPT
+2022-08-21,0,US,ChatGPT
+2022-08-28,0,US,ChatGPT
+2022-09-04,0,US,ChatGPT
+2022-09-11,0,US,ChatGPT
+2022-09-18,0,US,ChatGPT
+2022-09-25,0,US,ChatGPT
+2022-10-02,0,US,ChatGPT
+2022-10-09,0,US,ChatGPT
+2022-10-16,0,US,ChatGPT
+2022-10-23,0,US,ChatGPT
+2022-10-30,0,US,ChatGPT
+2022-11-06,0,US,ChatGPT
+2022-11-13,0,US,ChatGPT
+2022-11-20,0,US,ChatGPT
+2022-11-27,1,US,ChatGPT
+2022-12-04,22,US,ChatGPT
+2022-12-11,27,US,ChatGPT
+2022-12-18,12,US,ChatGPT
+2022-12-25,10,US,ChatGPT
+2023-01-01,17,US,ChatGPT
+2023-01-08,23,US,ChatGPT
+2023-01-15,27,US,ChatGPT
+2023-01-22,36,US,ChatGPT
+2023-01-29,40,US,ChatGPT
+2023-02-05,47,US,ChatGPT
+2023-02-12,44,US,ChatGPT
+2023-02-19,40,US,ChatGPT
+2023-02-26,42,US,ChatGPT
+2023-03-05,41,US,ChatGPT
+2023-03-12,42,US,ChatGPT
+2023-03-19,49,US,ChatGPT
+2023-03-26,50,US,ChatGPT
+2023-04-02,48,US,ChatGPT
+2023-04-09,49,US,ChatGPT
+2023-04-16,53,US,ChatGPT
+2023-04-23,51,US,ChatGPT
+2023-04-30,48,US,ChatGPT
+2023-05-07,46,US,ChatGPT
+2023-05-14,42,US,ChatGPT
+2023-05-21,39,US,ChatGPT
+2023-05-28,35,US,ChatGPT
+2023-06-04,34,US,ChatGPT
+2023-06-11,33,US,ChatGPT
+2023-06-18,29,US,ChatGPT
+2023-06-25,30,US,ChatGPT
+2023-07-02,27,US,ChatGPT
+2023-07-09,31,US,ChatGPT
+2023-07-16,27,US,ChatGPT
+2023-07-23,27,US,ChatGPT
+2023-07-30,26,US,ChatGPT
+2023-08-06,25,US,ChatGPT
+2023-08-13,26,US,ChatGPT
+2023-08-20,30,US,ChatGPT
+2023-08-27,36,US,ChatGPT
+2023-09-03,32,US,ChatGPT
+2023-09-10,39,US,ChatGPT
+2023-09-17,39,US,ChatGPT
+2023-09-24,43,US,ChatGPT
+2023-10-01,39,US,ChatGPT
+2023-10-08,40,US,ChatGPT
+2023-10-15,42,US,ChatGPT
+2023-10-22,42,US,ChatGPT
+2023-10-29,40,US,ChatGPT
+2023-11-05,44,US,ChatGPT
+2023-11-12,45,US,ChatGPT
+2023-11-19,32,US,ChatGPT
+2023-11-26,47,US,ChatGPT
+2023-12-03,47,US,ChatGPT
+2023-12-10,46,US,ChatGPT
+2023-12-17,31,US,ChatGPT
+2023-12-24,22,US,ChatGPT
+2023-12-31,28,US,ChatGPT
+2024-01-07,36,US,ChatGPT
+2024-01-14,38,US,ChatGPT
+2024-01-21,45,US,ChatGPT
+2024-01-28,45,US,ChatGPT
+2024-02-04,47,US,ChatGPT
+2024-02-11,49,US,ChatGPT
+2024-02-18,48,US,ChatGPT
+2024-02-25,50,US,ChatGPT
+2024-03-03,48,US,ChatGPT
+2024-03-10,44,US,ChatGPT
+2024-03-17,45,US,ChatGPT
+2024-03-24,44,US,ChatGPT
+2024-03-31,40,US,ChatGPT
+2024-04-07,52,US,ChatGPT
+2024-04-14,51,US,ChatGPT
+2024-04-21,54,US,ChatGPT
+2024-04-28,51,US,ChatGPT
+2024-05-05,48,US,ChatGPT
+2024-05-12,52,US,ChatGPT
+2024-05-19,49,US,ChatGPT
+2024-05-26,42,US,ChatGPT
+2024-06-02,47,US,ChatGPT
+2024-06-09,39,US,ChatGPT
+2024-06-16,37,US,ChatGPT
+2024-06-23,36,US,ChatGPT
+2024-06-30,32,US,ChatGPT
+2024-07-07,34,US,ChatGPT
+2024-07-14,34,US,ChatGPT
+2024-07-21,35,US,ChatGPT
+2024-07-28,35,US,ChatGPT
+2024-08-04,36,US,ChatGPT
+2024-08-11,42,US,ChatGPT
+2024-08-18,51,US,ChatGPT
+2024-08-25,52,US,ChatGPT
+2024-09-01,53,US,ChatGPT
+2024-09-08,66,US,ChatGPT
+2024-09-15,68,US,ChatGPT
+2024-09-22,70,US,ChatGPT
+2024-09-29,66,US,ChatGPT
+2024-10-06,66,US,ChatGPT
+2024-10-13,67,US,ChatGPT
+2024-10-20,74,US,ChatGPT
+2024-10-27,75,US,ChatGPT
+2024-11-03,70,US,ChatGPT
+2024-11-10,79,US,ChatGPT
+2024-11-17,83,US,ChatGPT
+2024-11-24,55,US,ChatGPT
+2024-12-01,82,US,ChatGPT
+2024-12-08,100,US,ChatGPT
+2024-12-15,76,US,ChatGPT
+2024-12-22,48,US,ChatGPT
+2024-12-29,47,US,ChatGPT
+2021-12-26,2,US,ramadan
+2022-01-02,2,US,ramadan
+2022-01-09,2,US,ramadan
+2022-01-16,2,US,ramadan
+2022-01-23,2,US,ramadan
+2022-01-30,3,US,ramadan
+2022-02-06,3,US,ramadan
+2022-02-13,3,US,ramadan
+2022-02-20,4,US,ramadan
+2022-02-27,5,US,ramadan
+2022-03-06,6,US,ramadan
+2022-03-13,9,US,ramadan
+2022-03-20,12,US,ramadan
+2022-03-27,56,US,ramadan
+2022-04-03,40,US,ramadan
+2022-04-10,26,US,ramadan
+2022-04-17,23,US,ramadan
+2022-04-24,18,US,ramadan
+2022-05-01,12,US,ramadan
+2022-05-08,2,US,ramadan
+2022-05-15,2,US,ramadan
+2022-05-22,1,US,ramadan
+2022-05-29,1,US,ramadan
+2022-06-05,1,US,ramadan
+2022-06-12,1,US,ramadan
+2022-06-19,1,US,ramadan
+2022-06-26,1,US,ramadan
+2022-07-03,1,US,ramadan
+2022-07-10,1,US,ramadan
+2022-07-17,1,US,ramadan
+2022-07-24,1,US,ramadan
+2022-07-31,1,US,ramadan
+2022-08-07,1,US,ramadan
+2022-08-14,1,US,ramadan
+2022-08-21,1,US,ramadan
+2022-08-28,1,US,ramadan
+2022-09-04,1,US,ramadan
+2022-09-11,1,US,ramadan
+2022-09-18,1,US,ramadan
+2022-09-25,2,US,ramadan
+2022-10-02,2,US,ramadan
+2022-10-09,1,US,ramadan
+2022-10-16,2,US,ramadan
+2022-10-23,2,US,ramadan
+2022-10-30,2,US,ramadan
+2022-11-06,2,US,ramadan
+2022-11-13,2,US,ramadan
+2022-11-20,2,US,ramadan
+2022-11-27,2,US,ramadan
+2022-12-04,3,US,ramadan
+2022-12-11,3,US,ramadan
+2022-12-18,3,US,ramadan
+2022-12-25,3,US,ramadan
+2023-01-01,3,US,ramadan
+2023-01-08,3,US,ramadan
+2023-01-15,3,US,ramadan
+2023-01-22,4,US,ramadan
+2023-01-29,4,US,ramadan
+2023-02-05,5,US,ramadan
+2023-02-12,6,US,ramadan
+2023-02-19,8,US,ramadan
+2023-02-26,10,US,ramadan
+2023-03-05,13,US,ramadan
+2023-03-12,19,US,ramadan
+2023-03-19,99,US,ramadan
+2023-03-26,35,US,ramadan
+2023-04-02,29,US,ramadan
+2023-04-09,26,US,ramadan
+2023-04-16,28,US,ramadan
+2023-04-23,5,US,ramadan
+2023-04-30,3,US,ramadan
+2023-05-07,2,US,ramadan
+2023-05-14,2,US,ramadan
+2023-05-21,2,US,ramadan
+2023-05-28,1,US,ramadan
+2023-06-04,1,US,ramadan
+2023-06-11,1,US,ramadan
+2023-06-18,1,US,ramadan
+2023-06-25,2,US,ramadan
+2023-07-02,1,US,ramadan
+2023-07-09,1,US,ramadan
+2023-07-16,1,US,ramadan
+2023-07-23,1,US,ramadan
+2023-07-30,1,US,ramadan
+2023-08-06,1,US,ramadan
+2023-08-13,1,US,ramadan
+2023-08-20,1,US,ramadan
+2023-08-27,1,US,ramadan
+2023-09-03,1,US,ramadan
+2023-09-10,1,US,ramadan
+2023-09-17,1,US,ramadan
+2023-09-24,2,US,ramadan
+2023-10-01,2,US,ramadan
+2023-10-08,2,US,ramadan
+2023-10-15,2,US,ramadan
+2023-10-22,2,US,ramadan
+2023-10-29,2,US,ramadan
+2023-11-05,2,US,ramadan
+2023-11-12,2,US,ramadan
+2023-11-19,2,US,ramadan
+2023-11-26,3,US,ramadan
+2023-12-03,3,US,ramadan
+2023-12-10,3,US,ramadan
+2023-12-17,3,US,ramadan
+2023-12-24,3,US,ramadan
+2023-12-31,4,US,ramadan
+2024-01-07,4,US,ramadan
+2024-01-14,4,US,ramadan
+2024-01-21,4,US,ramadan
+2024-01-28,5,US,ramadan
+2024-02-04,7,US,ramadan
+2024-02-11,8,US,ramadan
+2024-02-18,11,US,ramadan
+2024-02-25,17,US,ramadan
+2024-03-03,31,US,ramadan
+2024-03-10,100,US,ramadan
+2024-03-17,31,US,ramadan
+2024-03-24,25,US,ramadan
+2024-03-31,25,US,ramadan
+2024-04-07,24,US,ramadan
+2024-04-14,3,US,ramadan
+2024-04-21,2,US,ramadan
+2024-04-28,2,US,ramadan
+2024-05-05,1,US,ramadan
+2024-05-12,1,US,ramadan
+2024-05-19,1,US,ramadan
+2024-05-26,1,US,ramadan
+2024-06-02,1,US,ramadan
+2024-06-09,1,US,ramadan
+2024-06-16,1,US,ramadan
+2024-06-23,1,US,ramadan
+2024-06-30,1,US,ramadan
+2024-07-07,1,US,ramadan
+2024-07-14,1,US,ramadan
+2024-07-21,1,US,ramadan
+2024-07-28,1,US,ramadan
+2024-08-04,1,US,ramadan
+2024-08-11,1,US,ramadan
+2024-08-18,1,US,ramadan
+2024-08-25,1,US,ramadan
+2024-09-01,1,US,ramadan
+2024-09-08,2,US,ramadan
+2024-09-15,2,US,ramadan
+2024-09-22,2,US,ramadan
+2024-09-29,2,US,ramadan
+2024-10-06,2,US,ramadan
+2024-10-13,2,US,ramadan
+2024-10-20,2,US,ramadan
+2024-10-27,2,US,ramadan
+2024-11-03,2,US,ramadan
+2024-11-10,2,US,ramadan
+2024-11-17,2,US,ramadan
+2024-11-24,2,US,ramadan
+2024-12-01,3,US,ramadan
+2024-12-08,3,US,ramadan
+2024-12-15,4,US,ramadan
+2024-12-22,4,US,ramadan
+2024-12-29,4,US,ramadan
+2021-12-26,40,US,bitcoin
+2022-01-02,51,US,bitcoin
+2022-01-09,48,US,bitcoin
+2022-01-16,52,US,bitcoin
+2022-01-23,68,US,bitcoin
+2022-01-30,46,US,bitcoin
+2022-02-06,48,US,bitcoin
+2022-02-13,41,US,bitcoin
+2022-02-20,52,US,bitcoin
+2022-02-27,43,US,bitcoin
+2022-03-06,42,US,bitcoin
+2022-03-13,35,US,bitcoin
+2022-03-20,34,US,bitcoin
+2022-03-27,36,US,bitcoin
+2022-04-03,33,US,bitcoin
+2022-04-10,33,US,bitcoin
+2022-04-17,28,US,bitcoin
+2022-04-24,30,US,bitcoin
+2022-05-01,31,US,bitcoin
+2022-05-08,75,US,bitcoin
+2022-05-15,54,US,bitcoin
+2022-05-22,39,US,bitcoin
+2022-05-29,34,US,bitcoin
+2022-06-05,33,US,bitcoin
+2022-06-12,100,US,bitcoin
+2022-06-19,71,US,bitcoin
+2022-06-26,50,US,bitcoin
+2022-07-03,43,US,bitcoin
+2022-07-10,40,US,bitcoin
+2022-07-17,41,US,bitcoin
+2022-07-24,35,US,bitcoin
+2022-07-31,29,US,bitcoin
+2022-08-07,28,US,bitcoin
+2022-08-14,27,US,bitcoin
+2022-08-21,28,US,bitcoin
+2022-08-28,27,US,bitcoin
+2022-09-04,29,US,bitcoin
+2022-09-11,28,US,bitcoin
+2022-09-18,30,US,bitcoin
+2022-09-25,27,US,bitcoin
+2022-10-02,24,US,bitcoin
+2022-10-09,24,US,bitcoin
+2022-10-16,21,US,bitcoin
+2022-10-23,21,US,bitcoin
+2022-10-30,20,US,bitcoin
+2022-11-06,47,US,bitcoin
+2022-11-13,44,US,bitcoin
+2022-11-20,33,US,bitcoin
+2022-11-27,29,US,bitcoin
+2022-12-04,26,US,bitcoin
+2022-12-11,28,US,bitcoin
+2022-12-18,25,US,bitcoin
+2022-12-25,23,US,bitcoin
+2023-01-01,22,US,bitcoin
+2023-01-08,24,US,bitcoin
+2023-01-15,28,US,bitcoin
+2023-01-22,26,US,bitcoin
+2023-01-29,25,US,bitcoin
+2023-02-05,22,US,bitcoin
+2023-02-12,23,US,bitcoin
+2023-02-19,22,US,bitcoin
+2023-02-26,20,US,bitcoin
+2023-03-05,23,US,bitcoin
+2023-03-12,33,US,bitcoin
+2023-03-19,34,US,bitcoin
+2023-03-26,27,US,bitcoin
+2023-04-02,25,US,bitcoin
+2023-04-09,31,US,bitcoin
+2023-04-16,26,US,bitcoin
+2023-04-23,25,US,bitcoin
+2023-04-30,22,US,bitcoin
+2023-05-07,24,US,bitcoin
+2023-05-14,21,US,bitcoin
+2023-05-21,20,US,bitcoin
+2023-05-28,19,US,bitcoin
+2023-06-04,22,US,bitcoin
+2023-06-11,21,US,bitcoin
+2023-06-18,25,US,bitcoin
+2023-06-25,23,US,bitcoin
+2023-07-02,23,US,bitcoin
+2023-07-09,24,US,bitcoin
+2023-07-16,21,US,bitcoin
+2023-07-23,19,US,bitcoin
+2023-07-30,19,US,bitcoin
+2023-08-06,19,US,bitcoin
+2023-08-13,22,US,bitcoin
+2023-08-20,22,US,bitcoin
+2023-08-27,21,US,bitcoin
+2023-09-03,18,US,bitcoin
+2023-09-10,17,US,bitcoin
+2023-09-17,16,US,bitcoin
+2023-09-24,16,US,bitcoin
+2023-10-01,18,US,bitcoin
+2023-10-08,17,US,bitcoin
+2023-10-15,21,US,bitcoin
+2023-10-22,32,US,bitcoin
+2023-10-29,24,US,bitcoin
+2023-11-05,26,US,bitcoin
+2023-11-12,25,US,bitcoin
+2023-11-19,24,US,bitcoin
+2023-11-26,23,US,bitcoin
+2023-12-03,38,US,bitcoin
+2023-12-10,29,US,bitcoin
+2023-12-17,27,US,bitcoin
+2023-12-24,26,US,bitcoin
+2023-12-31,35,US,bitcoin
+2024-01-07,56,US,bitcoin
+2024-01-14,30,US,bitcoin
+2024-01-21,26,US,bitcoin
+2024-01-28,23,US,bitcoin
+2024-02-04,24,US,bitcoin
+2024-02-11,35,US,bitcoin
+2024-02-18,28,US,bitcoin
+2024-02-25,57,US,bitcoin
+2024-03-03,72,US,bitcoin
+2024-03-10,63,US,bitcoin
+2024-03-17,47,US,bitcoin
+2024-03-24,43,US,bitcoin
+2024-03-31,37,US,bitcoin
+2024-04-07,39,US,bitcoin
+2024-04-14,52,US,bitcoin
+2024-04-21,34,US,bitcoin
+2024-04-28,32,US,bitcoin
+2024-05-05,28,US,bitcoin
+2024-05-12,28,US,bitcoin
+2024-05-19,29,US,bitcoin
+2024-05-26,23,US,bitcoin
+2024-06-02,27,US,bitcoin
+2024-06-09,25,US,bitcoin
+2024-06-16,24,US,bitcoin
+2024-06-23,24,US,bitcoin
+2024-06-30,25,US,bitcoin
+2024-07-07,26,US,bitcoin
+2024-07-14,28,US,bitcoin
+2024-07-21,32,US,bitcoin
+2024-07-28,30,US,bitcoin
+2024-08-04,42,US,bitcoin
+2024-08-11,26,US,bitcoin
+2024-08-18,26,US,bitcoin
+2024-08-25,25,US,bitcoin
+2024-09-01,23,US,bitcoin
+2024-09-08,23,US,bitcoin
+2024-09-15,23,US,bitcoin
+2024-09-22,23,US,bitcoin
+2024-09-29,22,US,bitcoin
+2024-10-06,21,US,bitcoin
+2024-10-13,22,US,bitcoin
+2024-10-20,21,US,bitcoin
+2024-10-27,28,US,bitcoin
+2024-11-03,43,US,bitcoin
+2024-11-10,91,US,bitcoin
+2024-11-17,74,US,bitcoin
+2024-11-24,60,US,bitcoin
+2024-12-01,71,US,bitcoin
+2024-12-08,54,US,bitcoin
+2024-12-15,60,US,bitcoin
+2024-12-22,48,US,bitcoin
+2024-12-29,40,US,bitcoin
+2021-12-26,70,US,weather
+2022-01-02,71,US,weather
+2022-01-09,60,US,weather
+2022-01-16,68,US,weather
+2022-01-23,65,US,weather
+2022-01-30,76,US,weather
+2022-02-06,48,US,weather
+2022-02-13,58,US,weather
+2022-02-20,68,US,weather
+2022-02-27,48,US,weather
+2022-03-06,66,US,weather
+2022-03-13,56,US,weather
+2022-03-20,56,US,weather
+2022-03-27,54,US,weather
+2022-04-03,57,US,weather
+2022-04-10,64,US,weather
+2022-04-17,56,US,weather
+2022-04-24,50,US,weather
+2022-05-01,56,US,weather
+2022-05-08,51,US,weather
+2022-05-15,59,US,weather
+2022-05-22,66,US,weather
+2022-05-29,60,US,weather
+2022-06-05,59,US,weather
+2022-06-12,61,US,weather
+2022-06-19,55,US,weather
+2022-06-26,57,US,weather
+2022-07-03,55,US,weather
+2022-07-10,52,US,weather
+2022-07-17,55,US,weather
+2022-07-24,57,US,weather
+2022-07-31,56,US,weather
+2022-08-07,51,US,weather
+2022-08-14,53,US,weather
+2022-08-21,50,US,weather
+2022-08-28,51,US,weather
+2022-09-04,60,US,weather
+2022-09-11,48,US,weather
+2022-09-18,53,US,weather
+2022-09-25,64,US,weather
+2022-10-02,43,US,weather
+2022-10-09,49,US,weather
+2022-10-16,50,US,weather
+2022-10-23,52,US,weather
+2022-10-30,52,US,weather
+2022-11-06,60,US,weather
+2022-11-13,54,US,weather
+2022-11-20,48,US,weather
+2022-11-27,55,US,weather
+2022-12-04,49,US,weather
+2022-12-11,64,US,weather
+2022-12-18,100,US,weather
+2022-12-25,70,US,weather
+2023-01-01,62,US,weather
+2023-01-08,58,US,weather
+2023-01-15,57,US,weather
+2023-01-22,61,US,weather
+2023-01-29,68,US,weather
+2023-02-05,48,US,weather
+2023-02-12,58,US,weather
+2023-02-19,69,US,weather
+2023-02-26,72,US,weather
+2023-03-05,60,US,weather
+2023-03-12,66,US,weather
+2023-03-19,65,US,weather
+2023-03-26,69,US,weather
+2023-04-02,72,US,weather
+2023-04-09,58,US,weather
+2023-04-16,63,US,weather
+2023-04-23,64,US,weather
+2023-04-30,56,US,weather
+2023-05-07,63,US,weather
+2023-05-14,58,US,weather
+2023-05-21,51,US,weather
+2023-05-28,51,US,weather
+2023-06-04,52,US,weather
+2023-06-11,65,US,weather
+2023-06-18,62,US,weather
+2023-06-25,65,US,weather
+2023-07-02,69,US,weather
+2023-07-09,62,US,weather
+2023-07-16,59,US,weather
+2023-07-23,58,US,weather
+2023-07-30,47,US,weather
+2023-08-06,57,US,weather
+2023-08-13,56,US,weather
+2023-08-20,59,US,weather
+2023-08-27,56,US,weather
+2023-09-03,49,US,weather
+2023-09-10,53,US,weather
+2023-09-17,51,US,weather
+2023-09-24,49,US,weather
+2023-10-01,49,US,weather
+2023-10-08,52,US,weather
+2023-10-15,46,US,weather
+2023-10-22,51,US,weather
+2023-10-29,49,US,weather
+2023-11-05,46,US,weather
+2023-11-12,47,US,weather
+2023-11-19,48,US,weather
+2023-11-26,51,US,weather
+2023-12-03,45,US,weather
+2023-12-10,46,US,weather
+2023-12-17,52,US,weather
+2023-12-24,52,US,weather
+2023-12-31,57,US,weather
+2024-01-07,88,US,weather
+2024-01-14,94,US,weather
+2024-01-21,60,US,weather
+2024-01-28,43,US,weather
+2024-02-04,48,US,weather
+2024-02-11,49,US,weather
+2024-02-18,42,US,weather
+2024-02-25,52,US,weather
+2024-03-03,49,US,weather
+2024-03-10,51,US,weather
+2024-03-17,51,US,weather
+2024-03-24,51,US,weather
+2024-03-31,57,US,weather
+2024-04-07,51,US,weather
+2024-04-14,47,US,weather
+2024-04-21,50,US,weather
+2024-04-28,52,US,weather
+2024-05-05,58,US,weather
+2024-05-12,54,US,weather
+2024-05-19,51,US,weather
+2024-05-26,55,US,weather
+2024-06-02,52,US,weather
+2024-06-09,45,US,weather
+2024-06-16,50,US,weather
+2024-06-23,51,US,weather
+2024-06-30,54,US,weather
+2024-07-07,58,US,weather
+2024-07-14,46,US,weather
+2024-07-21,47,US,weather
+2024-07-28,51,US,weather
+2024-08-04,53,US,weather
+2024-08-11,41,US,weather
+2024-08-18,40,US,weather
+2024-08-25,45,US,weather
+2024-09-01,42,US,weather
+2024-09-08,40,US,weather
+2024-09-15,39,US,weather
+2024-09-22,55,US,weather
+2024-09-29,38,US,weather
+2024-10-06,45,US,weather
+2024-10-13,37,US,weather
+2024-10-20,33,US,weather
+2024-10-27,42,US,weather
+2024-11-03,41,US,weather
+2024-11-10,37,US,weather
+2024-11-17,46,US,weather
+2024-11-24,43,US,weather
+2024-12-01,42,US,weather
+2024-12-08,44,US,weather
+2024-12-15,43,US,weather
+2024-12-22,46,US,weather
+2024-12-29,51,US,weather

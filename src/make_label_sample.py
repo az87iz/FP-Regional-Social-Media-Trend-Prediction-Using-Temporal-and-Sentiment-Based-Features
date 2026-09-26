@@ -35,10 +35,10 @@ import sys
 import numpy as np
 import pandas as pd
 
-COMMENTS_CSV = "yt_comments.csv"
-SCORED_CSV   = "yt_comments_scored.csv"
-SAMPLE_CSV   = "label_sample.csv"
-ANSWERS_CSV  = "label_answers.csv"
+COMMENTS_CSV = "data/raw/yt_comments.csv"
+SCORED_CSV   = "data/raw/yt_comments_scored.csv"
+SAMPLE_CSV   = "data/labels/label_sample.csv"
+ANSWERS_CSV  = "data/labels/label_answers.csv"
 
 N_PER_LANGUAGE = 50       # 50 Arabic (SA) and 50 English (US)
 SEED           = 42       # fixed so the same sample can be drawn again

@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+scikit-learn==1.5.2
+xgboost
+joblib
+matplotlib
+seaborn
+pytrends
+google-api-python-client
+#sentiment scoring, ran in colab with a gpu
+transformers
+torch

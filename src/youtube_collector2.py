@@ -24,8 +24,8 @@ yt_video_topics.csv.
 Usage:
     $env:YOUTUBE_API_KEY="..."
     $env:PYTHONUTF8="1"
-    python youtube_collector2.py              run or resume
-    python youtube_collector2.py "--status"   progress, uses no quota
+    python src/youtube_collector2.py              run or resume
+    python src/youtube_collector2.py "--status"   progress, uses no quota
 
 If it stops at the daily quota, run it again the next day and it resumes.
 """

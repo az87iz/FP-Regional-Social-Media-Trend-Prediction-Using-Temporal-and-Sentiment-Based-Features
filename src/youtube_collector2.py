@@ -40,10 +40,10 @@ from datetime import datetime, timezone
 
 import pandas as pd
 
-COMMENTS_CSV = "yt_comments.csv"
-STATE_JSON   = "yt_collector_state.json"
-TOPICS_CSV   = "yt_video_topics.csv"
-LOG_CSV      = "yt_collection_log_round2.csv"
+COMMENTS_CSV = "data/raw/yt_comments.csv"
+STATE_JSON   = "data/raw/yt_collector_state.json"
+TOPICS_CSV   = "data/raw/yt_video_topics.csv"
+LOG_CSV      = "data/raw/yt_collection_log_round2.csv"
 
 API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 

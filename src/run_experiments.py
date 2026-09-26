@@ -22,7 +22,7 @@ How it is set up:
   F1 is reported as well.
 - A gain counts if DeLong's p < 0.05 and it is at least 0.02 AUC.
 
-Run:  python run_experiments.py
+Run:  python src/run_experiments.py
 """
 
 import sys

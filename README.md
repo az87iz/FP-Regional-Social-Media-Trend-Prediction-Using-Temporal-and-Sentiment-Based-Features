@@ -57,6 +57,8 @@ The project predicts whether a topic's weekly Google Trends search growth will b
   python src/build_matrix.py
   python src/run_experiments.py
   python src/per_region_tests.py
+  python src/arima_baseline.py
+  python src/lead_lag_features.py
   python src/diagnose_change.py
   python src/train_final_model.py
   python src/score_labels.py

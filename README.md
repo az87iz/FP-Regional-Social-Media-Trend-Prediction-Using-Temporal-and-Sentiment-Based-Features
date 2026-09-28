@@ -7,7 +7,7 @@ The project predicts whether a topic's weekly Google Trends search growth will b
 ## Constraints
 
 * All commands must be run from the root folder of the repository.
-* The YouTube comment text is not included, since it belongs to the people who wrote it. The data collection and sentiment scoring steps (steps 1 to 3 of the pipeline) therefore cannot be rerun from this repository alone. Their outputs are included in the `data` folder, so every step from building the feature matrix onwards runs without them.
+* The YouTube comment text is not included, to respect the privacy of the users. The data collection and sentiment scoring steps (steps 1 to 3 of the pipeline) therefore cannot be rerun from this repository alone. Their outputs are included in the `data` folder, so every step from building the feature matrix onwards runs without them.
 * Collecting new comments needs a YouTube Data API key, and scoring them needs a GPU. Neither is needed to reproduce the results.
 * Development was done in Google Colab (Linux, Python 3.13) for the GPU steps and in Visual Studio Code on Windows with Python 3.12 for the rest.
 

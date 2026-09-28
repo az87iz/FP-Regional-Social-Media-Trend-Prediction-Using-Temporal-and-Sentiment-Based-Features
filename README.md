@@ -133,6 +133,6 @@ These steps are not needed to reproduce the results.
 
 ## Main Results
 
-* Temporal features alone reach ROC-AUC 0.588 (logistic regression), 0.586 (random forest) and 0.545 (XGBoost), against 0.517 for persistence.
+* Temporal features alone reach ROC-AUC 0.588 (logistic regression), 0.586 (random forest) and ~0.545 (XGBoost), against 0.517 for persistence.
 * Adding sentiment features gives no established gain in either region. Every 95% bootstrap interval on the gain includes zero.
 * XLM-T agreed with the hand labels on 0.674 of comments in both languages.

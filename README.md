@@ -1,6 +1,6 @@
 # Beyond the Global Average: Regional Social Media Trend Prediction Using Temporal and Sentiment-Based Features
 
-CM3070 Final Project, BSc Computer Science (University of London). Abdulaziz AlHasan.
+CM3070 Final Project, BSc Computer Science (University of London).
 
 The project predicts whether a topic's weekly Google Trends search growth will be in the top 20% for a region in the following week. It compares temporal features on their own with temporal features plus sentiment from YouTube comments, scored with XLM-T, for Saudi Arabia and the United States. Bahrain and the UAE are included in the cross-regional diffusion analysis.
 

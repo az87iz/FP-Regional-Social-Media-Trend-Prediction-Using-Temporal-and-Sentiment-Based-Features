@@ -11,3 +11,4 @@ google-api-python-client
 #sentiment scoring, ran in colab with a gpu
 transformers
 torch
+statsmodels

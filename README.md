@@ -31,7 +31,7 @@ The project predicts whether a topic's weekly Google Trends search growth will b
   git clone https://github.com/az87iz/cm3070-regional-trend-prediction.git fp
   cd fp
   ```
-* Alternatively, download the ZIP from GitHub and extract it to a short path such as `C:\fp`.
+* Alternatively, download the ZIP from GitHub and extract it.
 
 ### 2. Create Environment with Dependencies
 

@@ -87,6 +87,8 @@ The project predicts whether a topic's weekly Google Trends search growth will b
 * `build_matrix.py`: 613 rows.
 * `run_experiments.py`: 601 rows and 509 test predictions. Experiment 1 ROC-AUC is 0.588 for logistic regression, 0.586 for random forest and 0.545 for XGBoost. The persistence baseline is 0.517.
 * `per_region_tests.py`: no gain from sentiment features meets all three criteria in either region.
+* `arima_baseline.py`: ARIMA ROC-AUC of 0.525, below the Experiment 1 classifiers, with velocity RMSE 0.582 against 0.503 for a no-change forecast.
+* `lead_lag_features.py`: no lead/lag feature gives an established gain. Saudi logistic regression drops from 0.619 to 0.556.
 * `score_labels.py`: accuracy of 0.674 in both Arabic and English, and 28 of 46 Saudi-channel comments showing signs of Gulf origin.
 * `make_figures.py`: six figures written to the `figures` folder.
 

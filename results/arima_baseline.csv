@@ -1,0 +1,4 @@
+model,region,n,roc_auc,rmse_velocity,rmse_no_change
+arima,all,509,0.5252,0.5818,0.5031
+arima,SA,170,0.5125,,
+arima,US,339,0.5364,,
